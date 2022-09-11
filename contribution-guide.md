@@ -19,6 +19,15 @@ If you want to use GIT CLI, Then follow along!
 * Fork the repository  
 ![fork repo](https://user-images.githubusercontent.com/75534912/189517485-d55527ac-9691-4a06-ab4c-d062eb9f2b0f.jpg)
 
-* Clone the repository in your local directoy using **Git bash Terminal**, command to clone the repo `git clone <copied url>`
+* copy the url and clone the repository in your local directoy using **Git bash Terminal**, command to clone the repo `git clone <copied url>`
+![2](https://user-images.githubusercontent.com/75534912/189518091-a59611bb-e9de-4c48-ad41-fbc420f9c672.jpg)
 * `cd Open-source-practice-and-resources` use this command in git bash to naviage to the directory
-* 
+* Make sure to create new branch by hitting `git checkout -b <your-branch-name>` command
+* then, Open README.md in text editor:
+  * In notepad => `notepad.README.md`
+  * In VsCode => `code README.md`
+
+**Then platform is all yours, add resources/content you want but in a good way don't rush, if you find any difficulty ask in the server for help.**
+
+Don't know how to write in GitHub README.md file, have a look on link 👉	
+[GitHub Writting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
