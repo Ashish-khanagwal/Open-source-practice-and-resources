@@ -42,45 +42,65 @@ To add resources or to contribute read the [Cotribution-guide](https://github.co
   
 ## Index
 
-- [CSS](#css)
+- [CS-fundamentals](#cs-fundamentals)
+- [Frontend](#frontend)
+  * [HTML](#html)
+  * [CSS](#css)
+  * [JavaScript](#javascript)
+  * [React](#react)
 - [WEB-3](#web-3)
+  
+---
+  
+## CS-fundamentals  
+- :video_camera: [CS50 Funamentals](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
 
 ---
   
-## CSS
+## FrontEnd
+
+  - :video_camera: [Full Course](https://www.youtube.com/watch?v=zJSY8tbf_ys)
+
+  ### HTML
   
-- :books: [CSS Tutorial on W3Schools](https://www.w3schools.com/css/)
-- :bulb: [30SecondsOfCode CSS Snippet](https://www.30secondsofcode.org/css/p/1)
-- :books: [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- :books: [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-- :hammer_and_wrench: [CSS Framework - Bootstrap](https://getbootstrap.com/)
-- :hammer_and_wrench: [CSS Framework - Bulma](https://bulma.io/)
-- :hammer_and_wrench: [CSS Framework - Materialize](https://materializecss.com/)
-- :hammer_and_wrench: [CSS Framework - Tailwind CSS](https://tailwindcss.com/)
-- :video_camera: [CSS Flexbox - Wes Bos](https://flexbox.io/)
-- :video_camera: [CSS Grid - Wes Bos](https://cssgrid.io/)
-- :hammer_and_wrench: [CSS Box-Shadow Generator](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders/Box-shadow_generator)
-- :hammer_and_wrench: [CSS Gradient Generator](https://cssgradient.io/)
-- :hammer_and_wrench: [CSS Animated Gradient Background Generator](https://animated-gradient-background-generator.netlify.app/)
-- :hammer_and_wrench: [CSS Section Separator Generator](https://wweb.dev/resources/css-separator-generator/)
-- :bulb: [CSS Grid - A simple visual cheatsheet by Malven](https://grid.malven.co/)
-- :bulb: [CSS Flex - A simple visual cheatsheet by Malven](https://flexbox.malven.co/)
-- :bulb: [CSSBattle](https://cssbattle.dev/)
-- :books: [Learning Advanced CSS and HTML](https://learn.shayhowe.com/advanced-html-css/)
-- :bulb: [Style Stage - A modern CSS showcase styled by community contributions](https://stylestage.dev/)
-- :video_camera: [Tailwind CSS Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=4wGmylafgM4)
-- :video_camera: [Introduction to CSS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
-- :video_camera: [CSS Units px, rem, em, vh, vw / Absolute Vs Relative Units](https://nados.io/video/css-units-px-rem-em-vh-vw-absolute-vs-relative-units)
-- :hammer_and_wrench: [CSS Selector Generator](https://github.com/antonmedv/finder)
-- :bulb: [CSS Cheat Sheet](https://www.hostinger.com/tutorials/css-cheat-sheet)
-- :books: [CSS Tutorial - Learn CSS in Detail](https://www.scaler.com/topics/css/)
-- :hammer_and_wrench: [CSS Multicolor Gradient](https://gradienta.io/)
-- :bulb: [CSS Grid Garden](https://cssgridgarden.com/)
+  - :file_folder: [official documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  - :books: [w3schools HTML](https://www.w3schools.com/tags/)
+  - :video_camera: [HTML full course](https://www.youtube.com/watch?v=pQN-pnXPaVg)
+
+  ### CSS
   
----
+  - :video_camera: [Introduction to CSS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
+  - :books: [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+  - :books: [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+  - :hammer_and_wrench: [CSS Framework - Bootstrap](https://getbootstrap.com/)
+  - :hammer_and_wrench: [CSS Framework - Tailwind CSS](https://tailwindcss.com/)
+  - :hammer_and_wrench: [CSS Gradient Generator](https://cssgradient.io/)
+  - :bulb: [CSS Grid - A simple visual cheatsheet by Malven](https://grid.malven.co/)
+  - :bulb: [CSS Flex - A simple visual cheatsheet by Malven](https://flexbox.malven.co/)
+  - :bulb: [CSSBattle](https://cssbattle.dev/)
+  - :bulb: [Style Stage - A modern CSS showcase styled by community contributions](https://stylestage.dev/)
+  - :video_camera: [Tailwind CSS Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=4wGmylafgM4)
+  - :video_camera: [CSS Units px, rem, em, vh, vw / Absolute Vs Relative Units](https://nados.io/video/css-units-px-rem-em-vh-vw-absolute-vs-relative-units)
+  - :hammer_and_wrench: [CSS Selector Generator](https://github.com/antonmedv/finder)
+  - :bulb: [CSS Cheat Sheet](https://www.hostinger.com/tutorials/css-cheat-sheet)
+  - :books: [CSS Tutorial - Learn CSS in Detail](https://www.scaler.com/topics/css/)
   
+  ### JavaScript
+  
+  - :file_folder: [JavaScript official documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  - :video_camera: [full course](https://www.youtube.com/watch?v=lI1ae4REbFM)
+  
+ ### React
+ 
+ - :file_folder: [React Documentation](https://reactjs.org/docs/getting-started.html)
+ - :video_camera: [Full course](https://www.youtube.com/watch?v=u6gSSpfsoOQ)
+ 
+---  
+
 ## WEB-3
   
 - :video_camera: [Learn Web-3](https://learnweb3.io/)
 - :bulb: [Francesco's GitHub repo](https://github.com/FrancescoXX/free-Web3-resources)
 - :books: [Best roadmap](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/#d12f)
+
+**Don't forget to give a star :star: to the repository, join the discord server for more updates**
