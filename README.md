@@ -42,6 +42,7 @@ To add resources or to contribute read the [Cotribution-guide](https://github.co
   
 ## Index
 
+- [Android-Development](#android-development) 
 - [CS-fundamentals](#cs-fundamentals)
 - [Frontend](#frontend)
   * [HTML](#html)
@@ -51,7 +52,33 @@ To add resources or to contribute read the [Cotribution-guide](https://github.co
 - [WEB-3](#web-3)
   
 ---
+
+## Android Development
+- :books: [Android Roadmap.](https://blog.commclassroom.org/android-developer-roadmap-2022)
+- :video_camera: [Setting up Android Studio.](https://www.youtube.com/watch?v=0zx_eFyHRU0)
+- :video_camera:[Introduction to Android Studio.](https://www.youtube.com/watch?v=4M0hNugPJV8)
+- :file_folder:[Kotlin Documentation.](https://kotlinlang.org/docs/getting-started.html)
+- :video_camera:[Kotlin Beginner to pro.](https://youtube.com/playlist?list=PLQkwcJG4YTCRSQikwhtoApYs9ij_Hc5Z9) 
+- :video_camera:[Android Funadmentals.](https://youtube.com/playlist?list=PLQkwcJG4YTCTq1raTb5iMuxnEB06J1VHX)
+- :video_camera:[CS194A Android Development.](https://www.youtube.com/playlist?list=PL7NYbSE8uaBDcLkbXsQADdvBnVbavonGn)
+- :file_folder:[Networking: Retrofit.](https://square.github.io/retrofit/)
+- :video_camera:[Networking: Retrofit.](https://www.youtube.com/watch?v=k2N3EoZI3eU&list=PL7NYbSE8uaBDcLkbXsQADdvBnVbavonGn&index=7&t=303s)
+- :video_camera:[Retrofit crash course.](https://www.youtube.com/watch?v=t6Sql3WMAnk)
+- :video_camera:[Android Architecture.](https://www.youtube.com/watch?v=JuBpWzEoDw4&list=PL7NYbSE8uaBDcLkbXsQADdvBnVbavonGn&index=8)
+- :file_folder:[Android Architecture.](https://developer.android.com/topic/architecture)
+- :video_camera:[MVVM Architecture.](https://youtube.com/playlist?list=PLrnPJCHvNZuDihTpkRs6SpZhqgBqPU118)
+- :video_camera:[Understanding dependency injection](https://youtu.be/yunF2PgJlHU)
+- :video_camera:[Dagger-Hilt Guide.](https://youtu.be/bbMsuI2p1DQ)
+- :video_camera:[Firebase.](https://www.youtube.com/playlist?list=PLS1QulWo1RIbKsL9GqxOLbToLNFFQFJW_)
+- Get started with projects:
+  - :video_camera: [Yelp Clone](https://youtube.com/playlist?list=PL7NYbSE8uaBBPVU8RPRKuah_hUFQWCMLR)
+  - :video_camera: [Tip Calculator](https://youtube.com/playlist?list=PL7NYbSE8uaBCMVBVg6cskGzdYguj3CUP-)
+  - :video_camera: [My maps Application](https://youtube.com/playlist?list=PL7NYbSE8uaBCSkZum6Z88RvjiXrTBpjT2)
+  - :video_camera: [Currency converter app with MVVM architecture.](https://youtu.be/ct5etYgB5pQ)
+  - :video_camera: [Spotify clone with MVVM and Firebase](https://youtube.com/playlist?list=PLQkwcJG4YTCT-lTlkOmE-PpRkuyNXq6sW)
+- :bulb:[Some open source kotlin apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps)
   
+---  
 ## CS-fundamentals  
 - :video_camera: [CS50 Funamentals](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
 
