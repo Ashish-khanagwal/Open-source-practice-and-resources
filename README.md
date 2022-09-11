@@ -1,10 +1,11 @@
-# :wave:  Code For Community welcome's you
+# :wave: Code For Community welcome's you
 
 <p align="center"><img width="250px" src="https://user-images.githubusercontent.com/75534912/189521996-6646d03b-79f7-4abc-8838-28cfb11f9a95.png"></p>
 
 # Gateway to Open Source | Best Programming Resources
 
 ## Agenda:rocket:
+
 The Community's aim from this repository is not just providing best resources/content to the community but also main focus is to <b>motivate/encourage beginner who've never contributed to Open Source, to get started with Open Source</b> in a easy way with friendy projects and with full support</p>
 
 ### **Join Community :people_holding_hands: & Connect with me :handshake:**
@@ -17,15 +18,15 @@ The Community's aim from this repository is not just providing best resources/co
 </div>
 
 ## Contribution Guide :point_down:
-  
-To add resources or to contribute read the [Cotribution-guide](https://github.com/Ashish-khanagwal/Open-source-practice-and-resources/blob/main/contribution-guide.md) 
-  
+
+To add resources or to contribute read the [Cotribution-guide](https://github.com/Ashish-khanagwal/Open-source-practice-and-resources/blob/main/contribution-guide.md)
+
 **Add resources in alphabetical order and follow the contribution guidelines**
-  
----  
-  
+
+---
+
 **Use these emoji's to list resources in good manner**
-  
+
 :file_folder: Documentation
 
 :speaker: Podcast
@@ -38,27 +39,30 @@ To add resources or to contribute read the [Cotribution-guide](https://github.co
 
 :bulb: Other/Suggestions
 
----  
-  
+---
+
 ## Index
 
-- [Android-Development](#android-development) 
+- [Android-Development](#android-development)
 - [CS-fundamentals](#cs-fundamentals)
 - [Frontend](#frontend)
-  * [HTML](#html)
-  * [CSS](#css)
-  * [JavaScript](#javascript)
-  * [React](#react)
+  - [HTML](#html)
+  - [CSS](#css)
+  - [JavaScript](#javascript)
+  - [React](#react)
+  - [Nextjs](#next)
+  - [Tailwindcss](#tailwind-css)
 - [WEB-3](#web-3)
-  
+
 ---
 
 ## Android Development
+
 - :books: [Android Roadmap.](https://blog.commclassroom.org/android-developer-roadmap-2022)
 - :video_camera: [Setting up Android Studio.](https://www.youtube.com/watch?v=0zx_eFyHRU0)
 - :video_camera:[Introduction to Android Studio.](https://www.youtube.com/watch?v=4M0hNugPJV8)
 - :file_folder:[Kotlin Documentation.](https://kotlinlang.org/docs/getting-started.html)
-- :video_camera:[Kotlin Beginner to pro.](https://youtube.com/playlist?list=PLQkwcJG4YTCRSQikwhtoApYs9ij_Hc5Z9) 
+- :video_camera:[Kotlin Beginner to pro.](https://youtube.com/playlist?list=PLQkwcJG4YTCRSQikwhtoApYs9ij_Hc5Z9)
 - :video_camera:[Android Funadmentals.](https://youtube.com/playlist?list=PLQkwcJG4YTCTq1raTb5iMuxnEB06J1VHX)
 - :video_camera:[CS194A Android Development.](https://www.youtube.com/playlist?list=PL7NYbSE8uaBDcLkbXsQADdvBnVbavonGn)
 - :file_folder:[Networking: Retrofit.](https://square.github.io/retrofit/)
@@ -69,7 +73,7 @@ To add resources or to contribute read the [Cotribution-guide](https://github.co
 - :video_camera:[MVVM Architecture.](https://youtube.com/playlist?list=PLrnPJCHvNZuDihTpkRs6SpZhqgBqPU118)
 - :video_camera:[Understanding dependency injection](https://youtu.be/yunF2PgJlHU)
 - :video_camera:[Dagger-Hilt Guide.](https://youtu.be/bbMsuI2p1DQ)
-- :video_camera:[Firebase.](https://www.youtube.com/playlist?list=PLS1QulWo1RIbKsL9GqxOLbToLNFFQFJW_)
+- :video*camera:[Firebase.](https://www.youtube.com/playlist?list=PLS1QulWo1RIbKsL9GqxOLbToLNFFQFJW*)
 - Get started with projects:
   - :video_camera: [Yelp Clone](https://youtube.com/playlist?list=PL7NYbSE8uaBBPVU8RPRKuah_hUFQWCMLR)
   - :video_camera: [Tip Calculator](https://youtube.com/playlist?list=PL7NYbSE8uaBCMVBVg6cskGzdYguj3CUP-)
@@ -77,57 +81,67 @@ To add resources or to contribute read the [Cotribution-guide](https://github.co
   - :video_camera: [Currency converter app with MVVM architecture.](https://youtu.be/ct5etYgB5pQ)
   - :video_camera: [Spotify clone with MVVM and Firebase](https://youtube.com/playlist?list=PLQkwcJG4YTCT-lTlkOmE-PpRkuyNXq6sW)
 - :bulb:[Some open source kotlin apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps)
-  
----  
-## CS-fundamentals  
+
+---
+
+## CS-fundamentals
+
 - :video_camera: [CS50 Funamentals](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
 
 ---
-  
+
 ## FrontEnd
 
-  - :video_camera: [Full Course](https://www.youtube.com/watch?v=zJSY8tbf_ys)
+- :video_camera: [Full Course](https://www.youtube.com/watch?v=zJSY8tbf_ys)
 
-  ### HTML
-  
-  - :file_folder: [official documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  - :books: [w3schools HTML](https://www.w3schools.com/tags/)
-  - :video_camera: [HTML full course](https://www.youtube.com/watch?v=pQN-pnXPaVg)
+### HTML
 
-  ### CSS
-  
-  - :video_camera: [Introduction to CSS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
-  - :books: [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-  - :books: [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-  - :hammer_and_wrench: [CSS Framework - Bootstrap](https://getbootstrap.com/)
-  - :hammer_and_wrench: [CSS Framework - Tailwind CSS](https://tailwindcss.com/)
-  - :hammer_and_wrench: [CSS Gradient Generator](https://cssgradient.io/)
-  - :bulb: [CSS Grid - A simple visual cheatsheet by Malven](https://grid.malven.co/)
-  - :bulb: [CSS Flex - A simple visual cheatsheet by Malven](https://flexbox.malven.co/)
-  - :bulb: [CSSBattle](https://cssbattle.dev/)
-  - :bulb: [Style Stage - A modern CSS showcase styled by community contributions](https://stylestage.dev/)
-  - :video_camera: [Tailwind CSS Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=4wGmylafgM4)
-  - :video_camera: [CSS Units px, rem, em, vh, vw / Absolute Vs Relative Units](https://nados.io/video/css-units-px-rem-em-vh-vw-absolute-vs-relative-units)
-  - :hammer_and_wrench: [CSS Selector Generator](https://github.com/antonmedv/finder)
-  - :bulb: [CSS Cheat Sheet](https://www.hostinger.com/tutorials/css-cheat-sheet)
-  - :books: [CSS Tutorial - Learn CSS in Detail](https://www.scaler.com/topics/css/)
-  
-  ### JavaScript
-  
-  - :file_folder: [JavaScript official documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  - :video_camera: [full course](https://www.youtube.com/watch?v=lI1ae4REbFM)
-  
- ### React
- 
- - :file_folder: [React Documentation](https://reactjs.org/docs/getting-started.html)
- - :video_camera: [Full course](https://www.youtube.com/watch?v=u6gSSpfsoOQ)
- 
----  
+- :file_folder: [official documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- :books: [w3schools HTML](https://www.w3schools.com/tags/)
+- :video_camera: [HTML full course](https://www.youtube.com/watch?v=pQN-pnXPaVg)
+
+### CSS
+
+- :video_camera: [Introduction to CSS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
+- :books: [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- :books: [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- :hammer_and_wrench: [CSS Framework - Bootstrap](https://getbootstrap.com/)
+- :hammer_and_wrench: [CSS Framework - Tailwind CSS](https://tailwindcss.com/)
+- :hammer_and_wrench: [CSS Gradient Generator](https://cssgradient.io/)
+- :bulb: [CSS Grid - A simple visual cheatsheet by Malven](https://grid.malven.co/)
+- :bulb: [CSS Flex - A simple visual cheatsheet by Malven](https://flexbox.malven.co/)
+- :bulb: [CSSBattle](https://cssbattle.dev/)
+- :bulb: [Style Stage - A modern CSS showcase styled by community contributions](https://stylestage.dev/)
+- :video_camera: [Tailwind CSS Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=4wGmylafgM4)
+- :video_camera: [CSS Units px, rem, em, vh, vw / Absolute Vs Relative Units](https://nados.io/video/css-units-px-rem-em-vh-vw-absolute-vs-relative-units)
+- :hammer_and_wrench: [CSS Selector Generator](https://github.com/antonmedv/finder)
+- :bulb: [CSS Cheat Sheet](https://www.hostinger.com/tutorials/css-cheat-sheet)
+- :books: [CSS Tutorial - Learn CSS in Detail](https://www.scaler.com/topics/css/)
+
+### JavaScript
+
+- :file_folder: [JavaScript official documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- :video_camera: [full course](https://www.youtube.com/watch?v=lI1ae4REbFM)
+
+### React
+
+- :file_folder: [React Documentation](https://reactjs.org/docs/getting-started.html)
+- :video_camera: [Full course](https://www.youtube.com/watch?v=u6gSSpfsoOQ)
+
+---
 
 ## WEB-3
-  
+
 - :video_camera: [Learn Web-3](https://learnweb3.io/)
 - :bulb: [Francesco's GitHub repo](https://github.com/FrancescoXX/free-Web3-resources)
 - :books: [Best roadmap](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/#d12f)
+
+## Nextjs
+
+- :file_folder :[Next.JS Documentation](https://nextjs.org/docs)
+
+## Tailwind css
+
+- :file_folder :[Tailwind Css Documentation](https://tailwindcss.com/docs/installation)
 
 **Don't forget to give a star :star: to the repository, join the discord server for more updates**
