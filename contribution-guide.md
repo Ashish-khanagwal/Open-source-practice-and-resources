@@ -14,7 +14,48 @@ Here are some rules to follow when adding a resource:
 
 
 # How to Contirbute
-If you want to use GIT CLI, Then follow along!
+
+## By using GitHub GUI
+
+ 1. Fork the repository  
+
+ ![fork repo](https://user-images.githubusercontent.com/75534912/189517485-d55527ac-9691-4a06-ab4c-d062eb9f2b0f.jpg)
+
+ 2. Edit the README.md file
+
+ ![6](https://user-images.githubusercontent.com/75534912/189521460-97bf6f77-6e72-4507-aea0-7dee9deb1630.jpg)
+
+ 3. Find the correct category for your resource. For example: If it's a JavaScript tutorial, you need to add it under Javascript. If the category does not exist, you can add it under Index. Resources are added in alphabetical order, except for Other which should stay at last.
+
+ 4. To add a new category, add a list item with the name of the category and the URL to it (hash of the slug of the name). For example:
+
+```markdown
+- [New Category](#new-category)
+```
+
+ 5. Once you find or add the correct category, add the new resource at the end of the list. It should have the title and the link to the resource. For example:
+ 
+ ```markdown
+ - [Web-3](https://learnweb3.io/)
+ ```
+
+You also have to add an emoji before the file name that represents what the resource is. Here are the list of emojis we use:
+
+| Emoji        | Description                                      | Emoji Key       |
+|--------------|--------------------------------------------------|-----------------|
+|:books:       |Blogs/List of tutorials                           |`:books:`        |
+|:file_folder: |Documentation                                     |`:file_folder:`  |
+|:speaker:     |Podcast                                           |`:speaker:`      |
+|:hammer_and_wrench:      |Tools/Softwares/Roadmaps               |`:hammer_and_wrench:`|
+|:video_camera:|Video Resource (Youtube, video course, etc...)    |`:video_camera:` |
+|:bulb:        |Ideas/Suggestions                                 |`:bulb:`         |
+
+* Once you're done, scroll to the bottom of the list to commit the change. Make sure the title of the commit is relevant. For example: Added How to Contribute under New Category.
+
+* Follow the steps to create pull request
+---
+
+## If you want to use GIT CLI, Then follow along!
 
 * Fork the repository  
 ![fork repo](https://user-images.githubusercontent.com/75534912/189517485-d55527ac-9691-4a06-ab4c-d062eb9f2b0f.jpg)
