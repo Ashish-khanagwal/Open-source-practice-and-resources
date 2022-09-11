@@ -20,7 +20,7 @@ The Community's aim from this repository is not just providing best resources/co
 
 ---
 
-**[⬆ Back to Index](#content)**
+**[⬆ Back to Index](#Content)**
 
 ## Android
 
