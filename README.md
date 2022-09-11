@@ -1,4 +1,9 @@
-# :wave: Gateway to Open Source | Best Programming Resources 
+# :wave:  Code For Community welcome's you
+
+<p align="center"><img width="250px" src="https://user-images.githubusercontent.com/75534912/189521996-6646d03b-79f7-4abc-8838-28cfb11f9a95.png"></p>
+
+# Gateway to Open Source | Best Programming Resources
+
 ## Agenda:rocket:
 The Community's aim from this repository is not just providing best resources/content to the community but also main focus is to <b>motivate/encourage beginner who've never contributed to Open Source, to get started with Open Source</b> in a easy way with friendy projects and with full support</p>
 
@@ -37,14 +42,9 @@ To add resources or to contribute read the [Cotribution-guide](https://github.co
   
 ## Index
 
-- [Android](#android)
 - [CSS](#css)
 - [WEB-3](#web-3)
 
----
-
-## Android
-  
 ---
   
 ## CSS
@@ -82,3 +82,5 @@ To add resources or to contribute read the [Cotribution-guide](https://github.co
 ## WEB-3
   
 - :video_camera: [Learn Web-3](https://learnweb3.io/)
+- :bulb: [Francesco's GitHub repo](https://github.com/FrancescoXX/free-Web3-resources)
+- :books: [Best roadmap](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/#d12f)
