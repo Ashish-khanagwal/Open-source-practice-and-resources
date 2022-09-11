@@ -102,9 +102,10 @@ To add resources or to contribute read the [Cotribution-guide](https://github.co
 - :video_camera:[Understanding dependency injection](https://youtu.be/yunF2PgJlHU)
 - :video_camera:[Dagger-Hilt Guide.](https://youtu.be/bbMsuI2p1DQ)
 - :video_camera:[Firebase.](https://www.youtube.com/playlist?list=PLS1QulWo1RIbKsL9GqxOLbToLNFFQFJW_)
-- Get Started with projects:
+- Get started with projects:
   - :video_camera: [Yelp Clone](https://youtube.com/playlist?list=PL7NYbSE8uaBBPVU8RPRKuah_hUFQWCMLR)
   - :video_camera: [Tip Calculator](https://youtube.com/playlist?list=PL7NYbSE8uaBCMVBVg6cskGzdYguj3CUP-)
   - :video_camera: [My maps Application](https://youtube.com/playlist?list=PL7NYbSE8uaBCSkZum6Z88RvjiXrTBpjT2)
   - :video_camera: [Currency converter app with MVVM architecture.](https://youtu.be/ct5etYgB5pQ)
   - :video_camera: [Spotify clone with MVVM and Firebase](https://youtube.com/playlist?list=PLQkwcJG4YTCT-lTlkOmE-PpRkuyNXq6sW)
+- :bulb:[Some open source kotlin apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps)
