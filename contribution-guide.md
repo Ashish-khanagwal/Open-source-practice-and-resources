@@ -31,3 +31,18 @@ If you want to use GIT CLI, Then follow along!
 
 Don't know how to write in GitHub README.md file, have a look on link 👉	
 [GitHub Writting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+* After adding resources save the file in text editor. navigate to your **Git bash terminal** and hit command `git add .` to add all your changes
+* now, you have to commit the changes. so, use `git commit -m "any-name"`
+
+![3](https://user-images.githubusercontent.com/75534912/189518667-877d00e6-c3ed-4a12-8d04-f38790dd873c.jpg)
+
+* Now, its time to push your changes => `git push origin <your-branch-name>`
+
+![4](https://user-images.githubusercontent.com/75534912/189518703-d2219677-57f0-4148-95fd-fc907c45b935.jpg)
+
+* come to the repository's home page you'll, and hit on Compare and Pull request.
+
+![5](https://user-images.githubusercontent.com/75534912/189518817-166a2a12-eb70-422a-995b-a613968b4c2b.jpg)
+
+* And then, some checks will perform by the GitHub and if you sucessfully did it, your pull request get submitted and then, maintainers will review your request and will merge it.
