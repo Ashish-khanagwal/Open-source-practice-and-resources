@@ -4,7 +4,7 @@
 <img width="250px" src="https://user-images.githubusercontent.com/75534912/189277507-c803bab3-82a5-4501-8b91-93fed08f206b.png"/>
 </a>
 </p>
-<h1 align="center">Best Programming Resources | Gateway to Open Source</h1>
+<h1 align="center">Gateway to Open Source | Best Programming Resources </h1>
 <h2 align="center">Agenda:rocket:</h2>
 <p>The Community's aim from this repository is not just providing best resources/content to the community but also main focus is to <b>motivate/encourage beginner who've never contributed to Open Source, to get started with Open Source</b> in a easy way with friendy projects and with full support</p>
 
