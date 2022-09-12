@@ -18,7 +18,7 @@ The Community's aim from this repository is not just providing best resources/co
 
 ## Contribution Guide :point_down:
   
-To add resources or to contribute read the [Cotribution-guide](https://github.com/Ashish-khanagwal/Open-source-practice-and-resources/blob/main/contribution-guide.md) 
+To add resources or to contribute read the [Contribution-guide](https://github.com/Ashish-khanagwal/Open-source-practice-and-resources/blob/main/contribution-guide.md) 
   
 **Add resources in alphabetical order and follow the contribution guidelines**
   
@@ -59,7 +59,7 @@ To add resources or to contribute read the [Cotribution-guide](https://github.co
 - :video_camera:[Introduction to Android Studio.](https://www.youtube.com/watch?v=4M0hNugPJV8)
 - :file_folder:[Kotlin Documentation.](https://kotlinlang.org/docs/getting-started.html)
 - :video_camera:[Kotlin Beginner to pro.](https://youtube.com/playlist?list=PLQkwcJG4YTCRSQikwhtoApYs9ij_Hc5Z9) 
-- :video_camera:[Android Funadmentals.](https://youtube.com/playlist?list=PLQkwcJG4YTCTq1raTb5iMuxnEB06J1VHX)
+- :video_camera:[Android Fundamentals.](https://youtube.com/playlist?list=PLQkwcJG4YTCTq1raTb5iMuxnEB06J1VHX)
 - :video_camera:[CS194A Android Development.](https://www.youtube.com/playlist?list=PL7NYbSE8uaBDcLkbXsQADdvBnVbavonGn)
 - :file_folder:[Networking: Retrofit.](https://square.github.io/retrofit/)
 - :video_camera:[Networking: Retrofit.](https://www.youtube.com/watch?v=k2N3EoZI3eU&list=PL7NYbSE8uaBDcLkbXsQADdvBnVbavonGn&index=7&t=303s)
@@ -80,7 +80,7 @@ To add resources or to contribute read the [Cotribution-guide](https://github.co
   
 ---  
 ## CS-fundamentals  
-- :video_camera: [CS50 Funamentals](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
+- :video_camera: [CS50 Fundamentals](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
 
 ---
   
