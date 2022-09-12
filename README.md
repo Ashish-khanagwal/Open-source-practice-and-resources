@@ -42,14 +42,14 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   
 ## Index
 
-- [Android-Development](#android-development) 
-- [CS-fundamentals](#cs-fundamentals)
+- [Android Development](#android-development) 
+- [CS Fundamentals](#cs-fundamentals)
 - [Frontend](#frontend)
   * [HTML](#html)
   * [CSS](#css)
   * [JavaScript](#javascript)
   * [React](#react)
-- [Web3](#web-3)
+- [Web3](#web3)
   
 ---
 
