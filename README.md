@@ -47,7 +47,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 ## Index
 
 - [Android Development](#android-development) 
-- [CS Fundamentals](#cs-fundamentals)
+- [Core-CS](#core-cs)
 - [Frontend](#frontend)
   * [HTML](#html)
   * [CSS](#css)
@@ -74,6 +74,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :video_camera:[Understanding dependency injection](https://youtu.be/yunF2PgJlHU)
 - :video_camera:[Dagger-Hilt Guide.](https://youtu.be/bbMsuI2p1DQ)
 - :video_camera:[Firebase.](https://www.youtube.com/playlist?list=PLS1QulWo1RIbKsL9GqxOLbToLNFFQFJW_)
+- :video_camera:[Git for android developers.](https://youtube.com/playlist?list=PLQkwcJG4YTCQTEk4J4btiOJBV0PhKjJVS)
 - Get started with projects:
   - :video_camera: [Yelp Clone](https://youtube.com/playlist?list=PL7NYbSE8uaBBPVU8RPRKuah_hUFQWCMLR)
   - :video_camera: [Tip Calculator](https://youtube.com/playlist?list=PL7NYbSE8uaBCMVBVg6cskGzdYguj3CUP-)
@@ -83,8 +84,10 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :bulb:[Some open source kotlin apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps)
   
 ---  
-## CS Fundamentals  
-- :video_camera: [CS50 Fundamentals](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
+
+## Core CS 
+- :video_camera: [CS Fundamentals](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
+- :video_camera: [Operating System](https://youtube.com/playlist?list=PL3swII2vlVoVbav6FV98pidq6BsTN4u56)
 
 ---
   
