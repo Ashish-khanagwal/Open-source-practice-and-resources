@@ -1,4 +1,4 @@
-# :wave:  Code For Community welcome's you
+# :wave:  Code For Community welcomes you
 
 <p align="center"><img width="250px" src="https://user-images.githubusercontent.com/75534912/189521996-6646d03b-79f7-4abc-8838-28cfb11f9a95.png"></p>
 
@@ -34,7 +34,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 
 :hammer_and_wrench: Tools/Softwares/Roadmaps
 
-:video_camera: Video Resource (Youtube, video course, etc...)
+:video_camera: Video Resources (Youtube, video course, etc...)
 
 :bulb: Other/Suggestions
 
@@ -49,7 +49,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   * [CSS](#css)
   * [JavaScript](#javascript)
   * [React](#react)
-- [WEB-3](#web-3)
+- [Web3](#web-3)
   
 ---
 
@@ -79,12 +79,12 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :bulb:[Some open source kotlin apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps)
   
 ---  
-## CS-fundamentals  
+## CS Fundamentals  
 - :video_camera: [CS50 Fundamentals](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
 
 ---
   
-## FrontEnd
+## Frontend
 
   - :video_camera: [Full Course](https://www.youtube.com/watch?v=zJSY8tbf_ys)
 
@@ -124,9 +124,9 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
  
 ---  
 
-## WEB-3
+## Web3
   
-- :video_camera: [Learn Web-3](https://learnweb3.io/)
+- :video_camera: [Learn Web3](https://learnweb3.io/)
 - :bulb: [Francesco's GitHub repo](https://github.com/FrancescoXX/free-Web3-resources)
 - :books: [Best roadmap](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/#d12f)
 
