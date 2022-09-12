@@ -7,6 +7,10 @@
 ## Agenda:rocket:
 The Community's aim from this repository is not just providing best resources/content to the community but also main focus is to <b>motivate/encourage beginner who've never contributed to Open Source, to get started with Open Source</b> in a easy way with friendy projects and with full support</p>
 
+## Share your contribution 
+
+**Don't forget to share your contribution on your socials, it'll motivate other folks too, to start :rocket: their Open Source journey.**
+
 ### **Join Community :people_holding_hands: & Connect with me :handshake:**
 
 <div align="center">
