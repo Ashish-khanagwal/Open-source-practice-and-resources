@@ -95,7 +95,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 
   - :video_camera: [Full Course](https://www.youtube.com/watch?v=zJSY8tbf_ys)
   
-    ### HTML
+  ### HTML
   
   - :file_folder: [official documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
   - :books: [w3schools HTML](https://www.w3schools.com/tags/)
