@@ -53,6 +53,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   * [CSS](#css)
   * [JavaScript](#javascript)
   * [React](#react)
+  * [Practice](#practice)
 - [Web3](#web3)
   
 ---
