@@ -125,12 +125,12 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   - :file_folder: [JavaScript official documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - :video_camera: [full course](https://www.youtube.com/watch?v=lI1ae4REbFM)
   
- ### React
+  ### React
  
- - :file_folder: [React Documentation](https://reactjs.org/docs/getting-started.html)
- - :video_camera: [Full course](https://www.youtube.com/watch?v=u6gSSpfsoOQ)
+  - :file_folder: [React Documentation](https://reactjs.org/docs/getting-started.html)
+  - :video_camera: [Full course](https://www.youtube.com/watch?v=u6gSSpfsoOQ)
 
- ### Practice
+  ### Practice
   - :bulb: [Frontend Mentor](https://www.frontendmentor.io/)
   - :bulb: [Frontend Practice](https://www.frontendpractice.com/)
   - :bulb: [Codewell](https://www.codewell.cc/)
