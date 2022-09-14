@@ -95,6 +95,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 ## Frontend
 
   - :video_camera: [Full Course](https://www.youtube.com/watch?v=zJSY8tbf_ys)
+  - :hammer_and_wrench: [Roadmap](https://roadmap.sh/frontend)
   
   ### HTML
   
@@ -123,7 +124,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   ### JavaScript
   
   - :file_folder: [JavaScript official documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  - :video_camera: [full course](https://www.youtube.com/watch?v=lI1ae4REbFM)
+  - :video_camera: [Full course](https://www.youtube.com/watch?v=lI1ae4REbFM)
   
   ### React
  
