@@ -82,7 +82,8 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   - :video_camera: [My maps Application](https://youtube.com/playlist?list=PL7NYbSE8uaBCSkZum6Z88RvjiXrTBpjT2)
   - :video_camera: [Currency converter app with MVVM architecture.](https://youtu.be/ct5etYgB5pQ)
   - :video_camera: [Spotify clone with MVVM and Firebase](https://youtube.com/playlist?list=PLQkwcJG4YTCT-lTlkOmE-PpRkuyNXq6sW)
-- :bulb:[Some open source kotlin apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps)
+- :bulb:[Some open source kotlin apps.](https://github.com/androiddevnotes/awesome-android-kotlin-apps)
+- :bulb:[Android Developer Roadmap 2022.](https://github.com/skydoves/android-developer-roadmap)
   
 ---  
 
