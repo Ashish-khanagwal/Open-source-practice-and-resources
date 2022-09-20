@@ -53,6 +53,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   * [JavaScript](#javascript)
   * [React](#react)
   * [Practice](#practice)
+- [Good first issue finder](#good-first-issue-finder)
 - [Web3](#web3)
   
 ---
@@ -138,6 +139,14 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   - :bulb: [Javascript30](https://javascript30.com/)
   
 ---  
+
+## Good first issue finder
+- :hammer_and_wrench: [Good first issue](https://goodfirstissue.dev/language/html/)
+- :hammer_and_wrench: [Code Triga](https://www.codetriage.com/)
+- :hammer_and_wrench: [First contributions](https://firstcontributions.github.io/)
+- :hammer_and_wrench: [EddieHub Issue Finder](https://finder.eddiehub.io/)
+
+---
 
 ## Web3
   
