@@ -77,15 +77,19 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :video_camera:[Dagger-Hilt Guide.](https://youtu.be/bbMsuI2p1DQ)
 - :video_camera:[Firebase.](https://www.youtube.com/playlist?list=PLS1QulWo1RIbKsL9GqxOLbToLNFFQFJW_)
 - :video_camera:[Git for android developers.](https://youtube.com/playlist?list=PLQkwcJG4YTCQTEk4J4btiOJBV0PhKjJVS)
-- Get started with projects:
-  - :video_camera: [Yelp Clone](https://youtube.com/playlist?list=PL7NYbSE8uaBBPVU8RPRKuah_hUFQWCMLR)
-  - :video_camera: [Tip Calculator](https://youtube.com/playlist?list=PL7NYbSE8uaBCMVBVg6cskGzdYguj3CUP-)
-  - :video_camera: [My maps Application](https://youtube.com/playlist?list=PL7NYbSE8uaBCSkZum6Z88RvjiXrTBpjT2)
-  - :video_camera: [Currency converter app with MVVM architecture.](https://youtu.be/ct5etYgB5pQ)
-  - :video_camera: [Spotify clone with MVVM and Firebase](https://youtube.com/playlist?list=PLQkwcJG4YTCT-lTlkOmE-PpRkuyNXq6sW)
 - :bulb:[Some open source kotlin apps.](https://github.com/androiddevnotes/awesome-android-kotlin-apps)
 - :bulb:[Android Developer Roadmap 2022.](https://github.com/skydoves/android-developer-roadmap)
-  
+<details>
+<summary>Get started with projects:</summary>
+<ul>
+  <li>📹<a href="https://youtube.com/playlist?list=PL7NYbSE8uaBBPVU8RPRKuah_hUFQWCMLR">Yelp Clone</a></li>
+  <li>📹<a href="https://youtube.com/playlist?list=PL7NYbSE8uaBCMVBVg6cskGzdYguj3CUP-">Tip Cakculator</a></li>
+  <li>📹<a href="https://youtube.com/playlist?list=PL7NYbSE8uaBCSkZum6Z88RvjiXrTBpjT2">My maps application</a></li>
+  <li>📹<a href="https://youtu.be/ct5etYgB5pQ">Currency converter app with MVVM architecture</a></li>
+  <li>📹<a href="https://youtube.com/playlist?list=PLQkwcJG4YTCT-lTlkOmE-PpRkuyNXq6sW">Spotify clone with MVVM firebase</a></li>
+</ul>
+</details>
+    
 ---  
 
 ## Blog Writing
@@ -101,18 +105,15 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 ---
   
 ## Frontend
-
   - :video_camera: [Full Course](https://www.youtube.com/watch?v=zJSY8tbf_ys)
   - :hammer_and_wrench: [Roadmap](https://roadmap.sh/frontend)
   
   ### HTML
-  
   - :file_folder: [official documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
   - :books: [w3schools HTML](https://www.w3schools.com/tags/)
   - :video_camera: [HTML full course](https://www.youtube.com/watch?v=pQN-pnXPaVg)
 
   ### CSS
-  
   - :video_camera: [Introduction to CSS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
   - :books: [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
   - :books: [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
@@ -130,12 +131,10 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   - :books: [CSS Tutorial - Learn CSS in Detail](https://www.scaler.com/topics/css/)
   
   ### JavaScript
-  
   - :file_folder: [JavaScript official documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - :video_camera: [Full course](https://www.youtube.com/watch?v=lI1ae4REbFM)
   
   ### React
- 
   - :file_folder: [React Documentation](https://reactjs.org/docs/getting-started.html)
   - :video_camera: [Full course](https://www.youtube.com/watch?v=u6gSSpfsoOQ)
 
@@ -156,7 +155,6 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 ---
 
 ## Web3
-  
 - :video_camera: [Learn Web3](https://learnweb3.io/)
 - :bulb: [Francesco's GitHub repo](https://github.com/FrancescoXX/free-Web3-resources)
 - :books: [Best roadmap](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/#d12f)
