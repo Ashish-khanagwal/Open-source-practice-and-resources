@@ -45,7 +45,8 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   
 ## Index
 
-- [Android Development](#android-development) 
+- [Android Development](#android-development)
+- [Blog writing](#blog-writing)
 - [Core-CS](#core-cs)
 - [Frontend](#frontend)
   * [HTML](#html)
@@ -86,6 +87,12 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :bulb:[Android Developer Roadmap 2022.](https://github.com/skydoves/android-developer-roadmap)
   
 ---  
+
+## Blog Writing
+- :bulb: [Hashnode](https://hashnode.com/)
+- :bulb: [Geek for Geek](https://write.geeksforgeeks.org/)
+
+---
 
 ## Core CS 
 - :video_camera: [CS Fundamentals](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
