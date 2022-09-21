@@ -53,7 +53,8 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   * [CSS](#css)
   * [JavaScript](#javascript)
   * [React](#react)
-  * [Practice](#practice)
+  * [Practice](#practice)  
+- [Git and GitHub](#git-and-github)
 - [Good first issue finder](#good-first-issue-finder)
 - [Web3](#web3)
   
@@ -145,6 +146,12 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   - :bulb: [Javascript30](https://javascript30.com/)
   
 ---  
+
+## Git and GitHub
+- :hammer_and_wrench: [Learn Git Branching](https://learngitbranching.js.org/)
+- :video_camera: [Complete Git and GitHub tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics&t=7s)
+
+---
 
 ## Good first issue finder
 - :hammer_and_wrench: [Good first issue](https://goodfirstissue.dev/language/html/)
