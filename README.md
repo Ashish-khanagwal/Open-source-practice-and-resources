@@ -140,6 +140,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   ### React
   - :file_folder: [React Documentation](https://reactjs.org/docs/getting-started.html)
   - :video_camera: [Full course](https://www.youtube.com/watch?v=u6gSSpfsoOQ)
+  - :file_folder: [Scrimba React course](https://scrimba.com/learn/learnreact)
 
   ### Practice
   - :bulb: [Frontend Mentor](https://www.frontendmentor.io/)
