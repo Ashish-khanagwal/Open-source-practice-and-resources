@@ -134,6 +134,8 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   ### JavaScript
   - :file_folder: [JavaScript official documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - :video_camera: [Full course](https://www.youtube.com/watch?v=lI1ae4REbFM)
+  - :video_camera: [Freecodecamp course](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+  - :file_folder: [Scrimba JavaScript course](https://scrimba.com/learn/learnjavascript)
   
   ### React
   - :file_folder: [React Documentation](https://reactjs.org/docs/getting-started.html)
