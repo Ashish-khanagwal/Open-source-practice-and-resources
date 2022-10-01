@@ -111,7 +111,11 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :hammer_and_wrench: [FocoClipping](https://www.fococlipping.com/)
 - :hammer_and_wrench: [Freepik](https://www.freepik.com/)
 - :hammer_and_wrench: [Noun Project](https://thenounproject.com/)
+- :hammer_and_wrench: [SVG Repo](https://www.svgrepo.com/)
+- :hammer_and_wrench: [Streamline](https://www.streamlinehq.com/)
+- :hammer_and_wrench: [Free illustrations](https://freeillustrations.xyz/)
 - :books: [UX Planet](https://uxplanet.org/)
+
   
 ---
   
