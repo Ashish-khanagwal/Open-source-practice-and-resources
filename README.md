@@ -21,7 +21,7 @@ The Community's aim from this repository is not just providing best resources/co
 
 ## Contribution Guide :point_down:
   
-To add resources or to contribute read the [Contribution-guide](https://github.com/Ashish-khanagwal/Open-source-practice-and-resources/blob/main/contribution-guide.md) 
+To add resources or to contribute read the [Contribution-guide](https://github.com/Ashish-khanagwal/Open-source-practice-and-resources/blob/main/CONTRIBUTING.md) 
   
 **Add resources in alphabetical order and follow the contribution guidelines**
   
