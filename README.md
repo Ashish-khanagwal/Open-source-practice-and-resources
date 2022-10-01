@@ -48,6 +48,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - [Android Development](#android-development)
 - [Blog writing](#blog-writing)
 - [Core-CS](#core-cs)
+- [Design](#design)
 - [Frontend](#frontend)
   * [HTML](#html)
   * [CSS](#css)
@@ -103,6 +104,15 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :video_camera: [CS Fundamentals](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
 - :video_camera: [Operating System](https://youtube.com/playlist?list=PL3swII2vlVoVbav6FV98pidq6BsTN4u56)
 
+---
+
+## Design 
+- :hammer_and_wrench: [Coolors](https://coolors.co/)
+- :hammer_and_wrench: [FocoClipping](https://www.fococlipping.com/)
+- :hammer_and_wrench: [Freepik](https://www.freepik.com/)
+- :hammer_and_wrench: [Noun Project](https://thenounproject.com/)
+- :books: [UX Planet](https://uxplanet.org/)
+  
 ---
   
 ## Frontend
