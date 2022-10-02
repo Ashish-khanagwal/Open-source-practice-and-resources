@@ -176,8 +176,8 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   
   ### HTML
   - :file_folder: [official documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  - :books: [w3schools HTML](https://www.w3schools.com/tags/)    https://www.geeksforgeeks.org/html/
-  - :books: [geeksforgeeks html](https://www.geeksforgeeks.org/html//
+  - :books: [w3schools HTML](https://www.w3schools.com/tags/)
+  - :books: [geeksforgeeks html](https://www.geeksforgeeks.org/html/)
   - :video_camera: [HTML full course](https://www.youtube.com/watch?v=pQN-pnXPaVg)
 
   ### CSS
