@@ -114,6 +114,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :hammer_and_wrench: [SVG Repo](https://www.svgrepo.com/)
 - :hammer_and_wrench: [Streamline](https://www.streamlinehq.com/)
 - :hammer_and_wrench: [Free illustrations](https://freeillustrations.xyz/)
+- :hammer_and_wrench: [Pixabay](https://pixabay.com/)
 - :books: [UX Planet](https://uxplanet.org/)
 
   
@@ -135,6 +136,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   - :hammer_and_wrench: [CSS Framework - Bootstrap](https://getbootstrap.com/)
   - :hammer_and_wrench: [CSS Framework - Tailwind CSS](https://tailwindcss.com/)
   - :hammer_and_wrench: [CSS Gradient Generator](https://cssgradient.io/)
+  - :hammer_and_wrench: [CSS Animated Backgrounds](https://animatedbackgrounds.me/)
   - :bulb: [CSS Grid - A simple visual cheatsheet by Malven](https://grid.malven.co/)
   - :bulb: [CSS Flex - A simple visual cheatsheet by Malven](https://flexbox.malven.co/)
   - :bulb: [CSSBattle](https://cssbattle.dev/)
