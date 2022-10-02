@@ -173,7 +173,8 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 ## Frontend
   - :video_camera: [Full Course](https://www.youtube.com/watch?v=zJSY8tbf_ys)
   - :hammer_and_wrench: [Roadmap](https://roadmap.sh/frontend)
-   - :hammer_and_wrench: [Frontend Projects](https://github.com/DhruviThakkar210/100-DAYS-OF-CODING-CHALLENGE/tree/main/FRONT%20END%20PROJECTS)
+  - :hammer_and_wrench: [Frontend Projects](https://github.com/DhruviThakkar210/100-DAYS-OF-CODING-CHALLENGE/tree/main/FRONT%20END%20PROJECTS)
+  - :hammer_and_wrench: [Full stack Roadmap](https://coggle.it/diagram/XfeRbWj7xy3dsEX8/t/web-development-in-2020)
   
   ### HTML
   - :file_folder: [official documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -191,12 +192,16 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   - :bulb: [CSS Grid - A simple visual cheatsheet by Malven](https://grid.malven.co/)
   - :bulb: [CSS Flex - A simple visual cheatsheet by Malven](https://flexbox.malven.co/)
   - :bulb: [CSSBattle](https://cssbattle.dev/)
+  - :bulb: [Flexbox Froggy - Game To practice flex](https://flexboxfroggy.com/)
+  - :bulb: [ Grid Garden - Game To practice Grid](https://cssgridgarden.com/)
+  - :bulb: [CSS Resources](https://www.cssportal.com/css-resources.php)
   - :bulb: [Style Stage - A modern CSS showcase styled by community contributions](https://stylestage.dev/)
   - :video_camera: [Tailwind CSS Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=4wGmylafgM4)
   - :video_camera: [CSS Units px, rem, em, vh, vw / Absolute Vs Relative Units](https://nados.io/video/css-units-px-rem-em-vh-vw-absolute-vs-relative-units)
   - :hammer_and_wrench: [CSS Selector Generator](https://github.com/antonmedv/finder)
   - :bulb: [CSS Cheat Sheet](https://www.hostinger.com/tutorials/css-cheat-sheet)
   - :books: [CSS Tutorial - Learn CSS in Detail](https://www.scaler.com/topics/css/)
+  - :bulb: [CSS Protips - how to write better CSS](https://github.com/AllThingsSmitty/css-protips) 
   
   ### JavaScript
   - :file_folder: [JavaScript official documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
