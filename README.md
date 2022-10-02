@@ -46,6 +46,14 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 ## Index
 
 - [Android Development](#android-development)
+- [Backend](#backend)  
+  * [Python](#python)
+  * [Django](#django)
+  * [NodeJs](#nodejs)
+  * [Express](#express)
+  * [NextJs](nextjs)
+  * [Java](#java)
+  * [Spring Boot](#spring-boot)
 - [Blog writing](#blog-writing)
 - [Core-CS](#core-cs)
 - [Design](#design)
@@ -55,8 +63,6 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   * [JavaScript](#javascript)
   * [React](#react)
   * [Practice](#practice)
-- [Backend](#backend)  
-  * [Python](#python)
 - [Git and GitHub](#git-and-github)
 - [Good first issue finder](#good-first-issue-finder)
 - [Web3](#web3)
