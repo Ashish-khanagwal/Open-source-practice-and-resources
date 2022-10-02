@@ -205,6 +205,11 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   - :books: [Scrimba JavaScript course](https://scrimba.com/learn/learnjavascript)
   - :books: [W3School JavaScript course](https://www.w3schools.com/js)
   
+  ### Typescript
+  - :file_folder: [Typescript official documentation](https://www.typescriptlang.org/docs)
+  - :books: [w3schools Typescript](https://www.w3schools.com/typescript)
+  - :video_camera: [Freecodecamp course](https://youtu.be/gp5H0Vw39yw)
+  
   ### React
   - :file_folder: [React Documentation](https://reactjs.org/docs/getting-started.html)
   - :video_camera: [Full course](https://www.youtube.com/watch?v=u6gSSpfsoOQ)
