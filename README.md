@@ -150,6 +150,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   - :video_camera: [Full course](https://www.youtube.com/watch?v=lI1ae4REbFM)
   - :video_camera: [Freecodecamp course](https://www.youtube.com/watch?v=PkZNo7MFNFg)
   - :books: [Scrimba JavaScript course](https://scrimba.com/learn/learnjavascript)
+  - :books: [W3School JavaScript course](https://www.w3schools.com/js)
   
   ### React
   - :file_folder: [React Documentation](https://reactjs.org/docs/getting-started.html)
