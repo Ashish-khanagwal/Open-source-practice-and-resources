@@ -207,6 +207,8 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   - :video_camera: [Freecodecamp course](https://www.youtube.com/watch?v=PkZNo7MFNFg)
   - :books: [Scrimba JavaScript course](https://scrimba.com/learn/learnjavascript)
   - :books: [W3School JavaScript course](https://www.w3schools.com/js)
+  - :books: [Modern JavaScript](https://www.modernjs.com)
+  - :file_folder: [The Modern JavaScript Tutorial](https://javascript.info)
   
   ### Typescript
   - :file_folder: [Typescript official documentation](https://www.typescriptlang.org/docs)
