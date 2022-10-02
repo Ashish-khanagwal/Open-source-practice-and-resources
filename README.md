@@ -89,6 +89,8 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   <li>📹<a href="https://youtube.com/playlist?list=PL7NYbSE8uaBCSkZum6Z88RvjiXrTBpjT2">My maps application</a></li>
   <li>📹<a href="https://youtu.be/ct5etYgB5pQ">Currency converter app with MVVM architecture</a></li>
   <li>📹<a href="https://youtube.com/playlist?list=PLQkwcJG4YTCT-lTlkOmE-PpRkuyNXq6sW">Spotify clone with MVVM firebase</a></li>
+  <li>📹<a href="https://github.com/DhruviThakkar210/100-DAYS-OF-CODING-CHALLENGE/tree/main/FRONT%20END%20PROJECTS/DAY13(VALIDATION%20PART-2)">Validation forms using regex</a></li>
+   <li>📹<a href="https://github.com/DhruviThakkar210/100-DAYS-OF-CODING-CHALLENGE/tree/main/FRONT%20END%20PROJECTS/DAY6(SWIGGY'S%20SLIDER)">Owl carousel </a></li>
 </ul>
 </details>
     
@@ -123,6 +125,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 ## Frontend
   - :video_camera: [Full Course](https://www.youtube.com/watch?v=zJSY8tbf_ys)
   - :hammer_and_wrench: [Roadmap](https://roadmap.sh/frontend)
+   - :hammer_and_wrench: [Frontend Projects](https://github.com/DhruviThakkar210/100-DAYS-OF-CODING-CHALLENGE/tree/main/FRONT%20END%20PROJECTS)
   
   ### HTML
   - :file_folder: [official documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
