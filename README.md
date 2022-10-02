@@ -54,7 +54,9 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   * [CSS](#css)
   * [JavaScript](#javascript)
   * [React](#react)
-  * [Practice](#practice)  
+  * [Practice](#practice)
+- [Backend](#backend)  
+  * [Python](#python)
 - [Git and GitHub](#git-and-github)
 - [Good first issue finder](#good-first-issue-finder)
 - [Web3](#web3)
@@ -97,6 +99,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 ## Blog Writing
 - :bulb: [Hashnode](https://hashnode.com/)
 - :bulb: [Geek for Geek](https://write.geeksforgeeks.org/)
+- :bulb: [Dev.To](https://dev.to/)
 
 ---
 
@@ -161,6 +164,45 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   - :bulb: [Frontend Practice](https://www.frontendpractice.com/)
   - :bulb: [Codewell](https://www.codewell.cc/)
   - :bulb: [Javascript30](https://javascript30.com/)
+
+---
+
+## Backend
+- :hammer_and_wrench: [Roadmap](https://roadmap.sh/backend)
+
+### Python 
+- :hammer_and_wrench: [Roadmap](https://roadmap.sh/python)
+- :video_camera: [Freecodecamp Full Course](https://www.youtube.com/watch?v=rfscVS0vtbw&t=112s)
+- :file_folder: [Official Documentation](https://www.python.org/)
+
+### Django
+- :file_folder: [Django Official Documentation](https://docs.djangoproject.com/en/4.1/)
+- :file_folder: [Django REST Official Documentation](https://www.django-rest-framework.org/)
+- :video_camera: [Freecodecamp Django Course](https://www.youtube.com/watch?v=F5mRW0jo-U4)
+
+
+### NodeJS
+- :hammer_and_wrench: [Roadmap](https://roadmap.sh/nodejs)
+- :video_camera: [Freecodecamp Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE)
+- :file_folder: [Official Documentation](https://www.nodejs.org)
+
+### Express
+- :file_folder: [Official Documentation](https://expressjs.com/)
+
+### NestJS
+- :file_folder: [Official Documentation](https://docs.nestjs.com/)
+- :video_camera: [Freecodecamp Full Course](https://www.youtube.com/watch?v=GHTA143_b-s)
+
+
+### Java
+- :hammer_and_wrench: [Roadmap](https://roadmap.sh/java)
+- :video_camera: [Full Course](https://www.youtube.com/watch?v=eIrMbAQSU34)
+- :file_folder: [Official Documentation](https://docs.oracle.com/en/java/) 
+
+### Spring Boot
+- :video_camera: [Freecodecamp Full Course](https://www.youtube.com/watch?v=vtPkZShrvXQ&t=18s)
+- :file_folder: [Official Documentation](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle//)
+- :file_folder: [Spring REST Official Documentation](https://spring.io/projects/spring-restdocs)
   
 ---  
 
