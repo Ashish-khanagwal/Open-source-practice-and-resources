@@ -117,7 +117,6 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :file_folder: [Django REST Official Documentation](https://www.django-rest-framework.org/)
 - :video_camera: [Freecodecamp Django Course](https://www.youtube.com/watch?v=F5mRW0jo-U4)
 
-
 ### NodeJS
 - :hammer_and_wrench: [Roadmap](https://roadmap.sh/nodejs)
 - :video_camera: [Freecodecamp Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE)
@@ -129,7 +128,6 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 ### NestJS
 - :file_folder: [Official Documentation](https://docs.nestjs.com/)
 - :video_camera: [Freecodecamp Full Course](https://www.youtube.com/watch?v=GHTA143_b-s)
-
 
 ### Java
 - :hammer_and_wrench: [Roadmap](https://roadmap.sh/java)
@@ -158,6 +156,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 
 ## Design 
 - :hammer_and_wrench: [Coolors](https://coolors.co/)
+- :hammer_and_wrench: [Dribbble](https://dribbble.com/)
 - :hammer_and_wrench: [FocoClipping](https://www.fococlipping.com/)
 - :hammer_and_wrench: [Freepik](https://www.freepik.com/)
 - :hammer_and_wrench: [Noun Project](https://thenounproject.com/)
@@ -167,7 +166,6 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :hammer_and_wrench: [Pixabay](https://pixabay.com/)
 - :books: [UX Planet](https://uxplanet.org/)
 
-  
 ---
   
 ## Frontend
@@ -226,7 +224,6 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   - :bulb: [Codewell](https://www.codewell.cc/)
   - :bulb: [Javascript30](https://javascript30.com/)
 
-  
 ---  
 
 ## Git and GitHub
