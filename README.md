@@ -146,6 +146,8 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :bulb: [Hashnode](https://hashnode.com/)
 - :bulb: [Geek for Geek](https://write.geeksforgeeks.org/)
 - :bulb: [Dev.To](https://dev.to/)
+- :bulb: [Medium.com](https://medium.com/)
+- :bulb: [FAUN Publication](https://faun.dev/c/)
 
 ---
 
