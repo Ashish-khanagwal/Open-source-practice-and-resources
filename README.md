@@ -5,7 +5,7 @@
 # Gateway to Open Source | Best Programming Resources
 
 ## Agenda:rocket:
-The Community's aim from this repository is not just providing best resources/content to the community but also main focus is to <b>motivate/encourage beginner who've never contributed to Open Source, to get started with Open Source</b> in a easy way with friendy projects and with full support</p>
+The Community's aim from this repository is not just providing best resources/content but also to <b>motivate/encourage beginners who've never contributed to Open Source, and help them get started with Open Source</b> in a easy way with friendy projects and with full support</p>
 
 ## Share your contribution 
 
@@ -242,6 +242,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :hammer_and_wrench: [Code Triga](https://www.codetriage.com/)
 - :hammer_and_wrench: [First contributions](https://firstcontributions.github.io/)
 - :hammer_and_wrench: [EddieHub Issue Finder](https://finder.eddiehub.io/)
+- :hammer_and_wrench: [Issue Finder](https://github.com/voscarmv/issue-finder)
 
 ---
 
