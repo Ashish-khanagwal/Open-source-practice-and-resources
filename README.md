@@ -68,6 +68,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - [Good first issue finder](#good-first-issue-finder)
 - [Machine Learning](#machine-learning)
 - [Web3](#web3)
+- [Linux](#linux)
   
 ---
 
@@ -276,6 +277,10 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :books: [Best roadmap](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/#d12f)
 - :video_camera: [Web3 Roadmap](https://www.youtube.com/watch?v=Lz3m4BI1EfY&t=5s)
 
+---
+
+## Linux
+- :video_camera: [Linux](https://youtube.com/playlist?list=PL2kSRH_DmWVZp_cu6MMPWkgYh7GZVFS6i)
 
  
 **Don't forget to give a star :star: to the repository, join the discord server for more updates**
