@@ -67,6 +67,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - [Git and GitHub](#git-and-github)
 - [Good first issue finder](#good-first-issue-finder)
 - [Web3](#web3)
+- [Machine Learning](#machine-learning)
   
 ---
 
@@ -253,4 +254,25 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :books: [Best roadmap](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/#d12f)
 - :video_camera: [Web3 Roadmap](https://www.youtube.com/watch?v=Lz3m4BI1EfY&t=5s)
 
+---
+
+## Machine Learning
+- :hammer_and_wrench: Statistics and Probability For ML
+  * :video_camera: [Statistics - 1](https://www.youtube.com/playlist?list=PLKnIA16_RmvbVrE0eZO2bCaFln6jaNq-1)
+  * :video_camera: [Statistics - 2](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbe9wDJGXc28KKr6lp5Jn2g)
+  * :video_camera: [Probability](https://www.youtube.com/playlist?list=PLKnIA16_RmvYNbPMB6ofVLRCcTPUAftdY)
+- :hammer_and_wrench: Important Libraries In Python For ML
+  * :file_folder: [NumPy Documentation](https://numpy.org/)
+  * :video_camera: [NumPy Tutorial](https://www.youtube.com/watch?v=QUT1VHiLmmI&t=61s)
+  * :file_folder: [Pandas Documentation](https://pandas.pydata.org/docs/)
+  * :video_camera: [Pandas Tutorial](https://www.youtube.com/watch?v=vmEHCJofslg&t=6s)
+  * :file_folder: [Matplotlib Documentation](https://matplotlib.org/stable/index.html)
+  * :video_camera: [Matplotlib Tutorial](https://www.youtube.com/watch?v=3Xc3CA655Y4)
+  * :file_folder: [Seaborn Documentation](https://seaborn.pydata.org/)
+  * :video_camera: [Seaborn Tutorial](https://www.youtube.com/watch?v=6GUZXDef2U0)
+- :video_camera: [Machine Learning Algorithms](https://www.youtube.com/playlist?list=PLEiEAq2VkUULNa6MHQAZSOBxzB6HHFXj4)
+- :hammer_and_wrench: Beginner Projects
+  * :video_camera: [House Price Prediction Using Linear Regression](https://www.youtube.com/watch?v=1Gx1y2boe_M&t=3)
+  * :video_camera: [Diabetes Prediction Using Logistics Regression](https://www.youtube.com/watch?v=YkkgEk_fZ9A)
+ 
 **Don't forget to give a star :star: to the repository, join the discord server for more updates**
