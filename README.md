@@ -227,7 +227,6 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   - :bulb: [Codepen challenges](https://codepen.io/challenges/)
   - :bulb: [Codewell](https://www.codewell.cc/)
   - :bulb: [Javascript30](https://javascript30.com/)
- 
 
 ---  
 
