@@ -177,6 +177,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   ### HTML
   - :file_folder: [official documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
   - :books: [w3schools HTML](https://www.w3schools.com/tags/)
+  - :books: [geeksforgeeks html](https://www.geeksforgeeks.org/html/)
   - :video_camera: [HTML full course](https://www.youtube.com/watch?v=pQN-pnXPaVg)
 
   ### CSS
@@ -223,6 +224,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   ### Practice
   - :bulb: [Frontend Mentor](https://www.frontendmentor.io/)
   - :bulb: [Frontend Practice](https://www.frontendpractice.com/)
+  - :bulb: [Codepen challenges](https://codepen.io/challenges/)
   - :bulb: [Codewell](https://www.codewell.cc/)
   - :bulb: [Javascript30](https://javascript30.com/)
 
