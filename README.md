@@ -47,7 +47,8 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 ## Index
 
 - [Android Development](#android-development)
-- [Backend](#backend)  
+- [Backend](#backend)
+  * [Shell Commands](#shell commands)
   * [Python](#python)
   * [Django](#django)
   * [NodeJs](#nodejs)
@@ -107,6 +108,9 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 
 ## Backend
 - :hammer_and_wrench: [Roadmap](https://roadmap.sh/backend)
+
+### Shell Commands
+- :video_camera: [Terminal Commands](https://www.youtube.com/watch?v=iwolPf6kN-k)
 
 ### Python 
 - :hammer_and_wrench: [Roadmap](https://roadmap.sh/python)
