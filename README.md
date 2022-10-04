@@ -63,7 +63,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - [Frontend](#frontend)
   * [HTML](#html)
   * [CSS](#css)
-  * [CSS Frameworks](#css frameworks)
+  * [CSS Frameworks](#css-frameworks)
   * [JavaScript](#javascript)
   * [React](#react)
   * [Practice](#practice)
