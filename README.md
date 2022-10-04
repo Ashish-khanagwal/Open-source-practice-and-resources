@@ -58,6 +58,9 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   * [Shell Commands](#shell-commands)
 - [Blog writing](#blog-writing)
 - [Core-CS](#core-cs)
+  * [CS Fundamentals](cs-fundamentals)
+  * [Computer Networking](computer-networking)
+  * [Operating System](operating-system)
 - [Design](#design)
 - [Docker](#docker)
 - [Frontend](#frontend)
@@ -164,6 +167,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 
 ## Core CS 
 - :video_camera: [CS Fundamentals](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
+- :video_camera: [Computer Networking](https://www.youtube.com/watch?v=IPvYjXCsTg8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=3)
 - :video_camera: [Operating System](https://youtube.com/playlist?list=PL3swII2vlVoVbav6FV98pidq6BsTN4u56)
 
 ---
