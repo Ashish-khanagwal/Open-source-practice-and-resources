@@ -198,8 +198,10 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   - :file_folder: [official documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
   - :books: [w3schools HTML](https://www.w3schools.com/tags/)
   - :books: [geeksforgeeks html](https://www.geeksforgeeks.org/html/)
+  - :books: [tutorialspoint html](https://www.tutorialspoint.com/internet_technologies/html)
   - :video_camera: [HTML full course](https://www.youtube.com/watch?v=pQN-pnXPaVg)
-
+  - :video_camera: [HTML Crash Course](https://www.youtube.com/watch?v=qz0aGYrrlhU&ab_channel=ProgrammingwithMosh)
+  
   ### CSS
   - :video_camera: [Introduction to CSS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
   - :books: [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -252,6 +254,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   - :bulb: [Codepen challenges](https://codepen.io/challenges/)
   - :bulb: [Codewell](https://www.codewell.cc/)
   - :bulb: [Javascript30](https://javascript30.com/)
+  - :bulb: [Codewars](https://www.codewars.com/)
 
 ---  
 
