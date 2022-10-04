@@ -121,6 +121,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :file_folder: [Official Documentation](https://www.python.org/)
 - :file_folder: [30 Days of Python (Repo)](https://github.com/Asabeneh/30-Days-Of-Python)
 - :books: [A Byte of Python](https://python.swaroopch.com)
+- :file_folder: [Awesome Python](https://awesome-python.com)
 
 ### Django
 - :file_folder: [Django Official Documentation](https://docs.djangoproject.com/en/4.1/)
