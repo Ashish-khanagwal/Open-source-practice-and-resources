@@ -180,6 +180,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 
 ## Docker
 - :video_camera: [kickstart docker](https://www.youtube.com/watch?v=gAkwW2tuIqE)
+- :video_camera: [Complete Docker Guide](https://www.youtube.com/watch?v=pTFZFxd4hOI)
  
 ---
   
