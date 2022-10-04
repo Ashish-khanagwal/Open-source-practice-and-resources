@@ -59,6 +59,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - [Blog writing](#blog-writing)
 - [Core-CS](#core-cs)
 - [Design](#design)
+- [Docker](#docker)
 - [Frontend](#frontend)
   * [HTML](#html)
   * [CSS](#css)
@@ -175,6 +176,11 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :hammer_and_wrench: [Pixabay](https://pixabay.com/)
 - :books: [UX Planet](https://uxplanet.org/)
 
+---
+
+##Docker
+- :video_camera: [kickstart docker](https://www.youtube.com/watch?v=gAkwW2tuIqE)
+ 
 ---
   
 ## Frontend
