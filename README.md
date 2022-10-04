@@ -63,6 +63,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - [Frontend](#frontend)
   * [HTML](#html)
   * [CSS](#css)
+  * [CSS Frameworks](#css-frameworks)
   * [JavaScript](#javascript)
   * [React](#react)
   * [Practice](#practice)
@@ -203,8 +204,6 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   - :video_camera: [Introduction to CSS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
   - :books: [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
   - :books: [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-  - :hammer_and_wrench: [CSS Framework - Bootstrap](https://getbootstrap.com/)
-  - :hammer_and_wrench: [CSS Framework - Tailwind CSS](https://tailwindcss.com/)
   - :hammer_and_wrench: [CSS Gradient Generator](https://cssgradient.io/)
   - :hammer_and_wrench: [CSS Animated Backgrounds](https://animatedbackgrounds.me/)
   - :bulb: [CSS Grid - A simple visual cheatsheet by Malven](https://grid.malven.co/)
@@ -214,12 +213,19 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   - :bulb: [ Grid Garden - Game To practice Grid](https://cssgridgarden.com/)
   - :bulb: [CSS Resources](https://www.cssportal.com/css-resources.php)
   - :bulb: [Style Stage - A modern CSS showcase styled by community contributions](https://stylestage.dev/)
-  - :video_camera: [Tailwind CSS Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=4wGmylafgM4)
   - :video_camera: [CSS Units px, rem, em, vh, vw / Absolute Vs Relative Units](https://nados.io/video/css-units-px-rem-em-vh-vw-absolute-vs-relative-units)
   - :hammer_and_wrench: [CSS Selector Generator](https://github.com/antonmedv/finder)
   - :bulb: [CSS Cheat Sheet](https://www.hostinger.com/tutorials/css-cheat-sheet)
   - :books: [CSS Tutorial - Learn CSS in Detail](https://www.scaler.com/topics/css/)
   - :bulb: [CSS Protips - how to write better CSS](https://github.com/AllThingsSmitty/css-protips) 
+  
+  ### CSS Frameworks
+  - :file_folder: [Bootstrap Documentation](https://getbootstrap.com)
+  - :file_folder: [Bootstrap Tutorial - Tutorial Republic](https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/)
+  - :video_camera: [Bootstrap CSS Framework - Full Course for Beginners](https://www.youtube.com/watch?v=-qfEOE4vtxE)
+  - :file_folder: [Tailwind Documentation](https://tailwindcss.com)
+  - :video_camera: [Tailwind CSS Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=4wGmylafgM4)
+  
   
   ### JavaScript
   - :file_folder: [JavaScript official documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
