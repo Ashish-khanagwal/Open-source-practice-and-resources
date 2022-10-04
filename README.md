@@ -63,6 +63,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - [Frontend](#frontend)
   * [HTML](#html)
   * [CSS](#css)
+  * [CSS Frameworks](#css frameworks)
   * [JavaScript](#javascript)
   * [React](#react)
   * [Practice](#practice)
@@ -220,6 +221,10 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   - :bulb: [CSS Cheat Sheet](https://www.hostinger.com/tutorials/css-cheat-sheet)
   - :books: [CSS Tutorial - Learn CSS in Detail](https://www.scaler.com/topics/css/)
   - :bulb: [CSS Protips - how to write better CSS](https://github.com/AllThingsSmitty/css-protips) 
+  
+  ### CSS Frameworks
+  - :video_camera: [Introduction to CSS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
+  
   
   ### JavaScript
   - :file_folder: [JavaScript official documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
