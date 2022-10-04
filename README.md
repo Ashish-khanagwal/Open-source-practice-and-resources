@@ -271,8 +271,8 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   
 ---
 
-- Linux
-  * :video_camera: [Brief History Of Linux](https://www.youtube.com/watch?v=ShcR4Zfc6Dw)
+## Linux
+- :video_camera: [Brief History Of Linux](https://www.youtube.com/watch?v=ShcR4Zfc6Dw)
 
 ---
 
