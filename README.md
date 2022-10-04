@@ -66,6 +66,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   * [Practice](#practice)
 - [Git and GitHub](#git-and-github)
 - [Good first issue finder](#good-first-issue-finder)
+- [Linux](#linux)
 - [Machine Learning](#machine-learning)
 - [Web3](#web3)
   
@@ -268,6 +269,11 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   * :video_camera: [House Price Prediction Using Linear Regression](https://www.youtube.com/watch?v=1Gx1y2boe_M&t=3)
   * :video_camera: [Diabetes Prediction Using Logistics Regression](https://www.youtube.com/watch?v=YkkgEk_fZ9A)
   
+---
+
+- Linux
+  * :video_camera: [Brief History Of Linux](https://www.youtube.com/watch?v=ShcR4Zfc6Dw)
+
 ---
 
 ## Web3
