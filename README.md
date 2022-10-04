@@ -250,6 +250,11 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 
 ---
 
+## Linux
+- :video_camera: [Brief History Of Linux](https://www.youtube.com/watch?v=ShcR4Zfc6Dw)
+
+---
+
 ## Machine Learning
 - :hammer_and_wrench: Statistics and Probability For ML
   * :video_camera: [Statistics - 1](https://www.youtube.com/playlist?list=PLKnIA16_RmvbVrE0eZO2bCaFln6jaNq-1)
@@ -269,11 +274,6 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   * :video_camera: [House Price Prediction Using Linear Regression](https://www.youtube.com/watch?v=1Gx1y2boe_M&t=3)
   * :video_camera: [Diabetes Prediction Using Logistics Regression](https://www.youtube.com/watch?v=YkkgEk_fZ9A)
   
----
-
-## Linux
-- :video_camera: [Brief History Of Linux](https://www.youtube.com/watch?v=ShcR4Zfc6Dw)
-
 ---
 
 ## Web3
