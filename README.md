@@ -184,6 +184,9 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :hammer_and_wrench: [Streamline](https://www.streamlinehq.com/)
 - :hammer_and_wrench: [Free illustrations](https://freeillustrations.xyz/)
 - :hammer_and_wrench: [Pixabay](https://pixabay.com/)
+- :hammer_and_wrench: [Pexels](https://www.pexels.com/)
+- :hammer_and_wrench: [Unsplash](https://unsplash.com/)
+- :hammer_and_wrench: [Vecteezy](https://www.vecteezy.com/)
 - :books: [UX Planet](https://uxplanet.org/)
 
 ---
