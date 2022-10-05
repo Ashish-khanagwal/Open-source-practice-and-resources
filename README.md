@@ -71,6 +71,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - [Good first issue finder](#good-first-issue-finder)
 - [Linux](#linux)
 - [Machine Learning](#machine-learning)
+- [Vue](#vue)
 - [Web3](#web3)
   
 ---
@@ -300,6 +301,13 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   * :video_camera: [House Price Prediction Using Linear Regression](https://www.youtube.com/watch?v=1Gx1y2boe_M&t=3)
   * :video_camera: [Diabetes Prediction Using Logistics Regression](https://www.youtube.com/watch?v=YkkgEk_fZ9A)
   
+---
+
+## Vue 
+- :file_folder: [Vue Documentation](https://vuejs.org/guide/introduction.html)
+- :video_camera: [Full course](https://youtu.be/FXpIoQ_rT_c)
+- :books: [W3school Vue course](https://www.w3schools.com/whatis/whatis_vue.asp)
+
 ---
 
 ## Web3
