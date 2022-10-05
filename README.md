@@ -5,7 +5,7 @@
 # Gateway to Open Source | Best Programming Resources
 
 ## Agenda:rocket:
-The Community's aim from this repository is not just providing best resources/content to the community but also main focus is to <b>motivate/encourage beginner who've never contributed to Open Source, to get started with Open Source</b> in a easy way with friendy projects and with full support</p>
+The Community's aim from this repository is not just providing best resources/content but also to <b>motivate/encourage beginners who've never contributed to Open Source, and help them get started with Open Source</b> in a easy way with friendy projects and with full support</p>
 
 ## Share your contribution 
 
@@ -15,6 +15,7 @@ The Community's aim from this repository is not just providing best resources/co
 
 <div align="center">
 <a href="https://twitter.com/codeforcomm"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2CFC.svg?style=for-the-badge&logo=Twitter&logoColor=white"/><a>
+<a href="https://discord.gg/AfYcurdCd3"><img src="https://img.shields.io/badge/%3CCode For Community%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://twitter.com/iashishkhangwal"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/><a>
 <a href="https://www.linkedin.com/in/ashish-khanagwal-890326213/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
@@ -46,7 +47,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 ## Index
 
 - [Android Development](#android-development)
-- [Backend](#backend)  
+- [Backend](#backend)
   * [Python](#python)
   * [Django](#django)
   * [NodeJs](#nodejs)
@@ -54,17 +55,23 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   * [NextJs](nextjs)
   * [Java](#java)
   * [Spring Boot](#spring-boot)
+  * [Shell Commands](#shell-commands)
 - [Blog writing](#blog-writing)
 - [Core-CS](#core-cs)
 - [Design](#design)
+- [Docker](#docker)
 - [Frontend](#frontend)
   * [HTML](#html)
   * [CSS](#css)
+  * [CSS Frameworks](#css-frameworks)
   * [JavaScript](#javascript)
   * [React](#react)
   * [Practice](#practice)
 - [Git and GitHub](#git-and-github)
 - [Good first issue finder](#good-first-issue-finder)
+- [Linux](#linux)
+- [Machine Learning](#machine-learning)
+- [Vue](#vue)
 - [Web3](#web3)
   
 ---
@@ -107,16 +114,21 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 ## Backend
 - :hammer_and_wrench: [Roadmap](https://roadmap.sh/backend)
 
+### Shell Commands
+- :video_camera: [Shell Commands](https://www.youtube.com/watch?v=iwolPf6kN-k)
+
 ### Python 
 - :hammer_and_wrench: [Roadmap](https://roadmap.sh/python)
 - :video_camera: [Freecodecamp Full Course](https://www.youtube.com/watch?v=rfscVS0vtbw&t=112s)
 - :file_folder: [Official Documentation](https://www.python.org/)
+- :file_folder: [30 Days of Python (Repo)](https://github.com/Asabeneh/30-Days-Of-Python)
+- :books: [A Byte of Python](https://python.swaroopch.com)
+- :file_folder: [Awesome Python](https://awesome-python.com)
 
 ### Django
 - :file_folder: [Django Official Documentation](https://docs.djangoproject.com/en/4.1/)
 - :file_folder: [Django REST Official Documentation](https://www.django-rest-framework.org/)
 - :video_camera: [Freecodecamp Django Course](https://www.youtube.com/watch?v=F5mRW0jo-U4)
-
 
 ### NodeJS
 - :hammer_and_wrench: [Roadmap](https://roadmap.sh/nodejs)
@@ -129,7 +141,6 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 ### NestJS
 - :file_folder: [Official Documentation](https://docs.nestjs.com/)
 - :video_camera: [Freecodecamp Full Course](https://www.youtube.com/watch?v=GHTA143_b-s)
-
 
 ### Java
 - :hammer_and_wrench: [Roadmap](https://roadmap.sh/java)
@@ -147,17 +158,21 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :bulb: [Hashnode](https://hashnode.com/)
 - :bulb: [Geek for Geek](https://write.geeksforgeeks.org/)
 - :bulb: [Dev.To](https://dev.to/)
+- :bulb: [Medium.com](https://medium.com/)
+- :bulb: [FAUN Publication](https://faun.dev/c/)
 
 ---
 
 ## Core CS 
 - :video_camera: [CS Fundamentals](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
+- :video_camera: [Computer Networking](https://www.youtube.com/watch?v=IPvYjXCsTg8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=3)
 - :video_camera: [Operating System](https://youtube.com/playlist?list=PL3swII2vlVoVbav6FV98pidq6BsTN4u56)
 
 ---
 
 ## Design 
 - :hammer_and_wrench: [Coolors](https://coolors.co/)
+- :hammer_and_wrench: [Dribbble](https://dribbble.com/)
 - :hammer_and_wrench: [FocoClipping](https://www.fococlipping.com/)
 - :hammer_and_wrench: [Freepik](https://www.freepik.com/)
 - :hammer_and_wrench: [Noun Project](https://thenounproject.com/)
@@ -170,36 +185,54 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :hammer_and_wrench: [Vecteezy](https://www.vecteezy.com/)
 - :books: [UX Planet](https://uxplanet.org/)
 
-  
+---
+
+## Docker
+- :video_camera: [kickstart docker](https://www.youtube.com/watch?v=gAkwW2tuIqE)
+- :video_camera: [Complete Docker Guide](https://www.youtube.com/watch?v=pTFZFxd4hOI)
+ 
 ---
   
 ## Frontend
   - :video_camera: [Full Course](https://www.youtube.com/watch?v=zJSY8tbf_ys)
   - :hammer_and_wrench: [Roadmap](https://roadmap.sh/frontend)
-   - :hammer_and_wrench: [Frontend Projects](https://github.com/DhruviThakkar210/100-DAYS-OF-CODING-CHALLENGE/tree/main/FRONT%20END%20PROJECTS)
+  - :hammer_and_wrench: [Frontend Projects](https://github.com/DhruviThakkar210/100-DAYS-OF-CODING-CHALLENGE/tree/main/FRONT%20END%20PROJECTS)
+  - :hammer_and_wrench: [Full stack Roadmap](https://coggle.it/diagram/XfeRbWj7xy3dsEX8/t/web-development-in-2020)
   
   ### HTML
   - :file_folder: [official documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
   - :books: [w3schools HTML](https://www.w3schools.com/tags/)
+  - :books: [geeksforgeeks html](https://www.geeksforgeeks.org/html/)
+  - :books: [tutorialspoint html](https://www.tutorialspoint.com/internet_technologies/html)
   - :video_camera: [HTML full course](https://www.youtube.com/watch?v=pQN-pnXPaVg)
-
+  - :video_camera: [HTML Crash Course](https://www.youtube.com/watch?v=qz0aGYrrlhU&ab_channel=ProgrammingwithMosh)
+  
   ### CSS
   - :video_camera: [Introduction to CSS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
   - :books: [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
   - :books: [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-  - :hammer_and_wrench: [CSS Framework - Bootstrap](https://getbootstrap.com/)
-  - :hammer_and_wrench: [CSS Framework - Tailwind CSS](https://tailwindcss.com/)
   - :hammer_and_wrench: [CSS Gradient Generator](https://cssgradient.io/)
   - :hammer_and_wrench: [CSS Animated Backgrounds](https://animatedbackgrounds.me/)
   - :bulb: [CSS Grid - A simple visual cheatsheet by Malven](https://grid.malven.co/)
   - :bulb: [CSS Flex - A simple visual cheatsheet by Malven](https://flexbox.malven.co/)
   - :bulb: [CSSBattle](https://cssbattle.dev/)
+  - :bulb: [Flexbox Froggy - Game To practice flex](https://flexboxfroggy.com/)
+  - :bulb: [ Grid Garden - Game To practice Grid](https://cssgridgarden.com/)
+  - :bulb: [CSS Resources](https://www.cssportal.com/css-resources.php)
   - :bulb: [Style Stage - A modern CSS showcase styled by community contributions](https://stylestage.dev/)
-  - :video_camera: [Tailwind CSS Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=4wGmylafgM4)
   - :video_camera: [CSS Units px, rem, em, vh, vw / Absolute Vs Relative Units](https://nados.io/video/css-units-px-rem-em-vh-vw-absolute-vs-relative-units)
   - :hammer_and_wrench: [CSS Selector Generator](https://github.com/antonmedv/finder)
   - :bulb: [CSS Cheat Sheet](https://www.hostinger.com/tutorials/css-cheat-sheet)
   - :books: [CSS Tutorial - Learn CSS in Detail](https://www.scaler.com/topics/css/)
+  - :bulb: [CSS Protips - how to write better CSS](https://github.com/AllThingsSmitty/css-protips) 
+  
+  ### CSS Frameworks
+  - :file_folder: [Bootstrap Documentation](https://getbootstrap.com)
+  - :file_folder: [Bootstrap Tutorial - Tutorial Republic](https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/)
+  - :video_camera: [Bootstrap CSS Framework - Full Course for Beginners](https://www.youtube.com/watch?v=-qfEOE4vtxE)
+  - :file_folder: [Tailwind Documentation](https://tailwindcss.com)
+  - :video_camera: [Tailwind CSS Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=4wGmylafgM4)
+  
   
   ### JavaScript
   - :file_folder: [JavaScript official documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -207,6 +240,8 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   - :video_camera: [Freecodecamp course](https://www.youtube.com/watch?v=PkZNo7MFNFg)
   - :books: [Scrimba JavaScript course](https://scrimba.com/learn/learnjavascript)
   - :books: [W3School JavaScript course](https://www.w3schools.com/js)
+  - :books: [Modern JavaScript](https://www.modernjs.com)
+  - :file_folder: [The Modern JavaScript Tutorial](https://javascript.info)
   
   ### Typescript
   - :file_folder: [Typescript official documentation](https://www.typescriptlang.org/docs)
@@ -221,10 +256,11 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   ### Practice
   - :bulb: [Frontend Mentor](https://www.frontendmentor.io/)
   - :bulb: [Frontend Practice](https://www.frontendpractice.com/)
+  - :bulb: [Codepen challenges](https://codepen.io/challenges/)
   - :bulb: [Codewell](https://www.codewell.cc/)
   - :bulb: [Javascript30](https://javascript30.com/)
+  - :bulb: [Codewars](https://www.codewars.com/)
 
-  
 ---  
 
 ## Git and GitHub
@@ -238,6 +274,42 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :hammer_and_wrench: [Code Triga](https://www.codetriage.com/)
 - :hammer_and_wrench: [First contributions](https://firstcontributions.github.io/)
 - :hammer_and_wrench: [EddieHub Issue Finder](https://finder.eddiehub.io/)
+- :hammer_and_wrench: [Issue Finder](https://github.com/voscarmv/issue-finder)
+
+---
+
+## Linux
+- :video_camera: [Brief History Of Linux](https://www.youtube.com/watch?v=ShcR4Zfc6Dw)
+- :video_camera: [Complete Linux Guide](https://www.youtube.com/watch?v=wBp0Rb-ZJak)
+- :video_camera: [Linux Masterclass Course](https://youtube.com/playlist?list=PL2kSRH_DmWVZp_cu6MMPWkgYh7GZVFS6i)
+
+---
+
+## Machine Learning
+- :hammer_and_wrench: Statistics and Probability For ML
+  * :video_camera: [Statistics - 1](https://www.youtube.com/playlist?list=PLKnIA16_RmvbVrE0eZO2bCaFln6jaNq-1)
+  * :video_camera: [Statistics - 2](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbe9wDJGXc28KKr6lp5Jn2g)
+  * :video_camera: [Probability](https://www.youtube.com/playlist?list=PLKnIA16_RmvYNbPMB6ofVLRCcTPUAftdY)
+- :hammer_and_wrench: Important Libraries In Python For ML
+  * :file_folder: [NumPy Documentation](https://numpy.org/)
+  * :video_camera: [NumPy Tutorial](https://www.youtube.com/watch?v=QUT1VHiLmmI&t=61s)
+  * :file_folder: [Pandas Documentation](https://pandas.pydata.org/docs/)
+  * :video_camera: [Pandas Tutorial](https://www.youtube.com/watch?v=vmEHCJofslg&t=6s)
+  * :file_folder: [Matplotlib Documentation](https://matplotlib.org/stable/index.html)
+  * :video_camera: [Matplotlib Tutorial](https://www.youtube.com/watch?v=3Xc3CA655Y4)
+  * :file_folder: [Seaborn Documentation](https://seaborn.pydata.org/)
+  * :video_camera: [Seaborn Tutorial](https://www.youtube.com/watch?v=6GUZXDef2U0)
+- :video_camera: [Machine Learning Algorithms](https://www.youtube.com/playlist?list=PLEiEAq2VkUULNa6MHQAZSOBxzB6HHFXj4)
+- :hammer_and_wrench: Beginner Projects
+  * :video_camera: [House Price Prediction Using Linear Regression](https://www.youtube.com/watch?v=1Gx1y2boe_M&t=3)
+  * :video_camera: [Diabetes Prediction Using Logistics Regression](https://www.youtube.com/watch?v=YkkgEk_fZ9A)
+  
+---
+
+## Vue 
+- :file_folder: [Vue Documentation](https://vuejs.org/guide/introduction.html)
+- :video_camera: [Full course](https://youtu.be/FXpIoQ_rT_c)
+- :books: [W3school Vue course](https://www.w3schools.com/whatis/whatis_vue.asp)
 
 ---
 
@@ -247,4 +319,6 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :books: [Best roadmap](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/#d12f)
 - :video_camera: [Web3 Roadmap](https://www.youtube.com/watch?v=Lz3m4BI1EfY&t=5s)
 
+
+ 
 **Don't forget to give a star :star: to the repository, join the discord server for more updates**
