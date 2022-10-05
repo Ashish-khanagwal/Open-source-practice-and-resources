@@ -302,6 +302,13 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   
 ---
 
+## Vue 
+- :file_folder: [Vue Documentation](https://vuejs.org/guide/introduction.html)
+- :video_camera: [Full course](https://youtu.be/FXpIoQ_rT_c)
+- :books: [W3school Vue course](https://www.w3schools.com/whatis/whatis_vue.asp)
+
+---
+
 ## Web3
 - :video_camera: [Learn Web3](https://learnweb3.io/)
 - :bulb: [Francesco's GitHub repo](https://github.com/FrancescoXX/free-Web3-resources)
