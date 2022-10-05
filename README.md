@@ -203,6 +203,12 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   - :hammer_and_wrench: [Frontend Projects](https://github.com/DhruviThakkar210/100-DAYS-OF-CODING-CHALLENGE/tree/main/FRONT%20END%20PROJECTS)
   - :hammer_and_wrench: [Full stack Roadmap](https://coggle.it/diagram/XfeRbWj7xy3dsEX8/t/web-development-in-2020)
   
+  ## API 
+   - :hammer_and_wrench: [GENERATING API KEY](https://www.youtube.com/watch?v=cF_MCAmuoI4)
+  - :hammer_and_wrench: [GOOGLE MAP](https://www.w3schools.com/graphics/google_maps_intro.asp)
+  -  - :hammer_and_wrench: [GITHUB REPO](https://github.com/DhruviThakkar210/100-DAYS-OF-CODING-CHALLENGE/tree/main/API/MAP/maps)
+  
+  
   ### HTML
   - :file_folder: [official documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
   - :books: [w3schools HTML](https://www.w3schools.com/tags/)
