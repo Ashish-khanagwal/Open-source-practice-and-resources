@@ -1,9 +1,7 @@
 # :wave:  Code For Community welcomes you
-
-<p align="center"><img width="250px" src="https://user-images.githubusercontent.com/75534912/189521996-6646d03b-79f7-4abc-8838-28cfb11f9a95.png"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/75534912/194343020-6cbd2485-c2ea-4779-87e2-9708238398e7.png"></p>
 
 # Gateway to Open Source | Best Programming Resources
-
 ## Agenda:rocket:
 The Community's aim from this repository is not just providing best resources/content but also to <b>motivate/encourage beginners who've never contributed to Open Source, and help them get started with Open Source</b> in a easy way with friendy projects and with full support</p>
 
