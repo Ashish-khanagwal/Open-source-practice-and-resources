@@ -66,6 +66,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   * [CSS](#css)
   * [CSS Frameworks](#css-frameworks)
   * [JavaScript](#javascript)
+  * [API](#API)
   * [React](#react)
   * [Practice](#practice)
 - [Git and GitHub](#git-and-github)
@@ -247,6 +248,11 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   - :books: [W3School JavaScript course](https://www.w3schools.com/js)
   - :books: [Modern JavaScript](https://www.modernjs.com)
   - :file_folder: [The Modern JavaScript Tutorial](https://javascript.info)
+  ###API
+  - :hammer_and_wrench: [GENERATING API KEY](https://www.youtube.com/watch?v=cF_MCAmuoI4)
+  - :hammer_and_wrench: [GOOGLE MAP](https://www.w3schools.com/graphics/google_maps_intro.asp)
+   * :hammer_and_wrench: [GITHUB REPO](https://github.com/DhruviThakkar210/100-DAYS-OF-CODING-CHALLENGE/tree/main/API/MAP/maps)
+
   
   ### Typescript
   - :file_folder: [Typescript official documentation](https://www.typescriptlang.org/docs)
