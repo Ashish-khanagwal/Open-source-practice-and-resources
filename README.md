@@ -143,6 +143,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 
 ### Express
 - :file_folder: [Official Documentation](https://expressjs.com/)
+- :video_camera: [Express JS Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE)
 
 ### NestJS
 - :file_folder: [Official Documentation](https://docs.nestjs.com/)
