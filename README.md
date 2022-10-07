@@ -303,6 +303,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :video_camera: [Brief History Of Linux](https://www.youtube.com/watch?v=ShcR4Zfc6Dw)
 - :video_camera: [Complete Linux Guide](https://www.youtube.com/watch?v=wBp0Rb-ZJak)
 - :video_camera: [Linux Masterclass Course](https://youtube.com/playlist?list=PL2kSRH_DmWVZp_cu6MMPWkgYh7GZVFS6i)
+- :books: [Vim Cheatsheet](https://vim.rtorr.com/)
 
 ---
 
