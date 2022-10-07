@@ -67,6 +67,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   * [JavaScript](#javascript)
   * [API](#api)
   * [React](#react)
+  * [Angular](#angular)
   * [Practice](#practice)
 - [Git and GitHub](#git-and-github)
 - [Good first issue finder](#good-first-issue-finder)
@@ -269,6 +270,10 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   - :video_camera: [Full course](https://www.youtube.com/watch?v=u6gSSpfsoOQ)
   - :books: [Scrimba React course](https://scrimba.com/learn/learnreact)
 
+  ### Angular
+  - :file_folder: [Angular Documentation](https://angular.io/docs)
+  - :video_camera: [Full course](https://www.youtube.com/watch?v=3qBXWUpoPHo&t=44506s)
+  
   ### Practice
   - :bulb: [Frontend Mentor](https://www.frontendmentor.io/)
   - :bulb: [Frontend Practice](https://www.frontendpractice.com/)
