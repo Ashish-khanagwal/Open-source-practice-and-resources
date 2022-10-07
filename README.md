@@ -57,7 +57,6 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   * [Shell Commands](#shell-commands)
   * [Laravel](#laravel)
 - [Blog writing](#blog-writing)
-- [Blockchain](#blockchain)
 - [Core-CS](#core-cs)
 - [Design](#design)
 - [Docker](#docker)
