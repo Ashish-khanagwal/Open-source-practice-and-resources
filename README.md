@@ -75,6 +75,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - [Machine Learning](#machine-learning)
 - [Vue](#vue)
 - [Web3](#web3)
+  * [Blockchain](#blockchain)
   
 ---
 
@@ -172,7 +173,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :bulb: [FAUN Publication](https://faun.dev/c/)
 
 ---
-
+  
 ## Core CS 
 - :video_camera: [CS Fundamentals](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
 - :video_camera: [Computer Networking](https://www.youtube.com/watch?v=IPvYjXCsTg8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=3)
@@ -342,6 +343,13 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :books: [Best roadmap](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/#d12f)
 - :video_camera: [Web3 Roadmap](https://www.youtube.com/watch?v=Lz3m4BI1EfY&t=5s)
 
-
+### Blockchain
+- :hammer_and_wrench:[Blockchain Developer Roadmap](https://roadmap.sh/blockchain)
+- :file_folder: [Ethereum official Documentation](https://ethereum.org/en/developers/docs/)
+- :file_folder: [Solidity documentation](https://docs.soliditylang.org/en/v0.8.17/)
+- :video_camera: [Dapp University youtube](https://www.youtube.com/c/DappUniversity)
+- :bulb: [Developers Communities](https://github.com/commclassroom/roadmaps/tree/main/Blockchain/Communities)
+- :bulb: [Project Ideas](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-web3-development-4g74)
+  
  
 **Don't forget to give a star :star: to the repository, join the discord server for more updates**
