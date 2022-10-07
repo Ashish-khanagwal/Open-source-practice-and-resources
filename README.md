@@ -215,6 +215,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   - :file_folder: [official documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
   - :books: [w3schools HTML](https://www.w3schools.com/tags/)
   - :books: [geeksforgeeks html](https://www.geeksforgeeks.org/html/)
+  - :books: [project for html](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app)
   - :books: [tutorialspoint html](https://www.tutorialspoint.com/internet_technologies/html)
   - :video_camera: [HTML full course](https://www.youtube.com/watch?v=pQN-pnXPaVg)
   - :video_camera: [HTML Crash Course](https://www.youtube.com/watch?v=qz0aGYrrlhU&ab_channel=ProgrammingwithMosh)
