@@ -48,6 +48,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - [Backend](#backend)
   * [Python](#python)
   * [Django](#django)
+  * [Go](#go)
   * [NodeJs](#nodejs)
   * [Express](#express)
   * [NextJs](nextjs)
@@ -128,7 +129,11 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 ### Django
 - :file_folder: [Django Official Documentation](https://docs.djangoproject.com/en/4.1/)
 - :file_folder: [Django REST Official Documentation](https://www.django-rest-framework.org/)
-- :video_camera: [Freecodecamp Django Course](https://www.youtube.com/watch?v=F5mRW0jo-U4)
+- :video_camera: [Freecodecamp Go Course](https://www.youtube.com/watch?v=F5mRW0jo-U4)
+
+### Go
+- :file_folder: [Go Official Documentation](https://go.dev/doc/)
+- :video_camera: [Freecodecamp Django Course](https://www.youtube.com/watch?v=YS4e4q9oBaU)
 
 ### NodeJS
 - :hammer_and_wrench: [Roadmap](https://roadmap.sh/nodejs)
