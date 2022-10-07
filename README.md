@@ -68,6 +68,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   * [JavaScript](#javascript)
   * [API](#api)
   * [React](#react)
+  * [Angular](#angular)
   * [Practice](#practice)
 - [Git and GitHub](#git-and-github)
 - [Good first issue finder](#good-first-issue-finder)
@@ -216,6 +217,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   - :file_folder: [official documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
   - :books: [w3schools HTML](https://www.w3schools.com/tags/)
   - :books: [geeksforgeeks html](https://www.geeksforgeeks.org/html/)
+  - :books: [project for html](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app)
   - :books: [tutorialspoint html](https://www.tutorialspoint.com/internet_technologies/html)
   - :video_camera: [HTML full course](https://www.youtube.com/watch?v=pQN-pnXPaVg)
   - :video_camera: [HTML Crash Course](https://www.youtube.com/watch?v=qz0aGYrrlhU&ab_channel=ProgrammingwithMosh)
@@ -271,6 +273,10 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   - :video_camera: [Full course](https://www.youtube.com/watch?v=u6gSSpfsoOQ)
   - :books: [Scrimba React course](https://scrimba.com/learn/learnreact)
 
+  ### Angular
+  - :file_folder: [Angular Documentation](https://angular.io/docs)
+  - :video_camera: [Full course](https://www.youtube.com/watch?v=3qBXWUpoPHo&t=44506s)
+  
   ### Practice
   - :bulb: [Frontend Mentor](https://www.frontendmentor.io/)
   - :bulb: [Frontend Practice](https://www.frontendpractice.com/)
@@ -300,6 +306,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :video_camera: [Brief History Of Linux](https://www.youtube.com/watch?v=ShcR4Zfc6Dw)
 - :video_camera: [Complete Linux Guide](https://www.youtube.com/watch?v=wBp0Rb-ZJak)
 - :video_camera: [Linux Masterclass Course](https://youtube.com/playlist?list=PL2kSRH_DmWVZp_cu6MMPWkgYh7GZVFS6i)
+- :books: [Vim Cheatsheet](https://vim.rtorr.com/)
 
 ---
 
