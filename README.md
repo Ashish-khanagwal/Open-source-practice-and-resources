@@ -57,6 +57,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   * [Shell Commands](#shell-commands)
   * [Laravel](#laravel)
 - [Blog writing](#blog-writing)
+- [Blockchain](#blockchain)
 - [Core-CS](#core-cs)
 - [Design](#design)
 - [Docker](#docker)
@@ -171,6 +172,16 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 
 ---
 
+## Blockchain
+- :hammer_and_wrench:[Blockchain Developer Roadmap](https://roadmap.sh/blockchain)
+- 📁 [Ethereum official Documentation](https://ethereum.org/en/developers/docs/)
+- 📁 [Solidity documentation](https://docs.soliditylang.org/en/v0.8.17/)
+- 📹 [Dapp University youtube](https://www.youtube.com/c/DappUniversity)
+- 💡 [Developers Communities](https://github.com/commclassroom/roadmaps/tree/main/Blockchain/Communities)
+- 💡 [Project Ideas](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-web3-development-4g74)
+   
+---
+  
 ## Core CS 
 - :video_camera: [CS Fundamentals](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
 - :video_camera: [Computer Networking](https://www.youtube.com/watch?v=IPvYjXCsTg8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=3)
