@@ -109,6 +109,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   <li>📹<a href="https://youtube.com/playlist?list=PLQkwcJG4YTCT-lTlkOmE-PpRkuyNXq6sW">Spotify clone with MVVM firebase</a></li>
   <li>📹<a href="https://github.com/DhruviThakkar210/100-DAYS-OF-CODING-CHALLENGE/tree/main/FRONT%20END%20PROJECTS/DAY13(VALIDATION%20PART-2)">Validation forms using regex</a></li>
    <li>📹<a href="https://github.com/DhruviThakkar210/100-DAYS-OF-CODING-CHALLENGE/tree/main/FRONT%20END%20PROJECTS/DAY6(SWIGGY'S%20SLIDER)">Owl carousel </a></li>
+   <li>📹<a href="https://github.com/Chayan-11/Euclidean-Algorithm-Calculator">Euclidean Algorithm Calculator</a></li>
 </ul>
 </details>
     
