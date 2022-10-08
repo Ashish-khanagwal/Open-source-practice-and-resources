@@ -68,6 +68,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   * [API](#api)
   * [React](#react)
   * [Angular](#angular)
+  * [Ember](#ember)
   * [Practice](#practice)
 - [Git and GitHub](#git-and-github)
 - [Good first issue finder](#good-first-issue-finder)
@@ -275,6 +276,10 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   ### Angular
   - :file_folder: [Angular Documentation](https://angular.io/docs)
   - :video_camera: [Full course](https://www.youtube.com/watch?v=3qBXWUpoPHo&t=44506s)
+  
+  ### Ember
+  - :file_folder: [Ember Documentation](https://guides.emberjs.com/release/)
+  - :books: [Tutorial](https://guides.emberjs.com/release/tutorial/part-1/)
   
   ### Practice
   - :bulb: [Frontend Mentor](https://www.frontendmentor.io/)
