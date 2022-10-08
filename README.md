@@ -68,6 +68,8 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   * [JavaScript](#javascript)
   * [API](#api)
   * [React](#react)
+  * [Angular](#angular)
+  * [Ember](#ember)
   * [Practice](#practice)
 - [Git and GitHub](#git-and-github)
 - [Good first issue finder](#good-first-issue-finder)
@@ -75,6 +77,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - [Machine Learning](#machine-learning)
 - [Vue](#vue)
 - [Web3](#web3)
+  * [Blockchain](#blockchain)
   
 ---
 
@@ -108,6 +111,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   <li>📹<a href="https://youtube.com/playlist?list=PLQkwcJG4YTCT-lTlkOmE-PpRkuyNXq6sW">Spotify clone with MVVM firebase</a></li>
   <li>📹<a href="https://github.com/DhruviThakkar210/100-DAYS-OF-CODING-CHALLENGE/tree/main/FRONT%20END%20PROJECTS/DAY13(VALIDATION%20PART-2)">Validation forms using regex</a></li>
    <li>📹<a href="https://github.com/DhruviThakkar210/100-DAYS-OF-CODING-CHALLENGE/tree/main/FRONT%20END%20PROJECTS/DAY6(SWIGGY'S%20SLIDER)">Owl carousel </a></li>
+   <li>📹<a href="https://github.com/Chayan-11/Euclidean-Algorithm-Calculator">Euclidean Algorithm Calculator</a></li>
 </ul>
 </details>
     
@@ -355,7 +359,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :bulb: [FAUN Publication](https://faun.dev/c/)
 
 ---
-
+  
 ## Core CS 
 - :video_camera: [CS Fundamentals](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
 - :video_camera: [Computer Networking](https://www.youtube.com/watch?v=IPvYjXCsTg8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=3)
@@ -398,6 +402,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   - :file_folder: [official documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
   - :books: [w3schools HTML](https://www.w3schools.com/tags/)
   - :books: [geeksforgeeks html](https://www.geeksforgeeks.org/html/)
+  - :books: [project for html](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app)
   - :books: [tutorialspoint html](https://www.tutorialspoint.com/internet_technologies/html)
   - :video_camera: [HTML full course](https://www.youtube.com/watch?v=pQN-pnXPaVg)
   - :video_camera: [HTML Crash Course](https://www.youtube.com/watch?v=qz0aGYrrlhU&ab_channel=ProgrammingwithMosh)
@@ -433,6 +438,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   - :file_folder: [JavaScript official documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - :video_camera: [Full course](https://www.youtube.com/watch?v=lI1ae4REbFM)
   - :video_camera: [Freecodecamp course](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+  - :books: [Eloquent Javascript](https://eloquentjavascript.net/)
   - :books: [Scrimba JavaScript course](https://scrimba.com/learn/learnjavascript)
   - :books: [W3School JavaScript course](https://www.w3schools.com/js)
   - :books: [Modern JavaScript](https://www.modernjs.com)
@@ -453,6 +459,14 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   - :video_camera: [Full course](https://www.youtube.com/watch?v=u6gSSpfsoOQ)
   - :books: [Scrimba React course](https://scrimba.com/learn/learnreact)
 
+  ### Angular
+  - :file_folder: [Angular Documentation](https://angular.io/docs)
+  - :video_camera: [Full course](https://www.youtube.com/watch?v=3qBXWUpoPHo&t=44506s)
+  
+  ### Ember
+  - :file_folder: [Ember Documentation](https://guides.emberjs.com/release/)
+  - :books: [Tutorial](https://guides.emberjs.com/release/tutorial/part-1/)
+  
   ### Practice
   - :bulb: [Frontend Mentor](https://www.frontendmentor.io/)
   - :bulb: [Frontend Practice](https://www.frontendpractice.com/)
@@ -482,6 +496,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :video_camera: [Brief History Of Linux](https://www.youtube.com/watch?v=ShcR4Zfc6Dw)
 - :video_camera: [Complete Linux Guide](https://www.youtube.com/watch?v=wBp0Rb-ZJak)
 - :video_camera: [Linux Masterclass Course](https://youtube.com/playlist?list=PL2kSRH_DmWVZp_cu6MMPWkgYh7GZVFS6i)
+- :books: [Vim Cheatsheet](https://vim.rtorr.com/)
 
 ---
 
@@ -519,6 +534,13 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :books: [Best roadmap](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/#d12f)
 - :video_camera: [Web3 Roadmap](https://www.youtube.com/watch?v=Lz3m4BI1EfY&t=5s)
 
-
+### Blockchain
+- :hammer_and_wrench:[Blockchain Developer Roadmap](https://roadmap.sh/blockchain)
+- :file_folder: [Ethereum official Documentation](https://ethereum.org/en/developers/docs/)
+- :file_folder: [Solidity documentation](https://docs.soliditylang.org/en/v0.8.17/)
+- :video_camera: [Dapp University youtube](https://www.youtube.com/c/DappUniversity)
+- :bulb: [Developers Communities](https://github.com/commclassroom/roadmaps/tree/main/Blockchain/Communities)
+- :bulb: [Project Ideas](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-web3-development-4g74)
+  
  
 **Don't forget to give a star :star: to the repository, join the discord server for more updates**
