@@ -121,6 +121,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 
 ### Shell Commands
 - :video_camera: [Shell Commands](https://www.youtube.com/watch?v=iwolPf6kN-k)
+- :books: [Shell Scripting Tutorial](https://www.tutorialspoint.com/unix/shell_scripting.htm)
 
 ### Python 
 - :hammer_and_wrench: [Roadmap](https://roadmap.sh/python)
