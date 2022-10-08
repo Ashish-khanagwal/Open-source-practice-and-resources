@@ -252,6 +252,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   - :file_folder: [JavaScript official documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - :video_camera: [Full course](https://www.youtube.com/watch?v=lI1ae4REbFM)
   - :video_camera: [Freecodecamp course](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+  - :books: [Eloquent Javascript](https://eloquentjavascript.net/)
   - :books: [Scrimba JavaScript course](https://scrimba.com/learn/learnjavascript)
   - :books: [W3School JavaScript course](https://www.w3schools.com/js)
   - :books: [Modern JavaScript](https://www.modernjs.com)
