@@ -118,64 +118,21 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 ---  
 
 ## Angular 
-1. IDEs
+- IDEs
 
     - [visualstudio](https://visualstudio.microsoft.com/downloads/)
     - [visualstudioCode](https://code.visualstudio.com/Download)
-
-2. HTML
-
-    - [w3schools](https://www.w3schools.com/html/) HTML Tutorial
-    - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML) HTML: HyperText Markup Language
-
-3. CSS
-
-    - [w3schools](https://www.w3schools.com/css/) CSS Tutorial
-    - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS) CSS: Cascading Style Sheets
-    - [fontawesome](https://fontawesome.com/) Official website
-    - [w3schools](https://www.w3schools.com/icons/icons_reference.asp) Icons Reference
-
-4. JavaScript
-
-    _Basic_
-
-    - [w3schools](https://www.w3schools.com/js/default.asp) JavaScript Tutorial
-    - [developer.mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript) JavaScript
-    - [javascript.info](https://javascript.info/) The Modern JavaScript Tutorial
-    - [htmlcheatsheet](https://htmlcheatsheet.com/js/) JS CheatSheet
-
-    _es6_
-
-    - [exploringjs](https://exploringjs.com/es6/index.html) Exploring ES6
-    - [es6-features](http://es6-features.org/#Constants) ECMAScript 6 — New Features: Overview & Comparison
-    - [jsfeatures](https://jsfeatures.in) jsfeatures
-    - [babeljs](https://babeljs.io/docs/en/learn) Learn ES2015
-    - [github](https://github.com/lukehoban/es6features) ECMAScript 6
-    - [github](https://github.com/sudheerj/ECMAScript-features) ECMAScript 6
-
-    _Style Guide_
-
-    - [github](https://github.com/airbnb/javascript) Airbnb JavaScript Style Guide
-    - [github](https://github.com/ryanmcdermott/clean-code-javascript) clean-code-javascript
-
-    _playground_
-
-    - [js-array-playground](https://js-array-playground.firebaseapp.com/) JavaScript Array Playground
-    - [jsfiddle](https://jsfiddle.net/)
-    - [plnkr](https://plnkr.co/)
-    - [jsbin](https://jsbin.com/?html,output)
-    - [codepen](https://codepen.io/pen/)
     - [stackblitz](https://stackblitz.com/)
 
-5. Angular
+- Angular
 
     - [official website](https://angular.io/)
 
-6. Routing
+- Routing
 
     - [Angular-router](https://angular.io/guide/router)
 
-7. Build Tools
+- Build Tools
 
     - Package Managers
         - [npm](https://www.npmjs.com/)
@@ -193,7 +150,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
         - [gulp](https://gulpjs.com/)
         - [grunt](https://gruntjs.com/)
 
-8. UI Design
+- UI Design
 
     - CSS Preprocessor
         - [Sass/CSS](https://sass-lang.com/)
@@ -221,7 +178,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
         - [primeng](https://github.com/primefaces/primeng) Angular UI Component Library
         - [clarity](https://github.com/vmware/clarity) Angular components working together to craft exceptional experiences
 
-9. API Clients
+- API Clients
 
     - REST
         - [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
@@ -232,7 +189,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
         - [Relay](https://facebook.github.io/relay/)
         - [urql](https://github.com/FormidableLabs/urql)
 
-10. Fundamental 3rd parties
+- Fundamental 3rd parties
 
     - TypeScript
         - ["TypeScript Deep Dive"](https://github.com/basarat/typescript-book)
@@ -242,23 +199,23 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
         - [RxJS manual](http://reactivex.io/rxjs/manual/overview.html#introduction)
         - [RxJS In-Depth (video)](https://www.youtube.com/watch?v=KOOT7BArVHQ)
 
-11. State Management
+- State Management
 
     - [ngrx](https://ngrx.io/)
     - [NGXS](https://ngxs.gitbook.io/ngxs/)
 
-12. Architecture
+- Architecture
 
     - [Schematics](https://www.npmjs.com/package/@angular-devkit/schematics)
     - [angular/elements](https://angular.io/guide/elements)
 
-13. Coding style
+- Coding style
 
     - [Angular Styleguide](https://angular.io/guide/styleguide)
     - [TSLint](https://palantir.github.io/tslint/)
     - [Prettier](https://prettier.io/)
 
-14. Utility Libraries
+- Utility Libraries
 
     - [Lodash](https://lodash.com/)
     - [Moment](https://momentjs.com/)
@@ -267,7 +224,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
     - [ImmutableJS](https://facebook.github.io/immutable-js/)
     - [Ramda](https://ramdajs.com/)
 
-15. Testing
+- Testing
 
     - Unit Testing
         - [Jasmine](https://jasmine.github.io/)
@@ -279,21 +236,21 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
     - Integration Testing
         - [Karma](https://karma-runner.github.io/)
 
-16. Internationalization
+- Internationalization
 
     - [angular/localize](https://angular.io/guide/i18n)
 
-17. Progressive Web Apps
+- Progressive Web Apps
 
     - [angular/pwa](https://angular.io/guide/service-worker-getting-started)
     - [Workbox](https://developers.google.com/web/tools/workbox/)
 
-18. Mobile Application Development
+- Mobile Application Development
 
     - [NativeScript](https://www.nativescript.org/)
     - [Ionic](https://ionicframework.com/)
 
-19. Desktop Application Development
+- Desktop Application Development
 
     - [Angular Universal](https://universal.angular.io/)
     - [Electron](https://electronjs.org/)
