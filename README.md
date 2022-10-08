@@ -187,7 +187,9 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 ## Design 
 - :hammer_and_wrench: [Colorzilla](https://www.colorzilla.com/)
 - :hammer_and_wrench: [Coolors](https://coolors.co/)
+- :hammer_and_wrench: [Color Hunt](https://colorhunt.co/)
 - :hammer_and_wrench: [Dribbble](https://dribbble.com/)
+- :hammer_and_wrench: [Flat UI Colors](https://flatuicolors.com/)
 - :hammer_and_wrench: [FocoClipping](https://www.fococlipping.com/)
 - :hammer_and_wrench: [Freepik](https://www.freepik.com/)
 - :hammer_and_wrench: [Noun Project](https://thenounproject.com/)
