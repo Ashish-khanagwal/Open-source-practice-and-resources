@@ -60,6 +60,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - [Core-CS](#core-cs)
 - [Design](#design)
 - [Docker](#docker)
+- [DSA](#dsa)
 - [Frontend](#frontend)
   * [HTML](#html)
   * [CSS](#css)
@@ -209,6 +210,17 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 ## Docker
 - :video_camera: [kickstart docker](https://www.youtube.com/watch?v=gAkwW2tuIqE)
 - :video_camera: [Complete Docker Guide](https://www.youtube.com/watch?v=pTFZFxd4hOI)
+ 
+---
+
+## DSA
+
+### Java
+- :video_camera: [Pepcoding](https://youtube.com/playlist?list=PL-Jc9J83PIiFj7YSPl2ulcpwy-mwj1SSk)
+- :video_camera: [Java + DSA + Interview Preperation Playlist](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
+
+### C++
+- :video_camera: [Complete C++ Placement DSA course](https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
  
 ---
   
@@ -365,5 +377,6 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :bulb: [Developers Communities](https://github.com/commclassroom/roadmaps/tree/main/Blockchain/Communities)
 - :bulb: [Project Ideas](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-web3-development-4g74)
   
+---
  
 **Don't forget to give a star :star: to the repository, join the discord server for more updates**
