@@ -212,7 +212,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 ## Frontend
   - :video_camera: [Full Course](https://www.youtube.com/watch?v=zJSY8tbf_ys)
   - :video_camera: [Frontend Web Development Bootcamp Course by freeCodeCamp](https://youtu.be/zJSY8tbf_ys)
-  - :hammer_and_wrench: [Roadmap by Community Classroom](https://www.commclassroom.org/roadmaps#_3iwk93nyk)
+  - :hammer_and_wrench: [Roadmap by Community Classroom](https://www.commclassroom.org/frontend-roadmap)
   - :hammer_and_wrench: [Roadmap](https://roadmap.sh/frontend)
   - :hammer_and_wrench: [Frontend Projects](https://github.com/DhruviThakkar210/100-DAYS-OF-CODING-CHALLENGE/tree/main/FRONT%20END%20PROJECTS)
   - :hammer_and_wrench: [Full stack Roadmap](https://coggle.it/diagram/XfeRbWj7xy3dsEX8/t/web-development-in-2020)
