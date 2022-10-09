@@ -3,7 +3,7 @@
 
 # Gateway to Open Source | Best Programming Resources
 ## Agenda:rocket:
-The Community's aim from this repository is not just providing best resources/content but also to <b>motivate/encourage beginners who've never contributed to Open Source, and help them get started with Open Source</b> in a easy way with friendy projects and with full support</p>
+The Community's aim from this repository is not just providing best resources/content but also to <b>motivate/encourage beginners who've never contributed to Open Source, and help them get started with Open Source</b> in a easy way with friendy projects and with full support
 
 ## Share your contribution 
 
