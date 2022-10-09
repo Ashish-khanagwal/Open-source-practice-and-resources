@@ -60,6 +60,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - [Core-CS](#core-cs)
 - [Design](#design)
 - [Docker](#docker)
+- [DSA](#dsa)
 - [Frontend](#frontend)
   * [HTML](#html)
   * [CSS](#css)
@@ -77,7 +78,6 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - [Vue](#vue)
 - [Web3](#web3)
   * [Blockchain](#blockchain)
- -[DSA](#dsa)
   
 ---
 
@@ -209,6 +209,17 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 ## Docker
 - :video_camera: [kickstart docker](https://www.youtube.com/watch?v=gAkwW2tuIqE)
 - :video_camera: [Complete Docker Guide](https://www.youtube.com/watch?v=pTFZFxd4hOI)
+ 
+---
+
+## DSA
+
+### Java
+- :video_camera: [Pepcoding](https://youtube.com/playlist?list=PL-Jc9J83PIiFj7YSPl2ulcpwy-mwj1SSk)
+- :video_camera: [Java + DSA + Interview Preperation Playlist](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
+
+### C++
+- :video_camera: [Complete C++ Placement DSA course](https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
  
 ---
   
@@ -364,51 +375,5 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :bulb: [Project Ideas](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-web3-development-4g74)
   
 ---
-  ## DSA Resources
-
-Awesome resources for C++,Java and Python
-
-
-
-
-### Java
-
-- Start with learning basic syntax and topics like loops,if-else statements and Functions.
-
-- Practice Questions of these topics before moving to DSA for basics clarity
-- You're ready to start DSA.Links are given below
-- Pepcoding and Kunal Kushwaha 's youtube playlist are more than enough to clear your DSA concepts in Java
-- FunFact: Some extremely helpful notes are added in their playlist's decription.Do check.
-
-#### 🔗 Links
-- (https://www.pepcoding.com/images/logo.png)](https://youtube.com/playlist?list=PL-Jc9J83PIiFj7YSPl2ulcpwy-mwj1SSk)
-- (https://i.ytimg.com/vi/rZ41y93P2Qo/hqdefault.jpg)](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
-
-
-
-### C++
-- Start with Basics
-- Practice questions regularly
-- CodeHelp by Babbar is enough to master C++
-
-
-#### 🔗 Links
-- (https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
-
-### Python
--Start with Basics and Practice regularly
--Code With Harry has an awesome playlist for this
-#### 🔗Links
-- (https://youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME)
-###  Extra resources
-
-- https://www.w3schools.com/
- One of the best sites to look upon for references and notes when in doubt
-
-- https://stackoverflow.com/
-
-
-
-  
  
 **Don't forget to give a star :star: to the repository, join the discord server for more updates**
