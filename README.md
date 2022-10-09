@@ -381,8 +381,8 @@ Awesome resources for C++,Java and Python
 - FunFact: Some extremely helpful notes are added in their playlist's decription.Do check.
 
 #### 🔗 Links
-[![Pepcoding](https://www.pepcoding.com/images/logo.png)](https://youtube.com/playlist?list=PL-Jc9J83PIiFj7YSPl2ulcpwy-mwj1SSk)
-[![KunalKushwaha](https://i.ytimg.com/vi/rZ41y93P2Qo/hqdefault.jpg)](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
+- (https://www.pepcoding.com/images/logo.png)](https://youtube.com/playlist?list=PL-Jc9J83PIiFj7YSPl2ulcpwy-mwj1SSk)
+- (https://i.ytimg.com/vi/rZ41y93P2Qo/hqdefault.jpg)](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 
 
 
@@ -393,13 +393,13 @@ Awesome resources for C++,Java and Python
 
 
 #### 🔗 Links
-[![LoveBabbar](https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
+- (https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
 
 ### Python
 -Start with Basics and Practice regularly
 -Code With Harry has an awesome playlist for this
 #### 🔗Links
-[![Harry](https://youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME)
+- (https://youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME)
 ###  Extra resources
 
 - https://www.w3schools.com/
