@@ -39,5 +39,11 @@ Para añadir o contribuir lee  [Contribution-guide](https://github.com/Ashish-kh
 :video_camera: Recursos de vídeo (Youtube, cursos, etc...)
 
 :bulb: Otras/Sugerencias
+  
+---
+  
+## indice  
+  
+---
 
 **No te olvides de dar una estrella :star: al depósito y unirte el servidor de Discord para las últimas noticias.**
