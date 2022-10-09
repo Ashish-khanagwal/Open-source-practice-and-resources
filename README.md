@@ -240,6 +240,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   - :bulb: [CSS Resources](https://www.cssportal.com/css-resources.php)
   - :bulb: [Style Stage - A modern CSS showcase styled by community contributions](https://stylestage.dev/)
   - :video_camera: [CSS Units px, rem, em, vh, vw / Absolute Vs Relative Units](https://nados.io/video/css-units-px-rem-em-vh-vw-absolute-vs-relative-units)
+  - :books: [project for CSS](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
   - :hammer_and_wrench: [CSS Selector Generator](https://github.com/antonmedv/finder)
   - :bulb: [CSS Cheat Sheet](https://www.hostinger.com/tutorials/css-cheat-sheet)
   - :books: [CSS Tutorial - Learn CSS in Detail](https://www.scaler.com/topics/css/)
