@@ -60,6 +60,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - [Core-CS](#core-cs)
 - [Design](#design)
 - [Docker](#docker)
+- [DSA](#dsa)
 - [Frontend](#frontend)
   * [HTML](#html)
   * [CSS](#css)
@@ -187,9 +188,12 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 ## Design 
 - :hammer_and_wrench: [Colorzilla](https://www.colorzilla.com/)
 - :hammer_and_wrench: [Coolors](https://coolors.co/)
+- :hammer_and_wrench: [Color Hunt](https://colorhunt.co/)
 - :hammer_and_wrench: [Dribbble](https://dribbble.com/)
+- :hammer_and_wrench: [Flat UI Colors](https://flatuicolors.com/)
 - :hammer_and_wrench: [FocoClipping](https://www.fococlipping.com/)
 - :hammer_and_wrench: [Freepik](https://www.freepik.com/)
+- :hammer_and_wrench: [GoodUI](https://goodui.org/)
 - :hammer_and_wrench: [Noun Project](https://thenounproject.com/)
 - :hammer_and_wrench: [Pttrns](https://www.pttrns.com/)
 - :hammer_and_wrench: [SVG Repo](https://www.svgrepo.com/)
@@ -206,6 +210,17 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 ## Docker
 - :video_camera: [kickstart docker](https://www.youtube.com/watch?v=gAkwW2tuIqE)
 - :video_camera: [Complete Docker Guide](https://www.youtube.com/watch?v=pTFZFxd4hOI)
+ 
+---
+
+## DSA
+
+### Java
+- :video_camera: [Pepcoding](https://youtube.com/playlist?list=PL-Jc9J83PIiFj7YSPl2ulcpwy-mwj1SSk)
+- :video_camera: [Java + DSA + Interview Preperation Playlist](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
+
+### C++
+- :video_camera: [Complete C++ Placement DSA course](https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
  
 ---
   
@@ -240,6 +255,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   - :bulb: [CSS Resources](https://www.cssportal.com/css-resources.php)
   - :bulb: [Style Stage - A modern CSS showcase styled by community contributions](https://stylestage.dev/)
   - :video_camera: [CSS Units px, rem, em, vh, vw / Absolute Vs Relative Units](https://nados.io/video/css-units-px-rem-em-vh-vw-absolute-vs-relative-units)
+  - :books: [project for CSS](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
   - :hammer_and_wrench: [CSS Selector Generator](https://github.com/antonmedv/finder)
   - :bulb: [CSS Cheat Sheet](https://www.hostinger.com/tutorials/css-cheat-sheet)
   - :books: [CSS Tutorial - Learn CSS in Detail](https://www.scaler.com/topics/css/)
@@ -362,5 +378,6 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :bulb: [Developers Communities](https://github.com/commclassroom/roadmaps/tree/main/Blockchain/Communities)
 - :bulb: [Project Ideas](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-web3-development-4g74)
   
+---
  
 **Don't forget to give a star :star: to the repository, join the discord server for more updates**
