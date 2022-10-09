@@ -1,8 +1,9 @@
 # :wave:  Bienvenidos al Código para la Comunidad
 <p align="center"><img src="https://user-images.githubusercontent.com/75534912/194343020-6cbd2485-c2ea-4779-87e2-9708238398e7.png"></p>
+
 # La entrada del código abierto | Los mejores recursos de la programación
 ## Nuestros objetivos:rocket:
-<p>Los objetivos de la comunidad no son solo proveer los mejores recursos, sino también <b>motivatar y animar los principantes que no han contruibido nunca al código abierto, y ayudarlos a empezar</b>proyectos fácilmente y con apoyo total.</p>
+Los objetivos de la comunidad no son solo proveer los mejores recursos, sino también <b>motivatar y animar los principantes que no han contruibido nunca al código abierto, y ayudarlos a empezar</b>proyectos fácilmente y con apoyo total.
 
 ## Comparte tu contribución
 
