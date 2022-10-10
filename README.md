@@ -55,6 +55,7 @@ Add resources in other languages too :point_down:
 - [Backend](#backend)
   * [Python](#python)
   * [Django](#django)
+  * [Flask](#flask)
   * [Go](#go)
   * [NodeJs](#nodejs)
   * [Express](#express)
@@ -145,6 +146,9 @@ Add resources in other languages too :point_down:
 - :file_folder: [Django Official Documentation](https://docs.djangoproject.com/en/4.1/)
 - :file_folder: [Django REST Official Documentation](https://www.django-rest-framework.org/)
 - :video_camera: [Freecodecamp Django Course](https://www.youtube.com/watch?v=F5mRW0jo-U4)
+
+### Flask
+- video_camera: [Flask tutorial playlist by Tech with tim](https://youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX)
 
 ### Go
 - :file_folder: [Go Official Documentation](https://go.dev/doc/)
