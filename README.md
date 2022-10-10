@@ -126,6 +126,7 @@ Add resources in other languages too :point_down:
 
 ## Backend
 - :hammer_and_wrench: [Roadmap](https://roadmap.sh/backend)
+- :video_camera:[Backend Developer Roadmap](https://youtu.be/aZkG0b6oi4s)
 
 ### Shell Commands
 - :video_camera: [Shell Commands](https://www.youtube.com/watch?v=iwolPf6kN-k)
