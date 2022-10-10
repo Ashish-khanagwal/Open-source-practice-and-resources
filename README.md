@@ -203,6 +203,7 @@ Add resources in other languages too :point_down:
 - :hammer_and_wrench: [FocoClipping](https://www.fococlipping.com/)
 - :hammer_and_wrench: [Freepik](https://www.freepik.com/)
 - :hammer_and_wrench: [GoodUI](https://goodui.org/)
+- :hammer_and_wrench: [HueSnap](https://www.huesnap.com/)
 - :hammer_and_wrench: [Noun Project](https://thenounproject.com/)
 - :hammer_and_wrench: [Pttrns](https://www.pttrns.com/)
 - :hammer_and_wrench: [SVG Repo](https://www.svgrepo.com/)
