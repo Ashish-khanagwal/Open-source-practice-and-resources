@@ -281,6 +281,7 @@ Add resources in other languages too :point_down:
   - :video_camera: [Bootstrap CSS Framework - Full Course for Beginners](https://www.youtube.com/watch?v=-qfEOE4vtxE)
   - :file_folder: [Tailwind Documentation](https://tailwindcss.com)
   - :video_camera: [Tailwind CSS Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=4wGmylafgM4)
+  - :file_folder: [Bulma Documentation](https://bulma.io/documentation/)
   
   
   ### JavaScript
