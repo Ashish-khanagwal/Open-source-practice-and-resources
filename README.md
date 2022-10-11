@@ -232,6 +232,7 @@ Add resources in other languages too :point_down:
 ## Docker
 - :video_camera: [kickstart docker](https://www.youtube.com/watch?v=gAkwW2tuIqE)
 - :video_camera: [Complete Docker Guide](https://www.youtube.com/watch?v=pTFZFxd4hOI)
+- :video_camera: [Docker Crash Course Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7)
  
 ---
 
@@ -289,6 +290,7 @@ Add resources in other languages too :point_down:
   - :video_camera: [Bootstrap CSS Framework - Full Course for Beginners](https://www.youtube.com/watch?v=-qfEOE4vtxE)
   - :file_folder: [Tailwind Documentation](https://tailwindcss.com)
   - :video_camera: [Tailwind CSS Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=4wGmylafgM4)
+  - :file_folder: [Bulma Documentation](https://bulma.io/documentation/)
   
   
   ### JavaScript
