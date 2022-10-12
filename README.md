@@ -174,6 +174,7 @@ Add resources in other languages too :point_down:
 - :hammer_and_wrench: [Roadmap](https://roadmap.sh/java)
 - :video_camera: [Full Course](https://www.youtube.com/watch?v=eIrMbAQSU34)
 - :file_folder: [Official Documentation](https://docs.oracle.com/en/java/) 
+- :file_folder: [Java Course](https://www.edx.org/course/java-programming-fundamentals)
 
 ### Spring Boot
 - :video_camera: [Freecodecamp Full Course](https://www.youtube.com/watch?v=vtPkZShrvXQ&t=18s)
