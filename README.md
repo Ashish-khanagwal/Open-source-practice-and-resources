@@ -144,7 +144,6 @@ Add resources in other languages too :point_down:
 - :file_folder: [Learn Python](https://www.learnpython.org/)  
 - :file_folder: [w3Schools-Python](https://www.w3schools.com/python/)  
 
-
 ### Django
 - :file_folder: [Django Official Documentation](https://docs.djangoproject.com/en/4.1/)
 - :file_folder: [Django REST Official Documentation](https://www.django-rest-framework.org/)
