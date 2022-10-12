@@ -142,6 +142,7 @@ Add resources in other languages too :point_down:
 - :books: [A Byte of Python](https://python.swaroopch.com)
 - :file_folder: [Awesome Python](https://awesome-python.com)
 - :file_folder: [Learn Python](https://www.learnpython.org/)  
+- :file_folder: [w3Schools-Python](https://www.w3schools.com/python/)  
 
 ### Django
 - :file_folder: [Django Official Documentation](https://docs.djangoproject.com/en/4.1/)
@@ -172,6 +173,7 @@ Add resources in other languages too :point_down:
 - :hammer_and_wrench: [Roadmap](https://roadmap.sh/java)
 - :video_camera: [Full Course](https://www.youtube.com/watch?v=eIrMbAQSU34)
 - :file_folder: [Official Documentation](https://docs.oracle.com/en/java/) 
+- :file_folder: [Java Course from edx](https://www.edx.org/course/java-programming-fundamentals)
 
 ### Spring Boot
 - :video_camera: [Freecodecamp Full Course](https://www.youtube.com/watch?v=vtPkZShrvXQ&t=18s)
