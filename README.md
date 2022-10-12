@@ -244,6 +244,7 @@ Add resources in other languages too :point_down:
 
 ### C++
 - :video_camera: [Complete C++ Placement DSA course](https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
+- :video_camera: [Complete C++ with STL](https://youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL)
  
 ---
   
