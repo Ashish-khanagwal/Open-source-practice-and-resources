@@ -159,6 +159,10 @@ Add resources in other languages too :point_down:
 - :file_folder: [Go Official Documentation](https://go.dev/doc/)
 - :video_camera: [Freecodecamp Go Course](https://www.youtube.com/watch?v=YS4e4q9oBaU)
 
+### Flutter
+- :file_folder: [Flutter Official Documentation](https://docs.flutter.dev/)
+- :video_camera: [Flutter Course for Beginners](https://www.youtube.com/watch?v=VPvVD8t02U8)
+
 ### NodeJS
 - :hammer_and_wrench: [Roadmap](https://roadmap.sh/nodejs)
 - :video_camera: [Freecodecamp Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE)
