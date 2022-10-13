@@ -207,7 +207,15 @@ Add resources in other languages too :point_down:
 - :bulb: [FAUN Publication](https://faun.dev/c/)
 
 ---
+
+
+## Cross Platform Dev 
+
+### Flutter
+- :file_folder: [Flutter Official Documentation](https://docs.flutter.dev/)
+- :video_camera: [Flutter Course for Beginners](https://www.youtube.com/watch?v=VPvVD8t02U8)
   
+---
 ## Core CS 
 - :video_camera: [CS Fundamentals](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
 - :video_camera: [Computer Networking](https://www.youtube.com/watch?v=IPvYjXCsTg8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=3)
