@@ -277,6 +277,7 @@ Add resources in other languages too :point_down:
   - :books: [tutorialspoint html](https://www.tutorialspoint.com/internet_technologies/html)
   - :video_camera: [HTML full course](https://www.youtube.com/watch?v=pQN-pnXPaVg)
   - :video_camera: [HTML Crash Course](https://www.youtube.com/watch?v=qz0aGYrrlhU&ab_channel=ProgrammingwithMosh)
+  - :file_folder: [Learn HTML!](https://web.dev/learn/html/)
   
   ### CSS
   - :video_camera: [Introduction to CSS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
@@ -348,6 +349,7 @@ Add resources in other languages too :point_down:
   - :bulb: [Codewell](https://www.codewell.cc/)
   - :bulb: [Javascript30](https://javascript30.com/)
   - :bulb: [Codewars](https://www.codewars.com/)
+  - :bulb: [100 DAYS CSS CHALLENGE](https://100dayscss.com)
 
 ---  
 
