@@ -1,8 +1,10 @@
 # :wave: Passerelle vers l'Open Source | Meilleures ressources de programmation
 <p align="center"><img src="https://user-images.githubusercontent.com/75534912/194343020-6cbd2485-c2ea-4779-87e2-9708238398e7.png"></p>
 
-# Gateway to Open Source | Best Programming Resources
-## Agenda:rocket:
+# Passerelle vers l'Open Source | Meilleures ressources de programmation
+
+## Ordre du jour :fusée
+
 L'objectif de la communauté à partir de ce référentiel n'est pas seulement de fournir les meilleures ressources/contenus, mais aussi de motiver/encourager les débutants qui n'ont jamais contribué à l'Open Source, et de les aider à démarrer avec l'Open Source de manière simple avec des projets amicaux et avec un support complet
 
 ### Partagez votre contribution
