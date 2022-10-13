@@ -278,7 +278,7 @@ Add resources in other languages too :point_down:
   - :video_camera: [HTML full course](https://www.youtube.com/watch?v=pQN-pnXPaVg)
   - :video_camera: [HTML Crash Course](https://www.youtube.com/watch?v=qz0aGYrrlhU&ab_channel=ProgrammingwithMosh)
   - :file_folder: [Learn HTML!](https://web.dev/learn/html/)
-  - :file_folder: [interneting is hard](https://www.internetingishard.com)
+  - :file_folder: [Interneting is hard](https://www.internetingishard.com)
   
   ### CSS
   - :video_camera: [Introduction to CSS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
