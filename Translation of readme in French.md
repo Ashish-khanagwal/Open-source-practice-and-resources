@@ -1,4 +1,4 @@
-# :wave: Passerelle vers l'Open Source | Meilleures ressources de programmation
+# :wave: code for community vous souhaite la bienvenue | Meilleures ressources de programmation
 <p align="center"><img src="https://user-images.githubusercontent.com/75534912/194343020-6cbd2485-c2ea-4779-87e2-9708238398e7.png"></p>
 
 # Passerelle vers l'Open Source | Meilleures ressources de programmation
