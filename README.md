@@ -64,6 +64,7 @@ Add resources in other languages too :point_down:
   * [Spring Boot](#spring-boot)
   * [Shell Commands](#shell-commands)
   * [Laravel](#laravel)
+  * [Ruby](#ruby)
 - [Blog writing](#blog-writing)
 - [Core-CS](#core-cs)
 - [Design](#design) 
@@ -182,6 +183,11 @@ Add resources in other languages too :point_down:
 
 ### Laravel
 - :file_folder: [Official Documentation](https://laravel.com/docs)
+
+### Ruby
+- :books: [Install Ruby On Rails](https://gorails.com/setup/ubuntu/22.04)
+- :file_folder: [Official Documentation](https://www.ruby-lang.org/en/documentation/)
+- :video_camera: [Ruby on Rails for Beginners](https://youtube.com/playlist?list=PLm8ctt9NhMNV75T9WYIrA6m9I_uw7vS56)
 
 ---
 
