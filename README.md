@@ -65,7 +65,7 @@ Add resources in other languages too :point_down:
   * [Shell Commands](#shell-commands)
   * [Laravel](#laravel)
   * [Ruby](#ruby)
-  * [MongoDB](#mongo-db)
+  * [MongoDB](#mongodb)
 - [Blog writing](#blog-writing)
 - [Core-CS](#core-cs)
 - [Design](#design) 
