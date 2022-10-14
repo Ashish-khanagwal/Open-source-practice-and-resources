@@ -91,6 +91,7 @@ Add resources in other languages too :point_down:
 - [Good first issue finder](#good-first-issue-finder)
 - [Linux](#linux)
 - [Machine Learning](#machine-learning)
+- [Virtualization](#virtualization)
 - [Vue](#vue)
 - [Web3](#web3)
   - [Blockchain](#blockchain)
@@ -413,6 +414,12 @@ Add resources in other languages too :point_down:
   * :video_camera: [House Price Prediction Using Linear Regression](https://www.youtube.com/watch?v=1Gx1y2boe_M&t=3)
   * :video_camera: [Diabetes Prediction Using Logistics Regression](https://www.youtube.com/watch?v=YkkgEk_fZ9A)
   
+---
+
+## Virtualization 
+- :file_folder: [Virtualization](https://www.redhat.com/en/topics/virtualization/what-is-virtualization)
+- :video_camera: [Setup Virtual machine in Oracle VirtualBox](https://www.youtube.com/watch?v=Jy3b9laPlF8)
+
 ---
 
 ## Vue 
