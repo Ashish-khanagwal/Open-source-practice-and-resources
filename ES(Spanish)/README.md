@@ -3,9 +3,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/75534912/194343020-6cbd2485-c2ea-4779-87e2-9708238398e7.png"></p>
 
 # La entrada al código abierto | Los mejores recursos de programación
-
-## Nuestros objetivos:rocket
-
+## Nuestros objetivos:rocket:
 Los objetivos de la comunidad no solo son proveer los mejores recursos/contenido, sino también <b>motivar/animar a principantes que nunca han contribuido al Código Abierto y ayudarlos a iniciar </b>de una forma simple con proyectos amigable y apoyo total de la comunidad.
 
 ## Comparte tu contribución
@@ -21,7 +19,7 @@ Los objetivos de la comunidad no solo son proveer los mejores recursos/contenido
 <a href="https://www.linkedin.com/in/ashish-khanagwal-890326213/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
-## Guía de contribución :point_down
+## Guía de contribución :point_down:
   
 Para agregar recursos o contribuir lee  [Guía-contribución](https://github.com/Ashish-khanagwal/Open-source-practice-and-resources/blob/main/CONTRIBUTING.md)
   
@@ -60,22 +58,18 @@ Para agregar recursos o contribuir lee  [Guía-contribución](https://github.com
 ## Desarrollo front-end
 
 ### HTML
-
 - :video_camera: [Curso de HTML para Principiantes](https://www.youtube.com/watch?v=rbuYtrNUxg4&list=PLL0TiOXBeDajhFCjmv5so-I2hwHcuUONr&index=1)
 
 ### CSS
-
 - :video_camera: [Curso de CSS para Principiantes](https://www.youtube.com/watch?v=W6GTDfrWjXs&list=PLL0TiOXBeDajhFCjmv5so-I2hwHcuUONr&index=2)
 
 ### JavaScript
-
 - :video_camera: [Programación funcional en Javascript](https://www.youtube.com/playlist?list=PLSnadb41DsdKMddToNitoXrgHK7CEbUki)
 - :video_camera: [Javascript Orientado a Objetos](https://www.youtube.com/playlist?list=PLL0TiOXBeDagBUkkwHdoI8rETLkPzSW5R)
 
 ---
 
 ## Docker
-
 - :video_camera: [Curso de Docker desde cero!](https://www.youtube.com/watch?v=4Dko5W96WHg)
 
 ---
@@ -83,10 +77,9 @@ Para agregar recursos o contribuir lee  [Guía-contribución](https://github.com
 ## Lenguajes de programación
 
 ### Python
-
 - :video_camera: [Curso de Python para Principiantes](https://www.youtube.com/watch?v=chPhlsHoEPo)
 - :file_folder: [Documentación de Python](https://docs.python.org/es/3/)
 
 ---
 
-**No te olvides de dar una estrella :star: al depósito y unirte el servidor de Discord para las últimas noticias.**
+**No te olvides darle una estrella :star: a este repositorio y unirte el servidor de Discord para las últimas noticias.**
