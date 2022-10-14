@@ -10,9 +10,9 @@ Los objetivos de la comunidad no solo son proveer los mejores recursos/contenido
 
 ## Comparte tu contribución
 
-**No te olvides de compartir tu contribución en tus redes sociales, esto motivará otras personas a iniciar :rocket: su aventura en el Código Abierto.**
+**No te olvides de compartir tu contribución en tus redes sociales, esto motivará a otras personas a iniciar :rocket: su aventura en el Código Abierto.**
 
-### **Únete la comunidad:people_holding_hands: & Conecta conmigo :handshake:**
+### **Únete a la comunidad:people_holding_hands: & Conecta conmigo :handshake:**
 
 <div align="center">
 <a href="https://twitter.com/codeforcomm"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2CFC.svg?style=for-the-badge&logo=Twitter&logoColor=white"/><a>
@@ -23,7 +23,7 @@ Los objetivos de la comunidad no solo son proveer los mejores recursos/contenido
 
 ## Guía de contribución :point_down
   
-Para agregar recursos o contribuir lee  [Contribution-guide](https://github.com/Ashish-khanagwal/Open-source-practice-and-resources/blob/main/CONTRIBUTING.md)
+Para agregar recursos o contribuir lee  [Guía-contribución](https://github.com/Ashish-khanagwal/Open-source-practice-and-resources/blob/main/CONTRIBUTING.md)
   
 **Añade recursos en orden alfabético y sigue la guía de contribución**
   
@@ -37,7 +37,7 @@ Para agregar recursos o contribuir lee  [Contribution-guide](https://github.com/
 
 :books: Blogs/Lista de tutoriales
 
-:hammer_and_wrench: Instrumentos/Software/Hojas de ruta
+:hammer_and_wrench: Herramientas/Software/Hojas de ruta
 
 :video_camera: Recursos de vídeo (Youtube, cursos en vídeo, etc...)
 
