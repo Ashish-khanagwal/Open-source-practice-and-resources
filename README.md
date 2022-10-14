@@ -331,6 +331,7 @@ Add resources in other languages too :point_down:
   - :file_folder: [Typescript official documentation](https://www.typescriptlang.org/docs)
   - :books: [w3schools Typescript](https://www.w3schools.com/typescript)
   - :video_camera: [Freecodecamp course](https://youtu.be/gp5H0Vw39yw)
+  - :books: [Learn Typescript Github Repo](https://github.com/TypeStrong/learn-typescript)
   
   ### React
   - :file_folder: [React Documentation](https://reactjs.org/docs/getting-started.html)
