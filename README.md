@@ -51,18 +51,8 @@ Add resources in other languages too :point_down:
 ---
   
 ## Index
-
-- [:wave:  Code For Community welcomes you](#wave--code-for-community-welcomes-you)
-- [Gateway to Open Source | Best Programming Resources](#gateway-to-open-source--best-programming-resources)
-  - [Agenda:rocket:](#agendarocket)
-  - [Share your contribution](#share-your-contribution)
-    - [**Join Community :people_holding_hands: & Connect with me :handshake:**](#join-community-people_holding_hands--connect-with-me-handshake)
-  - [Contribution Guide :point_down:](#contribution-guide-point_down)
-  - [Other Languages](#other-languages)
-  - [Index](#index)
   - [Android Development](#android-development)
   - [Backend](#backend)
-    - [Shell Commands](#shell-commands)
     - [Python](#python)
     - [Django](#django)
     - [Flask](#flask)
@@ -72,6 +62,7 @@ Add resources in other languages too :point_down:
     - [NestJS](#nestjs)
     - [Java](#java)
     - [Spring Boot](#spring-boot)
+    - [Shell Commands](#shell-commands)
     - [Laravel](#laravel)
     - [Ruby](#ruby)
     - [MongoDB](#mongodb)
