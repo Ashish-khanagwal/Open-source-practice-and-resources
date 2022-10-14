@@ -277,6 +277,8 @@ Add resources in other languages too :point_down:
   - :books: [tutorialspoint html](https://www.tutorialspoint.com/internet_technologies/html)
   - :video_camera: [HTML full course](https://www.youtube.com/watch?v=pQN-pnXPaVg)
   - :video_camera: [HTML Crash Course](https://www.youtube.com/watch?v=qz0aGYrrlhU&ab_channel=ProgrammingwithMosh)
+  - :file_folder: [Learn HTML!](https://web.dev/learn/html/)
+  - :file_folder: [Interneting is hard](https://www.internetingishard.com)
   
   ### CSS
   - :video_camera: [Introduction to CSS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
@@ -321,6 +323,7 @@ Add resources in other languages too :point_down:
   - :hammer_and_wrench: [GENERATING API KEY](https://www.youtube.com/watch?v=cF_MCAmuoI4)
   - :hammer_and_wrench: [GOOGLE MAP](https://www.w3schools.com/graphics/google_maps_intro.asp)
     * :hammer_and_wrench: [GITHUB REPO](https://github.com/DhruviThakkar210/100-DAYS-OF-CODING-CHALLENGE/tree/main/API/MAP/maps)
+  - :video_camera: [APIs for Beginners - How to use an API (Full Course / Tutorial)](https://www.youtube.com/watch?v=GZvSYJDk-us)
 
   ### Typescript
   - :file_folder: [Typescript official documentation](https://www.typescriptlang.org/docs)
@@ -348,6 +351,7 @@ Add resources in other languages too :point_down:
   - :bulb: [Codewell](https://www.codewell.cc/)
   - :bulb: [Javascript30](https://javascript30.com/)
   - :bulb: [Codewars](https://www.codewars.com/)
+  - :bulb: [100 DAYS CSS CHALLENGE](https://100dayscss.com)
 
 ---  
 
