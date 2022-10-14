@@ -183,6 +183,7 @@ Add resources in other languages too :point_down:
 - :video_camera: [Freecodecamp Full Course](https://www.youtube.com/watch?v=vtPkZShrvXQ&t=18s)
 - :file_folder: [Official Documentation](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle//)
 - :file_folder: [Spring REST Official Documentation](https://spring.io/projects/spring-restdocs)
+- :video_camera: [Spring Boot Tutorials](https://www.youtube.com/watch?v=zp2tqnpZiAU&list=PLVz2XdJiJQxw-jVLpBfVn2yqjvA1Ycceq)
 
 ### Laravel
 - :file_folder: [Official Documentation](https://laravel.com/docs)
