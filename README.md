@@ -45,7 +45,8 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 ## Other Languages
 Add resources in other languages too :point_down:
 
-- [Spanish](https://github.com/Ashish-khanagwal/Open-source-practice-and-resources/blob/main/ES(Spanish)/README.md)
+- [Spanish](https://github.com/Ashish-khanagwal/Open-source-practice-and-resources/blob/main/Other-languages/Spanish.md)
+- [French](https://github.com/Ashish-khanagwal/Open-source-practice-and-resources/blob/main/Other-languages/French.md)
 
 ---
   
