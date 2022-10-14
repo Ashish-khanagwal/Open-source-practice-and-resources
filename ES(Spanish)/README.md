@@ -6,7 +6,7 @@
 
 ## Nuestros objetivos:rocket
 
-Los objetivos de la comunidad no son solo proveer los mejores recursos/contenido, sino también <b>motivar/animar los principantes que nunca han contruibido al Código Abierto y ayudarlos a iniciar </b>de una forma simple proyectos amigable y con apoyo total de la comunidad.
+Los objetivos de la comunidad no solo son proveer los mejores recursos/contenido, sino también <b>motivar/animar a principantes que nunca han contribuido al Código Abierto y ayudarlos a iniciar </b>de una forma simple con proyectos amigable y apoyo total de la comunidad.
 
 ## Comparte tu contribución
 
