@@ -41,6 +41,14 @@ Para añadir o contribuir lee  [Contribution-guide](https://github.com/Ashish-kh
 :bulb: Otras/Sugerencias
   
 ---
+
+## Otros idiomas
+Agregue recursos en otros idiomas también :point_down:
+
+- [English](https://github.com/Ashish-khanagwal/Open-source-practice-and-resources/blob/main/README.md)
+- [French](https://github.com/Ashish-khanagwal/Open-source-practice-and-resources/blob/main/Other-languages/French.md)
+
+---
   
 ## Índice
 - [Desarrollo front-end](#desarrollo-front-end)
