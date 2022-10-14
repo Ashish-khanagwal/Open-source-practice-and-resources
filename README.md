@@ -338,6 +338,7 @@ Add resources in other languages too :point_down:
   - :hammer_and_wrench: [GOOGLE MAP](https://www.w3schools.com/graphics/google_maps_intro.asp)
     * :hammer_and_wrench: [GITHUB REPO](https://github.com/DhruviThakkar210/100-DAYS-OF-CODING-CHALLENGE/tree/main/API/MAP/maps)
   - :video_camera: [APIs for Beginners - How to use an API (Full Course / Tutorial)](https://www.youtube.com/watch?v=GZvSYJDk-us)
+  - :hammer_and_wrench: [TWILIO API](https://www.twilio.com/)
 
   ### Typescript
   - :file_folder: [Typescript official documentation](https://www.typescriptlang.org/docs)
