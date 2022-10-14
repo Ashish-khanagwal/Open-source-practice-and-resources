@@ -45,50 +45,55 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 ## Other Languages
 Add resources in other languages too :point_down:
 
-- [Spanish](https://github.com/Ashish-khanagwal/Open-source-practice-and-resources/blob/main/ES(Spanish)/README.md)
+- [Spanish](https://github.com/Ashish-khanagwal/Open-source-practice-and-resources/blob/main/Other-languages/Spanish.md)
+- [French](https://github.com/Ashish-khanagwal/Open-source-practice-and-resources/blob/main/Other-languages/French.md)
 
 ---
   
 ## Index
-
 - [Android Development](#android-development)
 - [Backend](#backend)
-  * [Python](#python)
-  * [Django](#django)
-  * [Flask](#flask)
-  * [Go](#go)
-  * [NodeJs](#nodejs)
-  * [Express](#express)
-  * [NextJs](nextjs)
-  * [Java](#java)
-  * [Spring Boot](#spring-boot)
-  * [Shell Commands](#shell-commands)
-  * [Laravel](#laravel)
-  * [Ruby](#ruby)
-  * [MongoDB](#mongodb)
-- [Blog writing](#blog-writing)
-- [Core-CS](#core-cs)
-- [Design](#design) 
-    * [Free Illustrations](#free-illustrations)
+  - [Python](#python)
+  - [Django](#django)
+  - [Flask](#flask)
+  - [Go](#go)
+  - [NodeJS](#nodejs)
+  - [Express](#express)
+  - [NestJS](#nestjs)
+  - [Java](#java)
+  - [Spring Boot](#spring-boot)
+  - [Shell Commands](#shell-commands)
+  - [Laravel](#laravel)
+  - [Ruby](#ruby)
+  - [MongoDB](#mongodb)
+  - [MySQL](#mysql)
+  - [PostgreSQL](#postgresql)
+- [Blog Writing](#blog-writing)
+- [Core CS](#core-cs)
+- [Design](#design)
+  - [Free Illustrations](#free-illustrations)
 - [Docker](#docker)
 - [DSA](#dsa)
+  - [Java](#java-1)
+  - [C++](#c)
 - [Frontend](#frontend)
-  * [HTML](#html)
-  * [CSS](#css)
-  * [CSS Frameworks](#css-frameworks)
-  * [JavaScript](#javascript)
-  * [API](#api)
-  * [React](#react)
-  * [Angular](#angular)
-  * [Ember](#ember)
-  * [Practice](#practice)
+  - [HTML](#html)
+  - [CSS](#css)
+  - [CSS Frameworks](#css-frameworks)
+  - [JavaScript](#javascript)
+  - [API](#api)
+  - [Typescript](#typescript)
+  - [React](#react)
+  - [Angular](#angular)
+  - [Ember](#ember)
+  - [Practice](#practice)
 - [Git and GitHub](#git-and-github)
 - [Good first issue finder](#good-first-issue-finder)
 - [Linux](#linux)
 - [Machine Learning](#machine-learning)
 - [Vue](#vue)
 - [Web3](#web3)
-  * [Blockchain](#blockchain)
+  - [Blockchain](#blockchain)
   
 ---
 
@@ -151,6 +156,7 @@ Add resources in other languages too :point_down:
 - :file_folder: [Django Official Documentation](https://docs.djangoproject.com/en/4.1/)
 - :file_folder: [Django REST Official Documentation](https://www.django-rest-framework.org/)
 - :video_camera: [Freecodecamp Django Course](https://www.youtube.com/watch?v=F5mRW0jo-U4)
+- :video_camera: [Django Tutorials By Corey Schafer](https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
 
 ### Flask
 - :video_camera: [Flask tutorial playlist by Tech with tim](https://youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX)
@@ -182,6 +188,7 @@ Add resources in other languages too :point_down:
 - :video_camera: [Freecodecamp Full Course](https://www.youtube.com/watch?v=vtPkZShrvXQ&t=18s)
 - :file_folder: [Official Documentation](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle//)
 - :file_folder: [Spring REST Official Documentation](https://spring.io/projects/spring-restdocs)
+- :video_camera: [Spring Boot Tutorials](https://www.youtube.com/watch?v=zp2tqnpZiAU&list=PLVz2XdJiJQxw-jVLpBfVn2yqjvA1Ycceq)
 
 ### Laravel
 - :file_folder: [Official Documentation](https://laravel.com/docs)
@@ -193,6 +200,13 @@ Add resources in other languages too :point_down:
 
 ### MongoDB
 - :file_folder: [MongoDB Documentation](https://www.mongodb.com/docs/manual/tutorial/getting-started/)
+
+### MySQL
+- :video_camera: [MySQL Tutorial By Mosh Hamedani](https://youtu.be/7S_tz1z_5bA) 
+
+### PostgreSQL
+- :video_camera: [PostgreSQL Tutorial By Corey Schafer](https://youtu.be/xaWlS9HtWYw)
+
 ---
 
 ## Blog Writing
@@ -324,11 +338,13 @@ Add resources in other languages too :point_down:
   - :hammer_and_wrench: [GOOGLE MAP](https://www.w3schools.com/graphics/google_maps_intro.asp)
     * :hammer_and_wrench: [GITHUB REPO](https://github.com/DhruviThakkar210/100-DAYS-OF-CODING-CHALLENGE/tree/main/API/MAP/maps)
   - :video_camera: [APIs for Beginners - How to use an API (Full Course / Tutorial)](https://www.youtube.com/watch?v=GZvSYJDk-us)
+  - :hammer_and_wrench: [TWILIO API](https://www.twilio.com/)
 
   ### Typescript
   - :file_folder: [Typescript official documentation](https://www.typescriptlang.org/docs)
   - :books: [w3schools Typescript](https://www.w3schools.com/typescript)
   - :video_camera: [Freecodecamp course](https://youtu.be/gp5H0Vw39yw)
+  - :books: [Learn Typescript Github Repo](https://github.com/TypeStrong/learn-typescript)
   
   ### React
   - :file_folder: [React Documentation](https://reactjs.org/docs/getting-started.html)
