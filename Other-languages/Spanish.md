@@ -1,4 +1,4 @@
-# :wave:  Code For Community te da la bienvenida
+# :wave:  Code For Community te da la Bienvenida
 
 <p align="center"><img src="https://user-images.githubusercontent.com/75534912/194343020-6cbd2485-c2ea-4779-87e2-9708238398e7.png"></p>
 
@@ -90,4 +90,4 @@ Agregue recursos en otros idiomas también :point_down:
 
 ---
 
-**No te olvides darle una estrella :star: a este repositorio y unirte el servidor de Discord para las últimas noticias.**
+**No olvides darle una estrella :star: a este repositorio y unirte el servidor de Discord para las últimas noticias.**
