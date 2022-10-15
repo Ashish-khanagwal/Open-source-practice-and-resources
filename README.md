@@ -446,6 +446,7 @@ Add resources in other languages too :point_down:
 - :file_folder: [Solidity documentation](https://docs.soliditylang.org/en/v0.8.17/)
 - :video_camera: [Dapp University youtube](https://www.youtube.com/c/DappUniversity)
 - :bulb: [Developers Communities](https://github.com/commclassroom/roadmaps/tree/main/Blockchain/Communities)
+  :bulb: [Open Source Projects](https://github.com/commclassroom/roadmaps/tree/main/Blockchain/Contribute)
 - :bulb: [Project Ideas](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-web3-development-4g74)
   
 ---
