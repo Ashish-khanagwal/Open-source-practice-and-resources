@@ -393,6 +393,10 @@ Add resources in other languages too :point_down:
 - :video_camera: [Linux Masterclass Course](https://youtube.com/playlist?list=PL2kSRH_DmWVZp_cu6MMPWkgYh7GZVFS6i)
 - :books: [Vim Cheatsheet](https://vim.rtorr.com/)
 
+  ### Virtualization
+  - :file_folder: [Virtualization](https://www.redhat.com/en/topics/virtualization/what-is-virtualization)
+  - :video_camera: [Setup Virtual machine in Oracle VirtualBox](https://www.youtube.com/watch?v=Jy3b9laPlF8)
+
 ---
 
 ## Machine Learning
@@ -414,12 +418,6 @@ Add resources in other languages too :point_down:
   * :video_camera: [House Price Prediction Using Linear Regression](https://www.youtube.com/watch?v=1Gx1y2boe_M&t=3)
   * :video_camera: [Diabetes Prediction Using Logistics Regression](https://www.youtube.com/watch?v=YkkgEk_fZ9A)
   
----
-
-## Virtualization 
-- :file_folder: [Virtualization](https://www.redhat.com/en/topics/virtualization/what-is-virtualization)
-- :video_camera: [Setup Virtual machine in Oracle VirtualBox](https://www.youtube.com/watch?v=Jy3b9laPlF8)
-
 ---
 
 ## Vue 
