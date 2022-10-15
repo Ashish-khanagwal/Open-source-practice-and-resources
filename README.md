@@ -202,11 +202,13 @@ Add resources in other languages too :point_down:
 
 ### MongoDB
 - :file_folder: [MongoDB Documentation](https://www.mongodb.com/docs/manual/tutorial/getting-started/)
+- :video_camera: [MongoDB - Crash Course](https://www.youtube.com/watch?v=ofme2o29ngU)
 
 ### MySQL
 - :video_camera: [MySQL Tutorial By Mosh Hamedani](https://youtu.be/7S_tz1z_5bA) 
 
 ### PostgreSQL
+- :file_folder: [PostgreSQL Documentation](https://www.postgresql.org/docs/)
 - :video_camera: [PostgreSQL Tutorial By Corey Schafer](https://youtu.be/xaWlS9HtWYw)
 
 ---
@@ -274,6 +276,8 @@ Add resources in other languages too :point_down:
 - :video_camera: [Complete C++ Placement DSA course](https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
 - :video_camera: [Complete C++ with STL](https://youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL)
 - :video_camera: [Competitive Programming and DSA C++](https://www.youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-)
+- :video_camera: [Striver's Dynamic Programming Series](https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY)
+- :video_camera: [Graph Series by Striver](https://www.youtube.com/playlist?list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn)
  
 ---
   
@@ -322,6 +326,8 @@ Add resources in other languages too :point_down:
   - :video_camera: [Bootstrap CSS Framework - Full Course for Beginners](https://www.youtube.com/watch?v=-qfEOE4vtxE)
   - :file_folder: [Tailwind Documentation](https://tailwindcss.com)
   - :video_camera: [Tailwind CSS Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=4wGmylafgM4)
+  - :file_folder: [Material UI Documentation](https://mui.com/)
+  - :video_camera: [Material UI - Crash Course](https://www.youtube.com/watch?v=Xoz31I1FuiY&t=802s)
   - :file_folder: [Bulma Documentation](https://bulma.io/documentation/)
   
   
