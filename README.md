@@ -90,6 +90,7 @@ Add resources in other languages too :point_down:
 - [Git and GitHub](#git-and-github)
 - [Good first issue finder](#good-first-issue-finder)
 - [Linux](#linux)
+  - [Virtualization](#virtualization)
 - [Machine Learning](#machine-learning)
 - [Vue](#vue)
 - [Web3](#web3)
@@ -392,6 +393,10 @@ Add resources in other languages too :point_down:
 - :video_camera: [Complete Linux Guide](https://www.youtube.com/watch?v=wBp0Rb-ZJak)
 - :video_camera: [Linux Masterclass Course](https://youtube.com/playlist?list=PL2kSRH_DmWVZp_cu6MMPWkgYh7GZVFS6i)
 - :books: [Vim Cheatsheet](https://vim.rtorr.com/)
+
+  ### Virtualization
+  - :file_folder: [Virtualization](https://www.redhat.com/en/topics/virtualization/what-is-virtualization)
+  - :video_camera: [Setup Linux Virtual Machine in Oracle VirtualBox](https://www.youtube.com/watch?v=Jy3b9laPlF8)
 
 ---
 
