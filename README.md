@@ -400,9 +400,9 @@ Add resources in other languages too :point_down:
 - :video_camera: [Linux Masterclass Course](https://youtube.com/playlist?list=PL2kSRH_DmWVZp_cu6MMPWkgYh7GZVFS6i)
 - :books: [Vim Cheatsheet](https://vim.rtorr.com/)
 
-  ### Virtualization
-  - :file_folder: [Virtualization](https://www.redhat.com/en/topics/virtualization/what-is-virtualization)
-  - :video_camera: [Setup Linux Virtual Machine in Oracle VirtualBox](https://www.youtube.com/watch?v=Jy3b9laPlF8)
+### Virtualization
+- :file_folder: [Virtualization](https://www.redhat.com/en/topics/virtualization/what-is-virtualization)
+- :video_camera: [Setup Linux Virtual Machine in Oracle VirtualBox](https://www.youtube.com/watch?v=Jy3b9laPlF8)
 
 ---
 
