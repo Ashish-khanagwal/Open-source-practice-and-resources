@@ -382,7 +382,7 @@ Add resources in other languages too :point_down:
 ## Git and GitHub
 - :hammer_and_wrench: [Learn Git Branching](https://learngitbranching.js.org/)
 - :video_camera: [Complete Git and GitHub tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics&t=7s)
-
+- :video_camera: [Simple,easy and funny Git and GtHub tutorial](https://youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 ---
 
 ## Good first issue finder
