@@ -395,7 +395,7 @@ Add resources in other languages too :point_down:
 
   ### Virtualization
   - :file_folder: [Virtualization](https://www.redhat.com/en/topics/virtualization/what-is-virtualization)
-  - :video_camera: [Setup Virtual machine in Oracle VirtualBox](https://www.youtube.com/watch?v=Jy3b9laPlF8)
+  - :video_camera: [Setup Linux Virtual Machine in Oracle VirtualBox](https://www.youtube.com/watch?v=Jy3b9laPlF8)
 
 ---
 
