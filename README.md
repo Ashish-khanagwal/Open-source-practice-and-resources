@@ -341,6 +341,7 @@ Add resources in other languages too :point_down:
   - :books: [W3School JavaScript course](https://www.w3schools.com/js)
   - :books: [Modern JavaScript](https://www.modernjs.com)
   - :file_folder: [The Modern JavaScript Tutorial](https://javascript.info)
+  - :video_camera: [Full course 2022](https://www.youtube.com/watch?v=_zPNLidkNYk)
   
   ### API
   - :hammer_and_wrench: [GENERATING API KEY](https://www.youtube.com/watch?v=cF_MCAmuoI4)
