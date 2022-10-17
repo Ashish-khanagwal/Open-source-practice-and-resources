@@ -152,6 +152,7 @@ Add resources in other languages too :point_down:
 - :file_folder: [Awesome Python](https://awesome-python.com)
 - :file_folder: [Learn Python](https://www.learnpython.org/)  
 - :file_folder: [w3Schools-Python](https://www.w3schools.com/python/)  
+- :video_camera: [Code with harry](https://youtu.be/EyEqWFvLDT8)
 
 ### Django
 - :file_folder: [Django Official Documentation](https://docs.djangoproject.com/en/4.1/)
