@@ -86,6 +86,7 @@ Add resources in other languages too :point_down:
   - [React](#react)
   - [Angular](#angular)
   - [Ember](#ember)
+  - [Flutter](#flutter)
   - [Practice](#practice)
 - [Git and GitHub](#git-and-github)
 - [Good first issue finder](#good-first-issue-finder)
@@ -373,7 +374,7 @@ Add resources in other languages too :point_down:
   
   ### Flutter
   - :video_camera: [Full course](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
-  - :video_camera: [Useful Resource](youtube.com/watch?v=yr8F2S3Amas&list=PLOU2XLYxmsIK0r_D-zWcmJ1plIcDNnRkK)
+  - :video_camera: [The Boring Show by Google](youtube.com/watch?v=yr8F2S3Amas&list=PLOU2XLYxmsIK0r_D-zWcmJ1plIcDNnRkK)
   
   ### Practice
   - :bulb: [Frontend Mentor](https://www.frontendmentor.io/)
