@@ -374,7 +374,7 @@ Add resources in other languages too :point_down:
   
   ### Flutter
   - :video_camera: [Full course](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
-  - :video_camera: [The Boring Show by Google](youtube.com/watch?v=yr8F2S3Amas&list=PLOU2XLYxmsIK0r_D-zWcmJ1plIcDNnRkK)
+  - :video_camera: [The Boring Show by Google](https://youtu.be/yr8F2S3Amas)
   
   ### Practice
   - :bulb: [Frontend Mentor](https://www.frontendmentor.io/)
