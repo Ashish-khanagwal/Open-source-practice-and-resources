@@ -118,6 +118,8 @@ Add resources in other languages too :point_down:
 - :video_camera:[Git for android developers.](https://youtube.com/playlist?list=PLQkwcJG4YTCQTEk4J4btiOJBV0PhKjJVS)
 - :bulb:[Some open source kotlin apps.](https://github.com/androiddevnotes/awesome-android-kotlin-apps)
 - :bulb:[Android Developer Roadmap 2022.](https://github.com/skydoves/android-developer-roadmap)
+- :file_folder:[Flutter Documentation.](https://docs.flutter.dev/)
+- :video_camera:[The Flutter Boring Show.](https://youtu.be/yr8F2S3Amas)
 <details>
 <summary>Get started with projects:</summary>
 <ul>
