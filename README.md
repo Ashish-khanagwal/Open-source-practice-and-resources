@@ -371,6 +371,10 @@ Add resources in other languages too :point_down:
   - :file_folder: [Ember Documentation](https://guides.emberjs.com/release/)
   - :books: [Tutorial](https://guides.emberjs.com/release/tutorial/part-1/)
   
+  ### Flutter
+  - :video_camera: [Full course](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
+  - :video_camera: [Useful Resource](youtube.com/watch?v=yr8F2S3Amas&list=PLOU2XLYxmsIK0r_D-zWcmJ1plIcDNnRkK)
+  
   ### Practice
   - :bulb: [Frontend Mentor](https://www.frontendmentor.io/)
   - :bulb: [Frontend Practice](https://www.frontendpractice.com/)
