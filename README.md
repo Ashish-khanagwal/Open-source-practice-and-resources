@@ -101,23 +101,25 @@ Add resources in other languages too :point_down:
 ## Android Development
 - :books: [Android Roadmap.](https://blog.commclassroom.org/android-developer-roadmap-2022)
 - :video_camera: [Setting up Android Studio.](https://www.youtube.com/watch?v=0zx_eFyHRU0)
-- :video_camera:[Introduction to Android Studio.](https://www.youtube.com/watch?v=4M0hNugPJV8)
-- :file_folder:[Kotlin Documentation.](https://kotlinlang.org/docs/getting-started.html)
-- :video_camera:[Kotlin Beginner to pro.](https://youtube.com/playlist?list=PLQkwcJG4YTCRSQikwhtoApYs9ij_Hc5Z9) 
-- :video_camera:[Android Fundamentals.](https://youtube.com/playlist?list=PLQkwcJG4YTCTq1raTb5iMuxnEB06J1VHX)
-- :video_camera:[CS194A Android Development.](https://www.youtube.com/playlist?list=PL7NYbSE8uaBDcLkbXsQADdvBnVbavonGn)
-- :file_folder:[Networking: Retrofit.](https://square.github.io/retrofit/)
-- :video_camera:[Networking: Retrofit.](https://www.youtube.com/watch?v=k2N3EoZI3eU&list=PL7NYbSE8uaBDcLkbXsQADdvBnVbavonGn&index=7&t=303s)
-- :video_camera:[Retrofit crash course.](https://www.youtube.com/watch?v=t6Sql3WMAnk)
-- :video_camera:[Android Architecture.](https://www.youtube.com/watch?v=JuBpWzEoDw4&list=PL7NYbSE8uaBDcLkbXsQADdvBnVbavonGn&index=8)
-- :file_folder:[Android Architecture.](https://developer.android.com/topic/architecture)
-- :video_camera:[MVVM Architecture.](https://youtube.com/playlist?list=PLrnPJCHvNZuDihTpkRs6SpZhqgBqPU118)
-- :video_camera:[Understanding dependency injection](https://youtu.be/yunF2PgJlHU)
-- :video_camera:[Dagger-Hilt Guide.](https://youtu.be/bbMsuI2p1DQ)
-- :video_camera:[Firebase.](https://www.youtube.com/playlist?list=PLS1QulWo1RIbKsL9GqxOLbToLNFFQFJW_)
-- :video_camera:[Git for android developers.](https://youtube.com/playlist?list=PLQkwcJG4YTCQTEk4J4btiOJBV0PhKjJVS)
-- :bulb:[Some open source kotlin apps.](https://github.com/androiddevnotes/awesome-android-kotlin-apps)
-- :bulb:[Android Developer Roadmap 2022.](https://github.com/skydoves/android-developer-roadmap)
+- :video_camera: [Introduction to Android Studio.](https://www.youtube.com/watch?v=4M0hNugPJV8)
+- :file_folder: [Kotlin Documentation.](https://kotlinlang.org/docs/getting-started.html)
+- :video_camera: [Kotlin Beginner to pro.](https://youtube.com/playlist?list=PLQkwcJG4YTCRSQikwhtoApYs9ij_Hc5Z9) 
+- :video_camera: [Android Fundamentals.](https://youtube.com/playlist?list=PLQkwcJG4YTCTq1raTb5iMuxnEB06J1VHX)
+- :video_camera: [CS194A Android Development.](https://www.youtube.com/playlist?list=PL7NYbSE8uaBDcLkbXsQADdvBnVbavonGn)
+- :file_folder: [Networking: Retrofit.](https://square.github.io/retrofit/)
+- :video_camera: [Networking: Retrofit.](https://www.youtube.com/watch?v=k2N3EoZI3eU&list=PL7NYbSE8uaBDcLkbXsQADdvBnVbavonGn&index=7&t=303s)
+- :video_camera: [Retrofit crash course.](https://www.youtube.com/watch?v=t6Sql3WMAnk)
+- :video_camera: [Android Architecture.](https://www.youtube.com/watch?v=JuBpWzEoDw4&list=PL7NYbSE8uaBDcLkbXsQADdvBnVbavonGn&index=8)
+- :file_folder: [Android Architecture.](https://developer.android.com/topic/architecture)
+- :video_camera: [MVVM Architecture.](https://youtube.com/playlist?list=PLrnPJCHvNZuDihTpkRs6SpZhqgBqPU118)
+- :video_camera: [Understanding dependency injection](https://youtu.be/yunF2PgJlHU)
+- :video_camera: [Dagger-Hilt Guide.](https://youtu.be/bbMsuI2p1DQ)
+- :video_camera: [Firebase.](https://www.youtube.com/playlist?list=PLS1QulWo1RIbKsL9GqxOLbToLNFFQFJW_)
+- :video_camera: [Git for android developers.](https://youtube.com/playlist?list=PLQkwcJG4YTCQTEk4J4btiOJBV0PhKjJVS)
+- :bulb: [Some open source kotlin apps.](https://github.com/androiddevnotes/awesome-android-kotlin-apps)
+- :bulb: [Android Developer Roadmap 2022.](https://github.com/skydoves/android-developer-roadmap)
+- :file_folder: [Flutter Documentation.](https://docs.flutter.dev/)
+- :video_camera: [The Flutter Boring Show.](https://youtu.be/yr8F2S3Amas)
 <details>
 <summary>Get started with projects:</summary>
 <ul>
@@ -185,8 +187,13 @@ Add resources in other languages too :point_down:
 - :video_camera: [Full Course](https://www.youtube.com/watch?v=eIrMbAQSU34)
 - :file_folder: [Official Documentation](https://docs.oracle.com/en/java/) 
 - :file_folder: [Java Course from edx](https://www.edx.org/course/java-programming-fundamentals)
+main
 - :file_folder: [Java Course from Great Learing](https://www.mygreatlearning.com/academy/learn-for-free/courses/java-programming)
  - :video_camera: [Freecodecamp java for beginners course](https://youtu.be/A74TOX803D0)
+
+- :file_folder: [Java Course from Great Learning](https://www.mygreatlearning.com/academy/learn-for-free/courses/java-programming)
+- :file_folder: [Java mooc course](https://java-programming.mooc.fi/)
+main
 
 ### Spring Boot
 - :video_camera: [Freecodecamp Full Course](https://www.youtube.com/watch?v=vtPkZShrvXQ&t=18s)
@@ -342,6 +349,7 @@ Add resources in other languages too :point_down:
   - :books: [W3School JavaScript course](https://www.w3schools.com/js)
   - :books: [Modern JavaScript](https://www.modernjs.com)
   - :file_folder: [The Modern JavaScript Tutorial](https://javascript.info)
+  - :video_camera: [Full course 2022](https://www.youtube.com/watch?v=_zPNLidkNYk)
   
   ### API
   - :hammer_and_wrench: [GENERATING API KEY](https://www.youtube.com/watch?v=cF_MCAmuoI4)
