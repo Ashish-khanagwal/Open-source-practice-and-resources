@@ -363,6 +363,8 @@ Add resources in other languages too :point_down:
   ### React
   - :file_folder: [React Documentation](https://reactjs.org/docs/getting-started.html)
   - :video_camera: [Full course](https://www.youtube.com/watch?v=u6gSSpfsoOQ)
+  - :video_camera: [React js tutorial in Hindi](https://youtube.com/playlist?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ)
+  - :video_camera: [Complete react js tutorial with 5 Projects](https://youtu.be/EHTWMpD6S_0)
   - :video_camera: [React JS Crash Course by Traversy Media](https://youtu.be/w7ejDZ8SWv8)
   - :books: [Scrimba React course](https://scrimba.com/learn/learnreact)
 
