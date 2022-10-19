@@ -300,6 +300,7 @@ Add resources in other languages too :point_down:
   - :books: [w3schools HTML](https://www.w3schools.com/tags/)
   - :books: [geeksforgeeks html](https://www.geeksforgeeks.org/html/)
   - :books: [project for html](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app)
+  - :video_camera: [Html from basis](https://youtu.be/_Mz69752y_8)
   - :books: [tutorialspoint html](https://www.tutorialspoint.com/internet_technologies/html)
   - :video_camera: [HTML full course](https://www.youtube.com/watch?v=pQN-pnXPaVg)
   - :video_camera: [HTML Crash Course](https://www.youtube.com/watch?v=qz0aGYrrlhU&ab_channel=ProgrammingwithMosh)
