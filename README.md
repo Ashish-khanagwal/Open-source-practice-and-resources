@@ -276,6 +276,7 @@ Add resources in other languages too :point_down:
 ### Java
 - :video_camera: [Pepcoding](https://youtube.com/playlist?list=PL-Jc9J83PIiFj7YSPl2ulcpwy-mwj1SSk)
 - :video_camera: [Java + DSA + Interview Preperation Playlist](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
+- :video_camera: [Freecodecamp java for beginners course](https://youtu.be/A74TOX803D0)  
 
 ### C++
 - :video_camera: [Complete C++ Placement DSA course](https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
