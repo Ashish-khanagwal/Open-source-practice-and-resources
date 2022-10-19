@@ -190,6 +190,7 @@ Add resources in other languages too :point_down:
 - :file_folder: [Java Course from edx](https://www.edx.org/course/java-programming-fundamentals)
 - :file_folder: [Java Course from Great Learning](https://www.mygreatlearning.com/academy/learn-for-free/courses/java-programming)
 - :file_folder: [Java mooc course](https://java-programming.mooc.fi/)
+- :video_camera: [Freecodecamp java for beginners course](https://youtu.be/A74TOX803D0)  
 
 ### Spring Boot
 - :video_camera: [Freecodecamp Full Course](https://www.youtube.com/watch?v=vtPkZShrvXQ&t=18s)
