@@ -442,6 +442,7 @@ Add resources in other languages too :point_down:
 - :hammer_and_wrench: Beginner Projects
   * :video_camera: [House Price Prediction Using Linear Regression](https://www.youtube.com/watch?v=1Gx1y2boe_M&t=3)
   * :video_camera: [Diabetes Prediction Using Logistics Regression](https://www.youtube.com/watch?v=YkkgEk_fZ9A)
+  * :video_camera: [Image Classification Using CNN](https://www.youtube.com/watch?v=ejkRh9obVjk&ab_channel=edureka%21)
   
 ---
 
