@@ -84,6 +84,7 @@ Add resources in other languages too :point_down:
   - [API](#api)
   - [Typescript](#typescript)
   - [React](#react)
+  - [Redux](#redux)
   - [Angular](#angular)
   - [Ember](#ember)
   - [Practice](#practice)
@@ -369,7 +370,13 @@ Add resources in other languages too :point_down:
   - :video_camera: [Complete react js tutorial with 5 Projects](https://youtu.be/EHTWMpD6S_0)
   - :video_camera: [React JS Crash Course by Traversy Media](https://youtu.be/w7ejDZ8SWv8)
   - :books: [Scrimba React course](https://scrimba.com/learn/learnreact)
-
+  
+  ### Redux
+  - :file_folder: [React Redux Documentation](https://redux.js.org/introduction/getting-started)
+  - :video_camera: [Full course Redux](https://www.youtube.com/watch?v=zrs7u6bdbUw)
+  - :video_camera: [Full course Redux Toolkit](https://www.youtube.com/watch?v=bbkBuqC1rU4)
+  - :video_camera: [Projects with Redux](https://www.youtube.com/watch?v=IQXjO0t4XRM&list=PLKhlp2qtUcSYC7EffnHzD-Ws2xG-j3aYo)
+  
   ### Angular
   - :file_folder: [Angular Documentation](https://angular.io/docs)
   - :video_camera: [Full course](https://www.youtube.com/watch?v=3qBXWUpoPHo&t=44506s)
