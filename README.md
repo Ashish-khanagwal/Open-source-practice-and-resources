@@ -393,6 +393,8 @@ Add resources in other languages too :point_down:
   - :bulb: [Javascript30](https://javascript30.com/)
   - :bulb: [Codewars](https://www.codewars.com/)
   - :bulb: [100 DAYS CSS CHALLENGE](https://100dayscss.com)
+  - :bulb: [Practice for all programming languages](https://leetcode.com/problemset/all/)
+  
 
 ---  
 
