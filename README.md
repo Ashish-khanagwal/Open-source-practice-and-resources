@@ -338,7 +338,6 @@ Add resources in other languages too :point_down:
   - :video_camera: [Material UI - Crash Course](https://www.youtube.com/watch?v=Xoz31I1FuiY&t=802s)
   - :file_folder: [Bulma Documentation](https://bulma.io/documentation/)
   
-  
   ### JavaScript
   - :file_folder: [JavaScript official documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - :video_camera: [Full course](https://www.youtube.com/watch?v=lI1ae4REbFM)
@@ -393,7 +392,8 @@ Add resources in other languages too :point_down:
   - :bulb: [Javascript30](https://javascript30.com/)
   - :bulb: [Codewars](https://www.codewars.com/)
   - :bulb: [100 DAYS CSS CHALLENGE](https://100dayscss.com)
-
+  - :bulb: [Practice for all programming languages](https://leetcode.com/problemset/all/)
+  
 ---  
 
 ## Git and GitHub
