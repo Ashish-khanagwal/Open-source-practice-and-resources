@@ -466,6 +466,8 @@ Add resources in other languages too :point_down:
 - :video_camera: [Dapp University youtube](https://www.youtube.com/c/DappUniversity)
 - :bulb: [Developers Communities](https://github.com/commclassroom/roadmaps/tree/main/Blockchain/Communities)
 - :bulb: [Project Ideas](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-web3-development-4g74)
+- :bulb: [Game Tutorial](https://cryptozombies.io/en/course/)
+
   
 ---
  
