@@ -348,6 +348,7 @@ Add resources in other languages too :point_down:
   - :books: [Modern JavaScript](https://www.modernjs.com)
   - :file_folder: [The Modern JavaScript Tutorial](https://javascript.info)
   - :video_camera: [Full course 2022](https://www.youtube.com/watch?v=_zPNLidkNYk)
+  - :video_camera: [Asynchronous Javascript](https://www.youtube.com/watch?v=ZYb_ZU8LNxs&list=LL&index=15)
   
   ### API
   - :hammer_and_wrench: [GENERATING API KEY](https://www.youtube.com/watch?v=cF_MCAmuoI4)
