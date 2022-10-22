@@ -337,6 +337,7 @@ Add resources in other languages too :point_down:
   - :file_folder: [Material UI Documentation](https://mui.com/)
   - :video_camera: [Material UI - Crash Course](https://www.youtube.com/watch?v=Xoz31I1FuiY&t=802s)
   - :file_folder: [Bulma Documentation](https://bulma.io/documentation/)
+  - :file_folder: [Foundation Documentation](https://get.foundation/)
   
   ### JavaScript
   - :file_folder: [JavaScript official documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
