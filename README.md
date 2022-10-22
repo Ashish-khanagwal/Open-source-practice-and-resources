@@ -363,7 +363,7 @@ Add resources in other languages too :point_down:
   - :books: [Learn Typescript Github Repo](https://github.com/TypeStrong/learn-typescript)
   
   ### React
-  - :hammer_and_wrench:[React Roadmap](https://roadmap.sh/react)
+  - :hammer_and_wrench: [React Roadmap](https://roadmap.sh/react)
   - :file_folder: [React Documentation](https://reactjs.org/docs/getting-started.html)
   - :video_camera: [Full course](https://www.youtube.com/watch?v=u6gSSpfsoOQ)
   - :video_camera: [React js tutorial in Hindi](https://youtube.com/playlist?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ)
@@ -461,7 +461,7 @@ Add resources in other languages too :point_down:
 - :video_camera: [Web3 Roadmap](https://www.youtube.com/watch?v=Lz3m4BI1EfY&t=5s)
 
 ### Blockchain
-- :hammer_and_wrench:[Blockchain Developer Roadmap](https://roadmap.sh/blockchain)
+- :hammer_and_wrench: [Blockchain Developer Roadmap](https://roadmap.sh/blockchain)
 - :file_folder: [Ethereum official Documentation](https://ethereum.org/en/developers/docs/)
 - :file_folder: [Solidity documentation](https://docs.soliditylang.org/en/v0.8.17/)
 - :video_camera: [Dapp University youtube](https://www.youtube.com/c/DappUniversity)
