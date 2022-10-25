@@ -87,6 +87,7 @@ Add resources in other languages too :point_down:
   - [Redux](#redux)
   - [Angular](#angular)
   - [Ember](#ember)
+  - [Next](#next)
   - [Practice](#practice)
 - [Git and GitHub](#git-and-github)
 - [Good first issue finder](#good-first-issue-finder)
@@ -96,6 +97,7 @@ Add resources in other languages too :point_down:
 - [Vue](#vue)
 - [Web3](#web3)
   - [Blockchain](#blockchain)
+  
   
 ---
 
@@ -386,6 +388,10 @@ Add resources in other languages too :point_down:
   ### Ember
   - :file_folder: [Ember Documentation](https://guides.emberjs.com/release/)
   - :books: [Tutorial](https://guides.emberjs.com/release/tutorial/part-1/)
+
+  ### Next
+  - :file_folder: [Next.js Documentation](https://nextjs.org/docs/advanced-features/custom-document)
+  - :video_camera: [Full course](https://youtu.be/1WmNXEVia8I)
   
   ### Practice
   - :bulb: [Frontend Mentor](https://www.frontendmentor.io/)
@@ -396,6 +402,7 @@ Add resources in other languages too :point_down:
   - :bulb: [Codewars](https://www.codewars.com/)
   - :bulb: [100 DAYS CSS CHALLENGE](https://100dayscss.com)
   - :bulb: [Practice for all programming languages](https://leetcode.com/problemset/all/)
+
   
 ---  
 
