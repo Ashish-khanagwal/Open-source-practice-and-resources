@@ -87,6 +87,7 @@ Add resources in other languages too :point_down:
   - [Redux](#redux)
   - [Angular](#angular)
   - [Ember](#ember)
+  - [Next](#next)
   - [Practice](#practice)
 - [Git and GitHub](#git-and-github)
 - [Good first issue finder](#good-first-issue-finder)
@@ -96,7 +97,7 @@ Add resources in other languages too :point_down:
 - [Vue](#vue)
 - [Web3](#web3)
   - [Blockchain](#blockchain)
-  - [Next.js](next.js)
+  
   
 ---
 
@@ -388,7 +389,7 @@ Add resources in other languages too :point_down:
   - :file_folder: [Ember Documentation](https://guides.emberjs.com/release/)
   - :books: [Tutorial](https://guides.emberjs.com/release/tutorial/part-1/)
 
-  ### Next.js
+  ### Next
   - :file_folder: [Next.js Documentation](https://nextjs.org/docs/advanced-features/custom-document)
   - :video_camera: [Full course](https://youtu.be/1WmNXEVia8I)
   
