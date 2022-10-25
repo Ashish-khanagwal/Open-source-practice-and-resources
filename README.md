@@ -396,6 +396,10 @@ Add resources in other languages too :point_down:
   - :bulb: [Codewars](https://www.codewars.com/)
   - :bulb: [100 DAYS CSS CHALLENGE](https://100dayscss.com)
   - :bulb: [Practice for all programming languages](https://leetcode.com/problemset/all/)
+
+  ### NEXT.js
+  - :file_folder: [Next.js Documentation](https://nextjs.org/docs/advanced-features/custom-document)
+  - :video_camera: [Full course](https://youtu.be/1WmNXEVia8I)
   
 ---  
 
