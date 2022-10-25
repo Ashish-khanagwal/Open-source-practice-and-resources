@@ -264,6 +264,7 @@ Add resources in other languages too :point_down:
   - :hammer_and_wrench: [Many pixels](https://www.manypixels.co/gallery) 
   - :hammer_and_wrench: [Drawkit](https://www.drawkit.com/) 
   - :video_camera: [free illustration apps](https://www.youtube.com/watch?v=g43CV4X3rmk)
+  
 ---
 
 ## Docker
