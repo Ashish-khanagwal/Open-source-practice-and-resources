@@ -165,6 +165,7 @@ Add resources in other languages too :point_down:
 - :file_folder: [Django REST Official Documentation](https://www.django-rest-framework.org/)
 - :video_camera: [Freecodecamp Django Course](https://www.youtube.com/watch?v=F5mRW0jo-U4)
 - :video_camera: [Django Tutorials By Corey Schafer](https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
+- :video_camera: [Django Tutorials By Code With Harry](https://www.youtube.com/watch?v=5BDgKJFZMl8&list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9)
 
 ### Flask
 - :video_camera: [Flask tutorial playlist by Tech with tim](https://youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX)
@@ -277,7 +278,7 @@ Add resources in other languages too :point_down:
 ---
 
 ## DSA
-
+  
 ### Java
 - :video_camera: [Pepcoding](https://youtube.com/playlist?list=PL-Jc9J83PIiFj7YSPl2ulcpwy-mwj1SSk)
 - :video_camera: [Java + DSA + Interview Preperation Playlist](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
@@ -288,6 +289,7 @@ Add resources in other languages too :point_down:
 - :video_camera: [Competitive Programming and DSA C++](https://www.youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-)
 - :video_camera: [Striver's Dynamic Programming Series](https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY)
 - :video_camera: [Graph Series by Striver](https://www.youtube.com/playlist?list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn)
+- :video_camera: [DSA by Code With Harry](https://www.youtube.com/watch?v=5_5oE5lgrhw&list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi)
  
 ---
   
@@ -353,6 +355,8 @@ Add resources in other languages too :point_down:
   - :file_folder: [The Modern JavaScript Tutorial](https://javascript.info)
   - :video_camera: [Full course 2022](https://www.youtube.com/watch?v=_zPNLidkNYk)
   - :video_camera: [Asynchronous Javascript](https://www.youtube.com/watch?v=ZYb_ZU8LNxs&list=LL&index=15)
+  - :video_camera: [Code With Harry Javascript](https://www.youtube.com/watch?v=ER9SspLe4Hg&list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR)
+ 
   
   ### API
   - :hammer_and_wrench: [GENERATING API KEY](https://www.youtube.com/watch?v=cF_MCAmuoI4)
@@ -374,6 +378,7 @@ Add resources in other languages too :point_down:
   - :video_camera: [React js tutorial in Hindi](https://youtube.com/playlist?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ)
   - :video_camera: [Complete react js tutorial with 5 Projects](https://youtu.be/EHTWMpD6S_0)
   - :video_camera: [React JS Crash Course by Traversy Media](https://youtu.be/w7ejDZ8SWv8)
+  - :video_camera: [React JS Code with Harry](https://www.youtube.com/watch?v=-mJFZp84TIY&list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt)
   - :books: [Scrimba React course](https://scrimba.com/learn/learnreact)
   
   ### Redux
