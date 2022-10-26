@@ -346,6 +346,7 @@ Add resources in other languages too :point_down:
   - :file_folder: [JavaScript official documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - :video_camera: [Full course](https://www.youtube.com/watch?v=lI1ae4REbFM)
   - :video_camera: [Freecodecamp course](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+  - :video_camera: [Code with Harry Course](https://www.youtube.com/watch?v=hKB-YGF14SY)
   - :books: [Eloquent Javascript](https://eloquentjavascript.net/)
   - :books: [Scrimba JavaScript course](https://scrimba.com/learn/learnjavascript)
   - :books: [W3School JavaScript course](https://www.w3schools.com/js)
