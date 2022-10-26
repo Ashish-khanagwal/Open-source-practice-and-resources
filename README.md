@@ -90,6 +90,7 @@ Add resources in other languages too :point_down:
   - [Next](#next)
   - [Practice](#practice)
 - [Git and GitHub](#git-and-github)
+- [GitLab](#gitlab)
 - [Good first issue finder](#good-first-issue-finder)
 - [Linux](#linux)
   - [Virtualization](#virtualization)
@@ -97,6 +98,8 @@ Add resources in other languages too :point_down:
 - [Vue](#vue)
 - [Web3](#web3)
   - [Blockchain](#blockchain)
+  
+
   
   
 ---
@@ -414,6 +417,15 @@ Add resources in other languages too :point_down:
 - :video_camera: [Git and github in detail](https://youtu.be/RGOj5yH7evk)
 ---
 
+## GitLab
+- :file_folder: [GitLab Documentation](https://docs.gitlab.com/)
+- :file_folder: [GitLab Installation](https://docs.gitlab.com/ee/install/)
+- :video_camera: [Complete GitLab Tutorial for Beginners](https://www.youtube.com/watch?v=8aV5AxJrHDg)
+- :video_camera: [Learn GitLab and some cool features of GitLab also includes certification course](https://docs.gitlab.com/ee/tutorials/)
+- :video_camera: [Comparison of Github and GitLab and gives brief information about some of the features of GitLab](https://www.youtube.com/watch?v=m_DcXayqFy8)
+
+---
+
 ## Good first issue finder
 - :hammer_and_wrench: [Good first issue](https://goodfirstissue.dev/language/html/)
 - :hammer_and_wrench: [Code Triga](https://www.codetriage.com/)
@@ -477,6 +489,8 @@ Add resources in other languages too :point_down:
 - :video_camera: [Dapp University youtube](https://www.youtube.com/c/DappUniversity)
 - :bulb: [Developers Communities](https://github.com/commclassroom/roadmaps/tree/main/Blockchain/Communities)
 - :bulb: [Project Ideas](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-web3-development-4g74)
+
+### 
   
 ---
  
