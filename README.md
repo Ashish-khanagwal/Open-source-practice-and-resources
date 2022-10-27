@@ -392,6 +392,7 @@ Add resources in other languages too :point_down:
   - :video_camera: [Full course Redux](https://www.youtube.com/watch?v=zrs7u6bdbUw)
   - :video_camera: [Full course Redux Toolkit](https://www.youtube.com/watch?v=bbkBuqC1rU4)
   - :video_camera: [Projects with Redux](https://www.youtube.com/watch?v=IQXjO0t4XRM&list=PLKhlp2qtUcSYC7EffnHzD-Ws2xG-j3aYo)
+  - :books: [React Redux Blogs](https://awesomereact.com/)
   
   ### Angular
   - :file_folder: [Angular Documentation](https://angular.io/docs)
