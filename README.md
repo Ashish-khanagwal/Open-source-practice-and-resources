@@ -161,7 +161,6 @@ Add resources in other languages too :point_down:
 - :video_camera: [Python for Begineers](https://youtu.be/YfO28Ihehbk)
 - :file_folder: [Free Python Course](https://free-courses.lighthouselabs.ca/courses/programming-essentials-with-python)
 
-
 ### Django
 - :file_folder: [Django Official Documentation](https://docs.djangoproject.com/en/4.1/)
 - :file_folder: [Django REST Official Documentation](https://www.django-rest-framework.org/)
