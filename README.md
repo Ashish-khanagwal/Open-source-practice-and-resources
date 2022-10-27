@@ -474,6 +474,7 @@ Add resources in other languages too :point_down:
   * :video_camera: [House Price Prediction Using Linear Regression](https://www.youtube.com/watch?v=1Gx1y2boe_M&t=3)
   * :video_camera: [Diabetes Prediction Using Logistics Regression](https://www.youtube.com/watch?v=YkkgEk_fZ9A)
   * :video_camera: [Image Classification Using CNN](https://www.youtube.com/watch?v=ejkRh9obVjk&ab_channel=edureka%21)
+  * :video_camera: [Fake News Prediction Using Logistic Regression](https://www.youtube.com/watch?v=nacLBdyG6jE&list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6&index=4&ab_channel=Siddhardhan)
   
 ---
 
