@@ -218,6 +218,7 @@ Add resources in other languages too :point_down:
 
 ### MySQL
 - :video_camera: [MySQL Tutorial By Mosh Hamedani](https://youtu.be/7S_tz1z_5bA) 
+- :video_camera: [MySQL-Full Course](https://www.youtube.com/watch?v=HXV3zeQKqGY)  
 
 ### PostgreSQL
 - :file_folder: [PostgreSQL Documentation](https://www.postgresql.org/docs/)
