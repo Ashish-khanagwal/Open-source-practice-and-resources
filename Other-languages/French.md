@@ -40,6 +40,9 @@ Pour ajouter des ressources ou pour contribuer, lisez le guide de [contribution]
 
 :bulb: Autre/Suggestions
 
+  
+---
+  :video_camera: [APPRENDRE PYTHON DE A à Z](https://youtu.be/LamjAFnybo0)
 ---
 
 ## Autres Langues
