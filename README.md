@@ -159,6 +159,8 @@ Add resources in other languages too :point_down:
 - :file_folder: [w3Schools-Python](https://www.w3schools.com/python/)  
 - :video_camera: [Code with harry](https://youtu.be/EyEqWFvLDT8)
 - :video_camera: [Python for Begineers](https://youtu.be/YfO28Ihehbk)
+- :file_folder: [Free Python Course](https://free-courses.lighthouselabs.ca/courses/programming-essentials-with-python)
+
 
 ### Django
 - :file_folder: [Django Official Documentation](https://docs.djangoproject.com/en/4.1/)
