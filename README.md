@@ -172,7 +172,7 @@ Add resources in other languages too :point_down:
 - :video_camera: [Django Tutorials By Code With Harry](https://www.youtube.com/watch?v=5BDgKJFZMl8&list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9)
 - :video_camera: [Django Projects By Dennis Ivy](https://www.youtube.com/playlist?list=PL-51WBLyFTg38qZ0KHkJj-paDQAAu9HiP)
 - :video_camera: [Django REST Framework Tutorials By Dennis Ivy](https://www.youtube.com/playlist?list=PL-51WBLyFTg3k9JKxT7ExP8Xvt4GeG5zc)
-- :video_camera: [Python Django Tutorial for Begineers By Programming with Mosh]https://www.youtube.com/watch?v=rHux0gMZ3Eg)
+- :video_camera: [Django Tutorial By Programming with Mosh](https://www.youtube.com/watch?v=rHux0gMZ3Eg)
 
 ### Flask
 - :video_camera: [Flask tutorial playlist by Tech with tim](https://youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX)
