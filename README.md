@@ -389,6 +389,8 @@ Add resources in other languages too :point_down:
   - :video_camera: [React JS Crash Course by Traversy Media](https://youtu.be/w7ejDZ8SWv8)
   - :video_camera: [React JS Code with Harry](https://www.youtube.com/watch?v=-mJFZp84TIY&list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt)
   - :books: [Scrimba React course](https://scrimba.com/learn/learnreact)
+  - :video_camera: [React JS-Tutorial for Begineers by Programming with Mosh](https://www.youtube.com/watch?v=Ke90Tje7VS0)
+  - :video_camera: [React JS Course by FreeCodeCamp.org](https://www.youtube.com/watch?v=bMknfKXIFA8)
   
   ### Redux
   - :file_folder: [React Redux Documentation](https://redux.js.org/introduction/getting-started)
