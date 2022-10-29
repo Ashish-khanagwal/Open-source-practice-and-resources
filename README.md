@@ -185,6 +185,8 @@ Add resources in other languages too :point_down:
 - :hammer_and_wrench: [Roadmap](https://roadmap.sh/nodejs)
 - :video_camera: [Freecodecamp Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE)
 - :file_folder: [Official Documentation](https://www.nodejs.org)
+- :video_camera: [Node JS Tutorial for beginners by Programming with Mosh](https://www.youtube.com/watch?v=TlB_eWDSMt4)
+- :video_camera: [Node JS Tutorials by Code with Harry](https://www.youtube.com/watch?v=BLl32FvcdVM)
 
 ### Express
 - :file_folder: [Official Documentation](https://expressjs.com/)
