@@ -99,9 +99,6 @@ Add resources in other languages too :point_down:
 - [Web3](#web3)
   - [Blockchain](#blockchain)
   
-
-  
-  
 ---
 
 ## Android Development
