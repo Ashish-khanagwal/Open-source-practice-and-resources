@@ -173,6 +173,8 @@ Add resources in other languages too :point_down:
 - :video_camera: [Django Projects By Dennis Ivy](https://www.youtube.com/playlist?list=PL-51WBLyFTg38qZ0KHkJj-paDQAAu9HiP)
 - :video_camera: [Django REST Framework Tutorials By Dennis Ivy](https://www.youtube.com/playlist?list=PL-51WBLyFTg3k9JKxT7ExP8Xvt4GeG5zc)
 - :video_camera: [Django Tutorial By Programming with Mosh](https://www.youtube.com/watch?v=rHux0gMZ3Eg)
+- :file_folder: [Django Integration With React Starter Code Boilerplate](https://github.com/ishaan812/django-react)
+- :video_camera: [Django Beginner Tutorial with Telusko](https://www.youtube.com/watch?v=OTmQOjsl0eg)
 
 ### Flask
 - :video_camera: [Flask tutorial playlist by Tech with tim](https://youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX)
@@ -391,6 +393,7 @@ Add resources in other languages too :point_down:
   - :video_camera: [React JS Crash Course by Traversy Media](https://youtu.be/w7ejDZ8SWv8)
   - :video_camera: [React JS Code with Harry](https://www.youtube.com/watch?v=-mJFZp84TIY&list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt)
   - :books: [Scrimba React course](https://scrimba.com/learn/learnreact)
+  - 
   
   ### Redux
   - :file_folder: [React Redux Documentation](https://redux.js.org/introduction/getting-started)
