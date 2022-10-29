@@ -485,6 +485,7 @@ Add resources in other languages too :point_down:
    * :file_folder: [ Websites for projects on deep learning( https://towardsdatascience.com/)]
    * :file_folder: [ Websites for projects on DL documentation( https://www.tensorflow.org/community)]
    * :file_folder: [ Websites for projects on DL documentation ( https://www.analyticsvidhya.com/)]
+   * :file_folder: [ Websites for projects on DL documentation ( https://medium.com/)]
    
   
   
