@@ -367,7 +367,6 @@ Add resources in other languages too :point_down:
   - :video_camera: [Full course 2022](https://www.youtube.com/watch?v=_zPNLidkNYk)
   - :video_camera: [Asynchronous Javascript](https://www.youtube.com/watch?v=ZYb_ZU8LNxs&list=LL&index=15)
   - :video_camera: [Code With Harry Javascript](https://www.youtube.com/watch?v=ER9SspLe4Hg&list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR)
- 
   
   ### API
   - :hammer_and_wrench: [GENERATING API KEY](https://www.youtube.com/watch?v=cF_MCAmuoI4)
@@ -421,7 +420,6 @@ Add resources in other languages too :point_down:
   - :bulb: [100 DAYS CSS CHALLENGE](https://100dayscss.com)
   - :bulb: [Practice for all programming languages](https://leetcode.com/problemset/all/)
 
-  
 ---  
 
 ## Git and GitHub
@@ -429,6 +427,7 @@ Add resources in other languages too :point_down:
 - :video_camera: [Complete Git and GitHub tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics&t=7s)
 - :video_camera: [Simple,easy and funny Git and GtHub tutorial](https://youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 - :video_camera: [Git and github in detail](https://youtu.be/RGOj5yH7evk)
+
 ---
 
 ## GitLab
@@ -481,7 +480,11 @@ Add resources in other languages too :point_down:
   * :video_camera: [Diabetes Prediction Using Logistics Regression](https://www.youtube.com/watch?v=YkkgEk_fZ9A)
   * :video_camera: [Image Classification Using CNN](https://www.youtube.com/watch?v=ejkRh9obVjk&ab_channel=edureka%21)
   * :video_camera: [Fake News Prediction Using Logistic Regression](https://www.youtube.com/watch?v=nacLBdyG6jE&list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6&index=4&ab_channel=Siddhardhan)
-  
+- :hammer_and_wrench: Get Started with DEEP LEARNING
+  * :file_folder: [projects on deep learning](https://towardsdatascience.com/)
+  * :file_folder: [projects on DL documentation](https://www.tensorflow.org/community)
+  * :file_folder: [projects on DL documentation](https://www.analyticsvidhya.com/)
+   
 ---
 
 ## Vue 
