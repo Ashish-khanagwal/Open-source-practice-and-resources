@@ -99,9 +99,6 @@ Add resources in other languages too :point_down:
 - [Web3](#web3)
   - [Blockchain](#blockchain)
   
-
-  
-  
 ---
 
 ## Android Development
@@ -370,7 +367,6 @@ Add resources in other languages too :point_down:
   - :video_camera: [Asynchronous Javascript](https://www.youtube.com/watch?v=ZYb_ZU8LNxs&list=LL&index=15)
   - :video_camera: [Code With Harry Javascript](https://www.youtube.com/watch?v=ER9SspLe4Hg&list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR)
  
-  
   ### API
   - :hammer_and_wrench: [GENERATING API KEY](https://www.youtube.com/watch?v=cF_MCAmuoI4)
   - :hammer_and_wrench: [GOOGLE MAP](https://www.w3schools.com/graphics/google_maps_intro.asp)
@@ -393,7 +389,6 @@ Add resources in other languages too :point_down:
   - :video_camera: [React JS Crash Course by Traversy Media](https://youtu.be/w7ejDZ8SWv8)
   - :video_camera: [React JS Code with Harry](https://www.youtube.com/watch?v=-mJFZp84TIY&list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt)
   - :books: [Scrimba React course](https://scrimba.com/learn/learnreact)
-  - 
   
   ### Redux
   - :file_folder: [React Redux Documentation](https://redux.js.org/introduction/getting-started)
