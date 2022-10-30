@@ -503,6 +503,7 @@ Add resources in other languages too :point_down:
 - :hammer_and_wrench: [Blockchain Developer Roadmap](https://roadmap.sh/blockchain)
 - :file_folder: [Ethereum official Documentation](https://ethereum.org/en/developers/docs/)
 - :file_folder: [Solidity documentation](https://docs.soliditylang.org/en/v0.8.17/)
+- :video_camera: [Solidity Full Course](https://www.youtube.com/playlist?list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg)
 - :video_camera: [Dapp University youtube](https://www.youtube.com/c/DappUniversity)
 - :bulb: [Developers Communities](https://github.com/commclassroom/roadmaps/tree/main/Blockchain/Communities)
 - :bulb: [Project Ideas](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-web3-development-4g74)
