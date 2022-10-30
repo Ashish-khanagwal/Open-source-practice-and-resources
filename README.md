@@ -501,7 +501,9 @@ Add resources in other languages too :point_down:
 - :bulb: [Francesco's GitHub repo](https://github.com/FrancescoXX/free-Web3-resources)
 - :books: [Best roadmap](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/#d12f)
 - :video_camera: [Web3 Roadmap](https://www.youtube.com/watch?v=Lz3m4BI1EfY&t=5s)
-
+- :hammer_and_wrench: [web3 from scratch to advance](https://www.encode.club/)
+- :hammer_and_wrench: [Become a web3 developer](https://eattheblocks.com/)
+ 
 ### Blockchain
 - :hammer_and_wrench: [Blockchain Developer Roadmap](https://roadmap.sh/blockchain)
 - :file_folder: [Ethereum official Documentation](https://ethereum.org/en/developers/docs/)
@@ -510,8 +512,7 @@ Add resources in other languages too :point_down:
 - :video_camera: [Dapp University youtube](https://www.youtube.com/c/DappUniversity)
 - :bulb: [Developers Communities](https://github.com/commclassroom/roadmaps/tree/main/Blockchain/Communities)
 - :bulb: [Project Ideas](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-web3-development-4g74)
-
-### 
+- :hammer_and_wrench: [Blockchain from scratch to advance](https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA)
   
 ---
  
