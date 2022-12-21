@@ -99,7 +99,6 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 
 ## Android Development
 
-- :books: [Android Roadmap.](https://blog.commclassroom.org/android-developer-roadmap-2022)
 - :video_camera: [Setting up Android Studio.](https://www.youtube.com/watch?v=0zx_eFyHRU0)
 - :video_camera: [Introduction to Android Studio.](https://www.youtube.com/watch?v=4M0hNugPJV8)
 - :file_folder: [Kotlin Documentation.](https://kotlinlang.org/docs/getting-started.html)
@@ -107,14 +106,11 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :video_camera: [Android Fundamentals.](https://youtube.com/playlist?list=PLQkwcJG4YTCTq1raTb5iMuxnEB06J1VHX)
 - :video_camera: [CS194A Android Development.](https://www.youtube.com/playlist?list=PL7NYbSE8uaBDcLkbXsQADdvBnVbavonGn)
 - :file_folder: [Networking: Retrofit.](https://square.github.io/retrofit/)
-- :video_camera: [Networking: Retrofit.](https://www.youtube.com/watch?v=k2N3EoZI3eU&list=PL7NYbSE8uaBDcLkbXsQADdvBnVbavonGn&index=7&t=303s)
 - :video_camera: [Retrofit crash course.](https://www.youtube.com/watch?v=t6Sql3WMAnk)
-- :video_camera: [Android Architecture.](https://www.youtube.com/watch?v=JuBpWzEoDw4&list=PL7NYbSE8uaBDcLkbXsQADdvBnVbavonGn&index=8)
 - :file_folder: [Android Architecture.](https://developer.android.com/topic/architecture)
 - :video_camera: [MVVM Architecture.](https://youtube.com/playlist?list=PLrnPJCHvNZuDihTpkRs6SpZhqgBqPU118)
 - :video_camera: [Understanding dependency injection](https://youtu.be/yunF2PgJlHU)
 - :video_camera: [Dagger-Hilt Guide.](https://youtu.be/bbMsuI2p1DQ)
-- :video*camera: [Firebase.](https://www.youtube.com/playlist?list=PLS1QulWo1RIbKsL9GqxOLbToLNFFQFJW*)
 - :video_camera: [Git for android developers.](https://youtube.com/playlist?list=PLQkwcJG4YTCQTEk4J4btiOJBV0PhKjJVS)
 - :bulb: [Some open source kotlin apps.](https://github.com/androiddevnotes/awesome-android-kotlin-apps)
 - :bulb: [Android Developer Roadmap 2022.](https://github.com/skydoves/android-developer-roadmap)
@@ -128,12 +124,8 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   <li>📹<a href="https://youtube.com/playlist?list=PL7NYbSE8uaBCSkZum6Z88RvjiXrTBpjT2">My maps application</a></li>
   <li>📹<a href="https://youtu.be/ct5etYgB5pQ">Currency converter app with MVVM architecture</a></li>
   <li>📹<a href="https://youtube.com/playlist?list=PLQkwcJG4YTCT-lTlkOmE-PpRkuyNXq6sW">Spotify clone with MVVM firebase</a></li>
-  <li>📹<a href="https://github.com/DhruviThakkar210/100-DAYS-OF-CODING-CHALLENGE/tree/main/FRONT%20END%20PROJECTS/DAY13(VALIDATION%20PART-2)">Validation forms using regex</a></li>
-   <li>📹<a href="https://github.com/DhruviThakkar210/100-DAYS-OF-CODING-CHALLENGE/tree/main/FRONT%20END%20PROJECTS/DAY6(SWIGGY'S%20SLIDER)">Owl carousel </a></li>
-   <li>📹<a href="https://github.com/Chayan-11/Euclidean-Algorithm-Calculator">Euclidean Algorithm Calculator</a></li>
 </ul>
 </details>
-
 
 ---
 
