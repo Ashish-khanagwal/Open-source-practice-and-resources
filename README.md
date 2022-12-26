@@ -435,7 +435,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :file_folder: [GitLab Documentation](https://docs.gitlab.com/)
 - :file_folder: [GitLab Installation](https://docs.gitlab.com/ee/install/)
 - :video_camera: [Complete GitLab Tutorial for Beginners](https://www.youtube.com/watch?v=8aV5AxJrHDg)
-- :video_camera: [Comparison of Github and GitLab and gives brief information about some of the features of GitLab](https://www.youtube.com/watch?v=m_DcXayqFy8)
+- :video_camera: [Comparison of Github and GitLab](https://www.youtube.com/watch?v=m_DcXayqFy8)
 
 ---
 
@@ -445,7 +445,6 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :hammer_and_wrench: [Code Triga](https://www.codetriage.com/)
 - :hammer_and_wrench: [First contributions](https://firstcontributions.github.io/)
 - :hammer_and_wrench: [EddieHub Issue Finder](https://finder.eddiehub.io/)
-- :hammer_and_wrench: [Issue Finder](https://github.com/voscarmv/issue-finder)
 
 ---
 
@@ -459,16 +458,15 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 ### Virtualization
 
 - :file_folder: [Virtualization](https://www.redhat.com/en/topics/virtualization/what-is-virtualization)
-- :video_camera: [Setup Linux Virtual Machine in Oracle VirtualBox](https://www.youtube.com/watch?v=Jy3b9laPlF8)
 
 ---
 
 ## Machine Learning
 
 - :hammer_and_wrench: Statistics and Probability For ML
-  - :video_camera: [Statistics - 1](https://www.youtube.com/playlist?list=PLKnIA16_RmvbVrE0eZO2bCaFln6jaNq-1)
+  - :video_camera: [Statistics - 1 in Hindi](https://www.youtube.com/playlist?list=PLKnIA16_RmvbVrE0eZO2bCaFln6jaNq-1)
   - :video_camera: [Statistics - 2](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbe9wDJGXc28KKr6lp5Jn2g)
-  - :video_camera: [Probability](https://www.youtube.com/playlist?list=PLKnIA16_RmvYNbPMB6ofVLRCcTPUAftdY)
+  - :video_camera: [Probability in Hindi](https://www.youtube.com/playlist?list=PLKnIA16_RmvYNbPMB6ofVLRCcTPUAftdY)
 - :hammer_and_wrench: Important Libraries In Python For ML
   - :file_folder: [NumPy Documentation](https://numpy.org/)
   - :video_camera: [NumPy Tutorial](https://www.youtube.com/watch?v=QUT1VHiLmmI&t=61s)
@@ -505,8 +503,6 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :bulb: [Francesco's GitHub repo](https://github.com/FrancescoXX/free-Web3-resources)
 - :books: [Best roadmap](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/#d12f)
 - :video_camera: [Web3 Roadmap](https://www.youtube.com/watch?v=Lz3m4BI1EfY&t=5s)
-- :hammer_and_wrench: [web3 from scratch to advance](https://www.encode.club/)
-- :hammer_and_wrench: [Become a web3 developer](https://eattheblocks.com/)
 
 ### Blockchain
 
