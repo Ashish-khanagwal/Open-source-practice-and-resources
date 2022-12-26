@@ -252,6 +252,8 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :hammer_and_wrench: [Coolors](https://coolors.co/)
 - :hammer_and_wrench: [Color Hunt](https://colorhunt.co/)
 - :hammer_and_wrench: [Dribbble](https://dribbble.com/)
+- :hammer_and_wrench: [CSS Gradient Generator](https://cssgradient.io/)
+- :hammer_and_wrench: [CSS Animated Backgrounds](https://animatedbackgrounds.me/)
 - :hammer_and_wrench: [Flat UI Colors](https://flatuicolors.com/)
 - :hammer_and_wrench: [FocoClipping](https://www.fococlipping.com/)
 - :hammer_and_wrench: [Freepik](https://www.freepik.com/)
@@ -291,28 +293,20 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 
 ### Java
 
-- :video_camera: [Pepcoding](https://youtube.com/playlist?list=PL-Jc9J83PIiFj7YSPl2ulcpwy-mwj1SSk)
 - :video_camera: [Java + DSA + Interview Preperation Playlist](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 
 ### C++
 
-- :video_camera: [Complete C++ Placement DSA course](https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
-- :video_camera: [Complete C++ with STL](https://youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL)
-- :video_camera: [Competitive Programming and DSA C++](https://www.youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-)
 - :video_camera: [Striver's Dynamic Programming Series](https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY)
 - :video_camera: [Graph Series by Striver](https://www.youtube.com/playlist?list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn)
-- :video_camera: [DSA by Code With Harry](https://www.youtube.com/watch?v=5_5oE5lgrhw&list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi)
 
 ---
 
 ## Frontend
 
-- :video_camera: [Full Course](https://www.youtube.com/watch?v=zJSY8tbf_ys)
 - :video_camera: [Frontend Web Development Bootcamp Course by freeCodeCamp](https://youtu.be/zJSY8tbf_ys)
-- :hammer_and_wrench: [Roadmap by Community Classroom](https://www.commclassroom.org/frontend-roadmap)
 - :hammer_and_wrench: [Full Stack Web Development Curriculum](https://fullstackopen.com/en/#course-contents)
 - :hammer_and_wrench: [Roadmap](https://roadmap.sh/frontend)
-- :hammer_and_wrench: [Frontend Projects](https://github.com/DhruviThakkar210/100-DAYS-OF-CODING-CHALLENGE/tree/main/FRONT%20END%20PROJECTS)
 - :hammer_and_wrench: [Full stack Roadmap](https://coggle.it/diagram/XfeRbWj7xy3dsEX8/t/web-development-in-2020)
 
 ### HTML
@@ -334,12 +328,10 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :books: [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - :books: [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - :books: [w3schools CSS](https://www.w3schools.com/css/)
-- :hammer_and_wrench: [CSS Gradient Generator](https://cssgradient.io/)
-- :hammer_and_wrench: [CSS Animated Backgrounds](https://animatedbackgrounds.me/)
 - :bulb: [CSS Grid - A simple visual cheatsheet by Malven](https://grid.malven.co/)
 - :bulb: [CSS Flex - A simple visual cheatsheet by Malven](https://flexbox.malven.co/)
 - :bulb: [CSSBattle](https://cssbattle.dev/)
-- :bulb: [Flexbox Froggy - Game To practice flex](https://flexboxfroggy.com/)
+- :bulb: [Flexbox Froggy - Game To practice flex](https://flexboxfroggy.com)
 - :bulb: [ Grid Garden - Game To practice Grid](https://cssgridgarden.com/)
 - :bulb: [CSS Resources](https://www.cssportal.com/css-resources.php)
 - :bulb: [Style Stage - A modern CSS showcase styled by community contributions](https://stylestage.dev/)
@@ -367,7 +359,6 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :file_folder: [JavaScript official documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - :video_camera: [Full course](https://www.youtube.com/watch?v=lI1ae4REbFM)
 - :video_camera: [Freecodecamp course](https://www.youtube.com/watch?v=PkZNo7MFNFg)
-- :video_camera: [Code with Harry Course](https://www.youtube.com/watch?v=hKB-YGF14SY)
 - :books: [w3schools JS](https://www.w3schools.com/js/)
 - :books: [Eloquent Javascript](https://eloquentjavascript.net/)
 - :books: [Scrimba JavaScript course](https://scrimba.com/learn/learnjavascript)
@@ -377,15 +368,6 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :file_folder: [The Modern JavaScript Tutorial](https://javascript.info)
 - :video_camera: [Full course 2022](https://www.youtube.com/watch?v=_zPNLidkNYk)
 - :video_camera: [Asynchronous Javascript](https://www.youtube.com/watch?v=ZYb_ZU8LNxs&list=LL&index=15)
-- :video_camera: [Code With Harry Javascript](https://www.youtube.com/watch?v=ER9SspLe4Hg&list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR)
-
-### API
-
-- :hammer_and_wrench: [GENERATING API KEY](https://www.youtube.com/watch?v=cF_MCAmuoI4)
-- :hammer_and_wrench: [GOOGLE MAP](https://www.w3schools.com/graphics/google_maps_intro.asp)
-  - :hammer_and_wrench: [GITHUB REPO](https://github.com/DhruviThakkar210/100-DAYS-OF-CODING-CHALLENGE/tree/main/API/MAP/maps)
-- :video_camera: [APIs for Beginners - How to use an API (Full Course / Tutorial)](https://www.youtube.com/watch?v=GZvSYJDk-us)
-- :hammer_and_wrench: [TWILIO API](https://www.twilio.com/)
 
 ### Typescript
 
@@ -399,10 +381,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :hammer_and_wrench: [React Roadmap](https://roadmap.sh/react)
 - :file_folder: [React Documentation](https://reactjs.org/docs/getting-started.html)
 - :video_camera: [Full course](https://www.youtube.com/watch?v=u6gSSpfsoOQ)
-- :video_camera: [React js tutorial in Hindi](https://youtube.com/playlist?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ)
-- :video_camera: [Complete react js tutorial with 5 Projects](https://youtu.be/EHTWMpD6S_0)
 - :video_camera: [React JS Crash Course by Traversy Media](https://youtu.be/w7ejDZ8SWv8)
-- :video_camera: [React JS Code with Harry](https://www.youtube.com/watch?v=-mJFZp84TIY&list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt)
 - :books: [Scrimba React course](https://scrimba.com/learn/learnreact)
 - :video_camera: [React JS-Tutorial for Begineers by Programming with Mosh](https://www.youtube.com/watch?v=Ke90Tje7VS0)
 - :video_camera: [React JS Course by FreeCodeCamp.org](https://www.youtube.com/watch?v=bMknfKXIFA8)
@@ -412,7 +391,6 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :file_folder: [React Redux Documentation](https://redux.js.org/introduction/getting-started)
 - :video_camera: [Full course Redux](https://www.youtube.com/watch?v=zrs7u6bdbUw)
 - :video_camera: [Full course Redux Toolkit](https://www.youtube.com/watch?v=bbkBuqC1rU4)
-- :video_camera: [Projects with Redux](https://www.youtube.com/watch?v=IQXjO0t4XRM&list=PLKhlp2qtUcSYC7EffnHzD-Ws2xG-j3aYo)
 - :books: [React Redux Blogs](https://awesomereact.com/)
 
 ### Angular
@@ -457,7 +435,6 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :file_folder: [GitLab Documentation](https://docs.gitlab.com/)
 - :file_folder: [GitLab Installation](https://docs.gitlab.com/ee/install/)
 - :video_camera: [Complete GitLab Tutorial for Beginners](https://www.youtube.com/watch?v=8aV5AxJrHDg)
-- :video_camera: [Learn GitLab and some cool features of GitLab also includes certification course](https://docs.gitlab.com/ee/tutorials/)
 - :video_camera: [Comparison of Github and GitLab and gives brief information about some of the features of GitLab](https://www.youtube.com/watch?v=m_DcXayqFy8)
 
 ---
