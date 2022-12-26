@@ -145,12 +145,8 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :video_camera: [Freecodecamp Full Course](https://www.youtube.com/watch?v=rfscVS0vtbw&t=112s)
 - :file_folder: [Official Documentation](https://www.python.org/)
 - :file_folder: [30 Days of Python (Repo)](https://github.com/Asabeneh/30-Days-Of-Python)
-- :books: [A Byte of Python](https://python.swaroopch.com)
 - :file_folder: [Awesome Python](https://awesome-python.com)
 - :file_folder: [Learn Python](https://www.learnpython.org/)
-- :file_folder: [w3Schools-Python](https://www.w3schools.com/python/)
-- :video_camera: [Code with harry](https://youtu.be/EyEqWFvLDT8)
-- :video_camera: [Python for Begineers](https://youtu.be/YfO28Ihehbk)
 - :file_folder: [Free Python Course](https://free-courses.lighthouselabs.ca/courses/programming-essentials-with-python)
 
 ### Django
@@ -159,7 +155,6 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :file_folder: [Django REST Official Documentation](https://www.django-rest-framework.org/)
 - :video_camera: [Freecodecamp Django Course](https://www.youtube.com/watch?v=F5mRW0jo-U4)
 - :video_camera: [Django Tutorials By Corey Schafer](https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
-- :video_camera: [Django Tutorials By Code With Harry](https://www.youtube.com/watch?v=5BDgKJFZMl8&list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9)
 - :video_camera: [Django Projects By Dennis Ivy](https://www.youtube.com/playlist?list=PL-51WBLyFTg38qZ0KHkJj-paDQAAu9HiP)
 - :video_camera: [Django REST Framework Tutorials By Dennis Ivy](https://www.youtube.com/playlist?list=PL-51WBLyFTg3k9JKxT7ExP8Xvt4GeG5zc)
 - :video_camera: [Django Tutorial By Programming with Mosh](https://www.youtube.com/watch?v=rHux0gMZ3Eg)
@@ -179,7 +174,6 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :video_camera: [Freecodecamp Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE)
 - :file_folder: [Official Documentation](https://www.nodejs.org)
 - :video_camera: [Node JS Tutorial for beginners by Programming with Mosh](https://www.youtube.com/watch?v=TlB_eWDSMt4)
-- :video_camera: [Node JS Tutorials by Code with Harry](https://www.youtube.com/watch?v=BLl32FvcdVM)
 
 ### Express
 
@@ -206,7 +200,6 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :video_camera: [Freecodecamp Full Course](https://www.youtube.com/watch?v=vtPkZShrvXQ&t=18s)
 - :file_folder: [Official Documentation](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle//)
 - :file_folder: [Spring REST Official Documentation](https://spring.io/projects/spring-restdocs)
-- :video_camera: [Spring Boot Tutorials](https://www.youtube.com/watch?v=zp2tqnpZiAU&list=PLVz2XdJiJQxw-jVLpBfVn2yqjvA1Ycceq)
 
 ### Laravel
 
@@ -250,7 +243,6 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :video_camera: [CS Fundamentals](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
 - :video_camera: [Computer Networking](https://www.youtube.com/watch?v=IPvYjXCsTg8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=3)
 - :video_camera: [Operating System](https://youtube.com/playlist?list=PL3swII2vlVoVbav6FV98pidq6BsTN4u56)
-- :video_camera: [Operating System](https://www.youtube.com/playlist?list=PLDzeHZWIZsTr3nwuTegHLa2qlI81QweYG)
 
 ---
 
