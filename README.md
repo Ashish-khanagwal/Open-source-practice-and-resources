@@ -162,6 +162,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 ### Flask
 
 - :video_camera: [Flask tutorial playlist by Tech with tim](https://youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX)
+- :video_camera: [Learn Flask for Python by FreeCodeCamp.org](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
 
 ### Go
 
@@ -385,6 +386,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :books: [Scrimba React course](https://scrimba.com/learn/learnreact)
 - :video_camera: [React JS-Tutorial for Begineers by Programming with Mosh](https://www.youtube.com/watch?v=Ke90Tje7VS0)
 - :video_camera: [React JS Course by FreeCodeCamp.org](https://www.youtube.com/watch?v=bMknfKXIFA8)
+- :video_camera: [React JS Course for Beginners by FreeCodeCamp.org](https://www.youtube.com/watch?v=u6gSSpfsoOQ&t=5s)
 
 ### Redux
 
