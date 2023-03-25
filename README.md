@@ -253,21 +253,28 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :hammer_and_wrench: [Coolors](https://coolors.co/)
 - :hammer_and_wrench: [Color Hunt](https://colorhunt.co/)
 - :hammer_and_wrench: [Dribbble](https://dribbble.com/)
+- :hammer_and_wrench: [Behance](https://www.behance.net/)
 - :hammer_and_wrench: [CSS Gradient Generator](https://cssgradient.io/)
 - :hammer_and_wrench: [CSS Animated Backgrounds](https://animatedbackgrounds.me/)
 - :hammer_and_wrench: [Flat UI Colors](https://flatuicolors.com/)
 - :hammer_and_wrench: [FocoClipping](https://www.fococlipping.com/)
 - :hammer_and_wrench: [Freepik](https://www.freepik.com/)
+- :hammer_and_wrench: [PngTree](https://www.pngtree.com/)
 - :hammer_and_wrench: [GoodUI](https://goodui.org/)
 - :hammer_and_wrench: [HueSnap](https://www.huesnap.com/)
 - :hammer_and_wrench: [Noun Project](https://thenounproject.com/)
+- :hammer_and_wrench: [Flaticon](https://www.flaticon.com/)
+- :hammer_and_wrench: [IconScout](https://www.iconscout.com/)
 - :hammer_and_wrench: [Pttrns](https://www.pttrns.com/)
 - :hammer_and_wrench: [SVG Repo](https://www.svgrepo.com/)
 - :hammer_and_wrench: [Streamline](https://www.streamlinehq.com/)
 - :hammer_and_wrench: [Pixabay](https://pixabay.com/)
 - :hammer_and_wrench: [Pexels](https://www.pexels.com/)
+- :hammer_and_wrench: [Pixelify](https://pixelify.net/)
 - :hammer_and_wrench: [Unsplash](https://unsplash.com/)
 - :hammer_and_wrench: [Vecteezy](https://www.vecteezy.com/)
+- :hammer_and_wrench: [Dafont](https://www.dafont.com/)
+- :hammer_and_wrench: [LottieFiles](https://lottiefiles.com/)
 - :books: [UX Planet](https://uxplanet.org/)
 
 ### Free Illustrations
@@ -429,6 +436,8 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :video_camera: [Complete Git and GitHub tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics&t=7s)
 - :video_camera: [Simple,easy and funny Git and GtHub tutorial](https://youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 - :video_camera: [Git and github in detail](https://youtu.be/RGOj5yH7evk)
+- :bulb: [Git Cheatsheet](https://user-images.githubusercontent.com/84919650/227744030-1a5d4ffa-a298-4a17-941b-95536ed5c589.png)
+
 
 ---
 
