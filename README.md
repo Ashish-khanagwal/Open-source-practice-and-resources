@@ -4,9 +4,9 @@
 
 # Gateway to Open Source | Best Programming Resources
 
-## Agenda:rocket:
+## Agenda :rocket:
 
-The Community's aim from this repository is not just providing best resources/content but also to <b>motivate/encourage beginners who've never contributed to Open Source, and help them get started with Open Source</b> in a easy way with friendy projects and with full support
+The Community's aim from this repository is not just to provide the best resources & content but also to <b>motivate & encourage beginners who have never contributed to Open Source, and help them get started with Open Source</b> in an easy way with friendy projects and with support.
 
 ## Share your contribution
 
@@ -528,4 +528,4 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 
 ---
 
-**Don't forget to give a star :star: to the repository, join the discord server for more updates**
+**Don't forget to give a star :star: to the repository, & join the discord server for more updates!**
