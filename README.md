@@ -1,7 +1,3 @@
-# :wave: Code For Community welcomes you
-
-<p align="center"><img src="https://user-images.githubusercontent.com/75534912/194343020-6cbd2485-c2ea-4779-87e2-9708238398e7.png"></p>
-
 # Gateway to Open Source | Best Programming Resources
 
 ## Agenda :rocket:
