@@ -144,6 +144,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :file_folder: [Awesome Python](https://awesome-python.com)
 - :file_folder: [Learn Python](https://www.learnpython.org/)
 - :file_folder: [Free Python Course](https://free-courses.lighthouselabs.ca/courses/programming-essentials-with-python)
+- :file_folder: [100 Days of Hell with Python Algo Trading?](https://youtube.com/playlist?list=PLUTKklmYVO37Ik8K1Ftdp4ULk3dMBCKYp&si=5Z-9wA6h18MDeQPz)
 
 ### Django
 
@@ -301,6 +302,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 
 ### C++
 
+- :video_camera: [Love babbar dsa playlist](https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&si=ciHWfoFmDDcNwE2k)
 - :video_camera: [Striver's Dynamic Programming Series](https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY)
 - :video_camera: [Graph Series by Striver](https://www.youtube.com/playlist?list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn)
 
