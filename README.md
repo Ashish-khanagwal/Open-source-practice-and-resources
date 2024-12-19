@@ -526,4 +526,28 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 
 ---
 
+## Information Security
+
+### Ethical Hacking
+
+- :video_camera: [Penetration Testing & Red Teaming](https://www.youtube.com/@HackerSploit/videos)
+- :books: [Introduction to Ethical Hacking](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-ethical-hacking)
+- :hammer_and_wrench: [Exploit Database](https://www.exploit-db.com/)
+- :hammer_and_wrench: [Metasploit](https://www.metasploit.com/)
+
+### Bug Bounty
+
+- :video_camera: [Bug Bounty Reports Explained](https://www.youtube.com/@BugBountyReportsExplained/videos)
+- :hammer_and_wrench: [Hacker101 CTF](https://ctf.hacker101.com/howtoplay)
+- :hammer_and_wrench: [Web Security Academy Learning Paths](https://portswigger.net/web-security/learning-paths)
+- :file_folder: [HackerOne Discplosed Vulnerabilities](https://hackerone.com/hacktivity/overview?queryString=disclosed%3Atrue&sortField=latest_disclosable_activity_at&sortDirection=DESC&pageIndex=0)
+
+### Frameworks & Standards
+
+- :file_folder: [OWASP Top Ten Application Security Risks](https://owasp.org/www-project-top-ten/)
+- :file_folder: [OWASP Top 10 API Security Risks](https://owasp.org/API-Security/editions/2023/en/0x11-t10/)
+- :file_folder: [ISO/IEC 27001:2022](https://www.iso.org/standard/27001)
+
+---
+
 **Don't forget to give a star :star: to the repository, & join the discord server for more updates!**
