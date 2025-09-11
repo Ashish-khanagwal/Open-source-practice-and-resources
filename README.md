@@ -86,6 +86,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - [Good first issue finder](#good-first-issue-finder)
 - [Linux](#linux)
   - [Virtualization](#virtualization)
+- [DevOps](#devops)
 - [Machine Learning](#machine-learning)
 - [Vue](#vue)
 - [Web3](#web3)
