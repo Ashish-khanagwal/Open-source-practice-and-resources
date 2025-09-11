@@ -64,6 +64,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - [Core CS](#core-cs)
 - [Design](#design)
   - [Free Illustrations](#free-illustrations)
+- [DevOps](#devops)
 - [Docker](#docker)
 - [DSA](#dsa)
   - [Java](#java-1)
@@ -86,7 +87,6 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - [Good first issue finder](#good-first-issue-finder)
 - [Linux](#linux)
   - [Virtualization](#virtualization)
-- [DevOps](#devops)
 - [Machine Learning](#machine-learning)
 - [Vue](#vue)
 - [Web3](#web3)
@@ -287,6 +287,23 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 
 ---
 
+## DevOps
+
+- :file_folder: [Visual roadmap of DevOps skills](https://roadmap.sh/devops)
+- :video_camera: [Computer Networking Full Course](https://www.youtube.com/watch?v=IPvYjXCsTg8) 
+- :video_camera: [Linux Commands for DevOps](https://www.youtube.com/watch?v=GzIFoJBVwh8)
+- :video_camera: [Linux Shell Scripting](https://www.youtube.com/watch?v=FL7K2A2KH7g)
+- :video_camera: [Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics)
+- :video_camera: [AWS Playlist](https://www.youtube.com/playlist?list=PLEiEAq2VkUULlNtIFhEQHo8gacvme35rz)
+- :file_folder: [Jenkins User Documentation](https://www.jenkins.io/doc/) 
+- :video_camera: [Jenkins Tutorial for Beginners](https://www.youtube.com/watch?v=6YZvp2GwT0A)
+- :file_folder: [Terraform Documentation](https://developer.hashicorp.com/terraform/docs) 
+- :video_camera: [Terraform & Infrastructure as Code](https://www.youtube.com/playlist?list=PL0tP8lerTbX3jYgiu3PEJAMuaIr64ZSpk)
+- :video_camera: [Ansible Tutorial](https://www.youtube.com/watch?v=SGB7EdiP39E)
+- :video_camera: [Docker & Kubernetes Course](https://www.youtube.com/watch?v=kTp5xUtcalw)
+
+---
+
 ## Docker
 
 - :video_camera: [kickstart docker](https://www.youtube.com/watch?v=gAkwW2tuIqE)
@@ -470,25 +487,6 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :file_folder: [Virtualization](https://www.redhat.com/en/topics/virtualization/what-is-virtualization)
 
 ---
-
-## DevOps
-
-- :file_folder: [Visual roadmap of DevOps skills](https://roadmap.sh/devops)
-- :video_camera: [Computer Networking Full Course](https://www.youtube.com/watch?v=IPvYjXCsTg8) 
-- :video_camera: [Linux Commands for DevOps](https://www.youtube.com/watch?v=GzIFoJBVwh8)
-- :video_camera: [Linux Shell Scripting](https://www.youtube.com/watch?v=FL7K2A2KH7g)
-- :video_camera: [Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics)
-- :video_camera: [AWS Playlist](https://www.youtube.com/playlist?list=PLEiEAq2VkUULlNtIFhEQHo8gacvme35rz)
-- :file_folder: [Jenkins User Documentation](https://www.jenkins.io/doc/) 
-- :video_camera: [Jenkins Tutorial for Beginners](https://www.youtube.com/watch?v=6YZvp2GwT0A)
-- :file_folder: [Terraform Documentation](https://developer.hashicorp.com/terraform/docs) 
-- :video_camera: [Terraform & Infrastructure as Code](https://www.youtube.com/playlist?list=PL0tP8lerTbX3jYgiu3PEJAMuaIr64ZSpk)
-- :video_camera: [Ansible Tutorial](https://www.youtube.com/watch?v=SGB7EdiP39E)
-- :video_camera: [Docker & Kubernetes Course](https://www.youtube.com/watch?v=kTp5xUtcalw)
-
-
----
-
 
 ## Machine Learning
 
