@@ -64,6 +64,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - [Core CS](#core-cs)
 - [Design](#design)
   - [Free Illustrations](#free-illustrations)
+- [DevOps](#devops)
 - [Docker](#docker)
 - [DSA](#dsa)
   - [Java](#java-1)
@@ -283,6 +284,23 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :hammer_and_wrench: [Many pixels](https://www.manypixels.co/gallery)
 - :hammer_and_wrench: [Drawkit](https://www.drawkit.com/)
 - :video_camera: [free illustration apps](https://www.youtube.com/watch?v=g43CV4X3rmk)
+
+---
+
+## DevOps
+
+- :file_folder: [Visual roadmap of DevOps skills](https://roadmap.sh/devops)
+- :video_camera: [Computer Networking Full Course](https://www.youtube.com/watch?v=IPvYjXCsTg8) 
+- :video_camera: [Linux Commands for DevOps](https://www.youtube.com/watch?v=GzIFoJBVwh8)
+- :video_camera: [Linux Shell Scripting](https://www.youtube.com/watch?v=FL7K2A2KH7g)
+- :video_camera: [Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics)
+- :video_camera: [AWS Playlist](https://www.youtube.com/playlist?list=PLEiEAq2VkUULlNtIFhEQHo8gacvme35rz)
+- :file_folder: [Jenkins User Documentation](https://www.jenkins.io/doc/) 
+- :video_camera: [Jenkins Tutorial for Beginners](https://www.youtube.com/watch?v=6YZvp2GwT0A)
+- :file_folder: [Terraform Documentation](https://developer.hashicorp.com/terraform/docs) 
+- :video_camera: [Terraform & Infrastructure as Code](https://www.youtube.com/playlist?list=PL0tP8lerTbX3jYgiu3PEJAMuaIr64ZSpk)
+- :video_camera: [Ansible Tutorial](https://www.youtube.com/watch?v=SGB7EdiP39E)
+- :video_camera: [Docker & Kubernetes Course](https://www.youtube.com/watch?v=kTp5xUtcalw)
 
 ---
 
