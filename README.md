@@ -470,6 +470,25 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 
 ---
 
+## DevOps
+
+- :file_folder: [DevOps Roadmap](https://roadmap.sh/devops) – Visual roadmap of DevOps skills  
+- :video_camera: [Computer Networking Full Course](https://www.youtube.com/watch?v=IPvYjXCsTg8) – FreeCodeCamp Networking basics  
+- :video_camera: [Linux Commands for DevOps](https://www.youtube.com/watch?v=GzIFoJBVwh8) – Essential Linux commands  
+- :video_camera: [Linux Shell Scripting](https://www.youtube.com/watch?v=FL7K2A2KH7g) – Shell scripting for beginners  
+- :video_camera: [Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics) – Git & GitHub crash course  
+- :video_camera: [AWS Playlist](https://www.youtube.com/playlist?list=PLEiEAq2VkUULlNtIFhEQHo8gacvme35rz) – AWS basics and services  
+- :file_folder: [Jenkins User Documentation](https://www.jenkins.io/doc/) – Official Jenkins docs  
+- :video_camera: [Jenkins Tutorial for Beginners](https://www.youtube.com/watch?v=6YZvp2GwT0A) – Jenkins setup & pipelines  
+- :file_folder: [Terraform Documentation](https://developer.hashicorp.com/terraform/docs) – Official Terraform docs  
+- :video_camera: [Terraform & Infrastructure as Code](https://www.youtube.com/playlist?list=PL0tP8lerTbX3jYgiu3PEJAMuaIr64ZSpk) – Video tutorials on Terraform  
+- :video_camera: [Ansible Tutorial](https://www.youtube.com/watch?v=SGB7EdiP39E) – Ansible basics for automation  
+- :video_camera: [Docker & Kubernetes Crash Course](https://www.youtube.com/watch?v=kTp5xUtcalw) – Containers & orchestration basics  
+
+
+---
+
+
 ## Machine Learning
 
 - :hammer_and_wrench: Statistics and Probability For ML
