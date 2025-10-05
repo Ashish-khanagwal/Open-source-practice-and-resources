@@ -393,6 +393,18 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :video_camera: [Full course 2022](https://www.youtube.com/watch?v=_zPNLidkNYk)
 - :video_camera: [Asynchronous Javascript](https://www.youtube.com/watch?v=ZYb_ZU8LNxs&list=LL&index=15)
 
+### API
+
+- :file_folder: [MDN Web APIs Reference](https://developer.mozilla.org/en-US/docs/Web/API)
+- :file_folder: [REST API Tutorial](https://restfulapi.net/)
+- :video_camera: [APIs for Beginners - freeCodeCamp](https://www.youtube.com/watch?v=GZvSYJDk-us)
+- :hammer_and_wrench: [Postman - API Testing Tool](https://www.postman.com/)
+- :hammer_and_wrench: [Public APIs Collection](https://github.com/public-apis/public-apis)
+- :file_folder: [GraphQL Documentation](https://graphql.org/learn/)
+- :video_camera: [GraphQL Full Course](https://www.youtube.com/watch?v=ed8SzALpx1Q)
+- :hammer_and_wrench: [RapidAPI - API Marketplace](https://rapidapi.com/)
+- :file_folder: [Swagger/OpenAPI Documentation](https://swagger.io/docs/)
+
 ### Typescript
 
 - :file_folder: [Typescript official documentation](https://www.typescriptlang.org/docs)
