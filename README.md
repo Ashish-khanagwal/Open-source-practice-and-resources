@@ -199,6 +199,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :video_camera: [Freecodecamp Full Course](https://www.youtube.com/watch?v=vtPkZShrvXQ&t=18s)
 - :file_folder: [Official Documentation](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle//)
 - :file_folder: [Spring REST Official Documentation](https://spring.io/projects/spring-restdocs)
+- :video_camera: [Spring Boot Tutorial for Beginners](https://www.youtube.com/watch?v=gJrjgg1KVL4)
 
 ### Laravel
 
