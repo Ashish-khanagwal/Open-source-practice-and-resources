@@ -70,18 +70,18 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   - [Java](#java-1)
   - [C++](#c)
 - [Frontend](#frontend)
-  - [HTML](#html)
+  - [Angular](#angular)
+  - [API](#api)
   - [CSS](#css)
   - [CSS Frameworks](#css-frameworks)
-  - [JavaScript](#javascript)
-  - [API](#api)
-  - [Typescript](#typescript)
-  - [React](#react)
-  - [Redux](#redux)
-  - [Angular](#angular)
   - [Ember](#ember)
+  - [HTML](#html)
+  - [JavaScript](#javascript)
   - [Next](#next)
   - [Practice](#practice)
+  - [React](#react)
+  - [Redux](#redux)
+  - [Typescript](#typescript)
 - [Git and GitHub](#git-and-github)
 - [GitLab](#gitlab)
 - [Good first issue finder](#good-first-issue-finder)
@@ -333,18 +333,22 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :hammer_and_wrench: [Roadmap](https://roadmap.sh/frontend)
 - :hammer_and_wrench: [Full stack Roadmap](https://coggle.it/diagram/XfeRbWj7xy3dsEX8/t/web-development-in-2020)
 
-### HTML
+### Angular
 
-- :file_folder: [official documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- :books: [w3schools HTML](https://www.w3schools.com/tags/)
-- :books: [geeksforgeeks html](https://www.geeksforgeeks.org/html/)
-- :books: [project for html](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app)
-- :video_camera: [Html from basis](https://youtu.be/_Mz69752y_8)
-- :books: [tutorialspoint html](https://www.tutorialspoint.com/internet_technologies/html)
-- :video_camera: [HTML full course](https://www.youtube.com/watch?v=pQN-pnXPaVg)
-- :video_camera: [HTML Crash Course](https://www.youtube.com/watch?v=qz0aGYrrlhU&ab_channel=ProgrammingwithMosh)
-- :file_folder: [Learn HTML!](https://web.dev/learn/html/)
-- :file_folder: [Interneting is hard](https://www.internetingishard.com)
+- :file_folder: [Angular Documentation](https://angular.io/docs)
+- :video_camera: [Full course](https://www.youtube.com/watch?v=3qBXWUpoPHo&t=44506s)
+
+### API
+
+- :file_folder: [MDN Web APIs Reference](https://developer.mozilla.org/en-US/docs/Web/API)
+- :file_folder: [REST API Tutorial](https://restfulapi.net/)
+- :video_camera: [APIs for Beginners - freeCodeCamp](https://www.youtube.com/watch?v=GZvSYJDk-us)
+- :hammer_and_wrench: [Postman - API Testing Tool](https://www.postman.com/)
+- :hammer_and_wrench: [Public APIs Collection](https://github.com/public-apis/public-apis)
+- :file_folder: [GraphQL Documentation](https://graphql.org/learn/)
+- :video_camera: [GraphQL Full Course](https://www.youtube.com/watch?v=ed8SzALpx1Q)
+- :hammer_and_wrench: [RapidAPI - API Marketplace](https://rapidapi.com/)
+- :file_folder: [Swagger/OpenAPI Documentation](https://swagger.io/docs/)
 
 ### CSS
 
@@ -378,6 +382,24 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :file_folder: [Bulma Documentation](https://bulma.io/documentation/)
 - :file_folder: [Foundation Documentation](https://get.foundation/)
 
+### Ember
+
+- :file_folder: [Ember Documentation](https://guides.emberjs.com/release/)
+- :books: [Tutorial](https://guides.emberjs.com/release/tutorial/part-1/)
+
+### HTML
+
+- :file_folder: [official documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- :books: [w3schools HTML](https://www.w3schools.com/tags/)
+- :books: [geeksforgeeks html](https://www.geeksforgeeks.org/html/)
+- :books: [project for html](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app)
+- :video_camera: [Html from basis](https://youtu.be/_Mz69752y_8)
+- :books: [tutorialspoint html](https://www.tutorialspoint.com/internet_technologies/html)
+- :video_camera: [HTML full course](https://www.youtube.com/watch?v=pQN-pnXPaVg)
+- :video_camera: [HTML Crash Course](https://www.youtube.com/watch?v=qz0aGYrrlhU&ab_channel=ProgrammingwithMosh)
+- :file_folder: [Learn HTML!](https://web.dev/learn/html/)
+- :file_folder: [Interneting is hard](https://www.internetingishard.com)
+
 ### JavaScript
 
 - :file_folder: [JavaScript official documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -393,24 +415,21 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :video_camera: [Full course 2022](https://www.youtube.com/watch?v=_zPNLidkNYk)
 - :video_camera: [Asynchronous Javascript](https://www.youtube.com/watch?v=ZYb_ZU8LNxs&list=LL&index=15)
 
-### API
+### Next
 
-- :file_folder: [MDN Web APIs Reference](https://developer.mozilla.org/en-US/docs/Web/API)
-- :file_folder: [REST API Tutorial](https://restfulapi.net/)
-- :video_camera: [APIs for Beginners - freeCodeCamp](https://www.youtube.com/watch?v=GZvSYJDk-us)
-- :hammer_and_wrench: [Postman - API Testing Tool](https://www.postman.com/)
-- :hammer_and_wrench: [Public APIs Collection](https://github.com/public-apis/public-apis)
-- :file_folder: [GraphQL Documentation](https://graphql.org/learn/)
-- :video_camera: [GraphQL Full Course](https://www.youtube.com/watch?v=ed8SzALpx1Q)
-- :hammer_and_wrench: [RapidAPI - API Marketplace](https://rapidapi.com/)
-- :file_folder: [Swagger/OpenAPI Documentation](https://swagger.io/docs/)
+- :file_folder: [Next.js Documentation](https://nextjs.org/docs/advanced-features/custom-document)
+- :video_camera: [Full course](https://youtu.be/1WmNXEVia8I)
 
-### Typescript
+### Practice
 
-- :file_folder: [Typescript official documentation](https://www.typescriptlang.org/docs)
-- :books: [w3schools Typescript](https://www.w3schools.com/typescript)
-- :video_camera: [Freecodecamp course](https://youtu.be/gp5H0Vw39yw)
-- :books: [Learn Typescript Github Repo](https://github.com/TypeStrong/learn-typescript)
+- :bulb: [Frontend Mentor](https://www.frontendmentor.io/)
+- :bulb: [Frontend Practice](https://www.frontendpractice.com/)
+- :bulb: [Codepen challenges](https://codepen.io/challenges/)
+- :bulb: [Codewell](https://www.codewell.cc/)
+- :bulb: [Javascript30](https://javascript30.com/)
+- :bulb: [Codewars](https://www.codewars.com/)
+- :bulb: [100 DAYS CSS CHALLENGE](https://100dayscss.com)
+- :bulb: [Practice for all programming languages](https://leetcode.com/problemset/all/)
 
 ### React
 
@@ -430,31 +449,12 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :video_camera: [Full course Redux Toolkit](https://www.youtube.com/watch?v=bbkBuqC1rU4)
 - :books: [React Redux Blogs](https://awesomereact.com/)
 
-### Angular
+### Typescript
 
-- :file_folder: [Angular Documentation](https://angular.io/docs)
-- :video_camera: [Full course](https://www.youtube.com/watch?v=3qBXWUpoPHo&t=44506s)
-
-### Ember
-
-- :file_folder: [Ember Documentation](https://guides.emberjs.com/release/)
-- :books: [Tutorial](https://guides.emberjs.com/release/tutorial/part-1/)
-
-### Next
-
-- :file_folder: [Next.js Documentation](https://nextjs.org/docs/advanced-features/custom-document)
-- :video_camera: [Full course](https://youtu.be/1WmNXEVia8I)
-
-### Practice
-
-- :bulb: [Frontend Mentor](https://www.frontendmentor.io/)
-- :bulb: [Frontend Practice](https://www.frontendpractice.com/)
-- :bulb: [Codepen challenges](https://codepen.io/challenges/)
-- :bulb: [Codewell](https://www.codewell.cc/)
-- :bulb: [Javascript30](https://javascript30.com/)
-- :bulb: [Codewars](https://www.codewars.com/)
-- :bulb: [100 DAYS CSS CHALLENGE](https://100dayscss.com)
-- :bulb: [Practice for all programming languages](https://leetcode.com/problemset/all/)
+- :file_folder: [Typescript official documentation](https://www.typescriptlang.org/docs)
+- :books: [w3schools Typescript](https://www.w3schools.com/typescript)
+- :video_camera: [Freecodecamp course](https://youtu.be/gp5H0Vw39yw)
+- :books: [Learn Typescript Github Repo](https://github.com/TypeStrong/learn-typescript)
 
 ---
 
