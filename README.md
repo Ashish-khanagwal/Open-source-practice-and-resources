@@ -193,6 +193,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :file_folder: [Java Course from Great Learning](https://www.mygreatlearning.com/academy/learn-for-free/courses/java-programming)
 - :file_folder: [Java mooc course](https://java-programming.mooc.fi/)
 - :video_camera: [Freecodecamp java for beginners course](https://youtu.be/A74TOX803D0)
+- :file_folder: [GeeksforGeeks Java Tutorial](https://www.geeksforgeeks.org/java/java/)
 
 ### Spring Boot
 
