@@ -200,6 +200,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :file_folder: [Official Documentation](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle//)
 - :file_folder: [Spring REST Official Documentation](https://spring.io/projects/spring-restdocs)
 - :video_camera: [Spring Boot Tutorial for Beginners](https://www.youtube.com/watch?v=gJrjgg1KVL4)
+- :video_camera: [Spring Boot 3 Tutorials](https://www.youtube.com/watch?v=Cuo94eNTk6g&list=PL0zysOflRCenP0zRBlZLGmHoFL_zsIJu0)
 
 ### Laravel
 
